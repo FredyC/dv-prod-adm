@@ -1,0 +1,2 @@
+webpackJsonp([19],{1007:function(i,n,o){var e,r,t,l;l=function(i){i.register("locale","fr-ch",{delimiters:{thousands:"'",decimal:"."},abbreviations:{thousand:"k",million:"m",billion:"b",trillion:"t"},ordinal:function(i){return 1===i?"er":"e"},currency:{symbol:"CHF"}})},r=[o(323)],void 0===(t="function"===typeof(e=l)?e.apply(n,r):e)||(i.exports=t)}});
+//# sourceMappingURL=numeral-28.00891ad3.chunk.js.map

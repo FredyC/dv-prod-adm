@@ -1,0 +1,2 @@
+webpackJsonp([15],{1011:function(i,n,o){var l,t,e,r;r=function(i){i.register("locale","ja",{delimiters:{thousands:",",decimal:"."},abbreviations:{thousand:"\u5343",million:"\u767e\u4e07",billion:"\u5341\u5104",trillion:"\u5146"},ordinal:function(i){return"."},currency:{symbol:"\xa5"}})},t=[o(323)],void 0===(e="function"===typeof(l=r)?l.apply(n,t):l)||(i.exports=e)}});
+//# sourceMappingURL=numeral-36.8421caab.chunk.js.map

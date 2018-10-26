@@ -1,2 +1,0 @@
-webpackJsonp([6],{1018:function(i,n,o){var l,r,t,e;e=function(i){i.register("locale","ru",{delimiters:{thousands:" ",decimal:","},abbreviations:{thousand:"\u0442\u044b\u0441.",million:"\u043c\u043b\u043d.",billion:"\u043c\u043b\u0440\u0434.",trillion:"\u0442\u0440\u043b\u043d."},ordinal:function(){return"."},currency:{symbol:"\u0440\u0443\u0431."}})},r=[o(323)],void 0===(t="function"===typeof(l=e)?l.apply(n,r):l)||(i.exports=t)}});
-//# sourceMappingURL=numeral-54.278e3d4a.chunk.js.map
