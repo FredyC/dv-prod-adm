@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[162],{754:function(n,i,o){var e,l,t;l=[o(121)],void 0===(t="function"===typeof(e=function(n){n.register("locale","uk-ua",{delimiters:{thousands:" ",decimal:","},abbreviations:{thousand:"\u0442\u0438\u0441.",million:"\u043c\u043b\u043d",billion:"\u043c\u043b\u0440\u0434",trillion:"\u0431\u043b\u043d"},ordinal:function(){return""},currency:{symbol:"\u20b4"}})})?e.apply(i,l):e)||(n.exports=t)}}]);
-//# sourceMappingURL=numeral-64.c65cb3ed.chunk.js.map
