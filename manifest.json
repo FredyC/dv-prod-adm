@@ -15,7 +15,6 @@
   ],
   "start_url": "/",
   "display": "fullscreen",
-  "orientation": "landscape",
   "theme_color": "#000000",
   "background_color": "#322e2d"
 }
