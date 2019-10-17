@@ -1,0 +1,2 @@
+(this.webpackJsonpspeedlo=this.webpackJsonpspeedlo||[]).push([[14],{563:function(i,o,e){var n,l,s;l=[e(131)],void 0===(s="function"===typeof(n=function(i){i.register("locale","fr-ca",{delimiters:{thousands:" ",decimal:","},abbreviations:{thousand:"k",million:"M",billion:"G",trillion:"T"},ordinal:function(i){return 1===i?"er":"e"},currency:{symbol:"$"}})})?n.apply(o,l):n)||(i.exports=s)}}]);
+//# sourceMappingURL=numeral-26.711f37cf.chunk.js.map

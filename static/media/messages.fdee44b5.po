@@ -1,0 +1,1720 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2018-09-12 21:15+0200\n"
+"Mime-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: sk\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/segments/zones/molecules/ZoneFormContent.tsx:35
+msgid "<0>Delivery cost</0><1>according order total cost</1>"
+msgstr "<0>Cena rozvozu</0><1>podľa celkovej ceny objednávky</1>"
+
+#: src/segments/createorder/molecules/OrderFormDeliverAt.tsx:22
+msgid "ASAP"
+msgstr "Čo najskôr"
+
+#: src/segments/createorder/molecules/OrderAcceptButton.tsx:10
+#: src/segments/order/molecules/OrderStateButton.tsx:9
+msgid "Accept order"
+msgstr "Prijať objednávku"
+
+#: src/segments/businesshours/organisms/SpecificBusinessHourForm.tsx:75
+#: src/segments/menu/atoms/MenuSuggestionPanel.tsx:19
+#: src/segments/menu/atoms/MenuSuggestionPanel.tsx:19
+msgid "Add"
+msgstr "Pridať"
+
+#: src/segments/zones/molecules/ZoneFormPriceRules.tsx:114
+msgid "Add another range"
+msgstr "Pridať dalšie rozpätie"
+
+#: src/segments/businesshours/molecules/BusinessHoursWeekday.tsx:52
+msgid "Add business hour"
+msgstr "Pridať otváraciu dobu"
+
+#: src/segments/menu/organisms/RecipeIngredientsView.tsx:20
+msgid "Add ingredient"
+msgstr "Pridať prísadu"
+
+#: src/segments/createorder/molecules/OrderSidedishModal.tsx:24
+msgid "Add something else to {0}?"
+msgstr "Pridať niečo ďalšie k {0}?"
+
+#: src/segments/businesshours/pages/BusinessHoursPage.tsx:36
+msgid "Add specific business hour"
+msgstr "Pridať mimoriadnu otváraciu dobu"
+
+#: src/segments/menu/pages/MenuRecipePage.tsx:61
+msgid "Add to category"
+msgstr "Pridať do kategórie"
+
+#: src/segments/stock/molecules/StockDepositConfirmButton.tsx:6
+msgid "Add {0} {1}"
+msgstr "Pridať {0} {1}"
+
+#: src/segments/createorder/molecules/OrderFormDeliveryAddress.tsx:64
+msgid "Address is not within any delivery zone"
+msgstr "Adresa nie je v žiadnej rozvozovej zóne"
+
+#: src/segments/createorder/molecules/OrderFormDeliveryAddress.tsx:58
+msgid "Address is within delivery zone"
+msgstr "Adresa je v zóne dovozu"
+
+#: src/atoms/SelectControl.tsx:52
+msgid "All"
+msgstr "Všetko"
+
+#: src/segments/menu/molecules/RecipeAllergenDisplay.tsx:19
+msgid "Allergens based on stock cards"
+msgstr "Alergény podľa skladovej karty"
+
+#: src/segments/stock/molecules/StockTransferTable.tsx:58
+msgid "Amount"
+msgstr "Množstvo"
+
+#: src/pages/ErrorPage.tsx:19
+msgid "Application error"
+msgstr "Chyba aplikácie"
+
+#: src/segments/settings/pages/UserMenuPage.tsx:12
+msgid "Application language"
+msgstr "Jazyk aplikácie"
+
+#: src/app/UpdateHandler.tsx:109
+msgid "Application will be restarted in {remainingSeconds} to apply available update."
+msgstr "Aplikácia bude kvôli aktualizácií reštartovaná za {remainingSeconds}."
+
+#: src/segments/overview/molecules/ClosureSubmitButton.tsx:9
+msgid "Are you sure?"
+msgstr "Ste si istý?"
+
+#: src/segments/createorder/molecules/OrderFormDeliverAt.tsx:23
+msgid "At time"
+msgstr "V čase"
+
+#: src/segments/menu/pages/MenuRecipePage.tsx:52
+msgid "Attach sidedish category"
+msgstr "Priradiť prídavkovú kategóriu"
+
+#: src/segments/zones/molecules/ZoneFormControls.tsx:18
+msgid "Back"
+msgstr "Späť"
+
+#: src/segments/branchpreferences/pages/BranchPreferencesPage.tsx:10
+#: src/segments/settings/organisms/PreferencesButton.tsx:6
+msgid "Branch preferences"
+msgstr "Nastavenie pobočky"
+
+#: src/segments/order/organisms/FastClose.tsx:43
+msgid "Branch will open again {minutesLocalized}."
+msgstr "Pobočka otvára {minutesLocalized}."
+
+#: src/segments/businesshours/pages/BusinessHoursPage.tsx:14
+#: src/segments/dashboard/pages/SettingsDashboardPage.tsx:12
+msgid "Business hours"
+msgstr "Otváracie hodiny"
+
+#: src/segments/overview/molecules/SalesStatisticsContent.tsx:37
+msgid "By category"
+msgstr "Podľa kategórie"
+
+#: src/segments/overview/molecules/SalesStatisticsContent.tsx:45
+msgid "By driver"
+msgstr "Podla vodiča"
+
+#: src/segments/overview/molecules/SalesStatisticsContent.tsx:41
+msgid "By type"
+msgstr "Podla typu"
+
+#: src/segments/stock/pages/StockTransferPage.tsx:62
+msgid "Can't access page"
+msgstr "Stránka nie je prístupná"
+
+#: src/segments/createorder/molecules/OrderSidedishModal.tsx:37
+#: src/segments/menu/molecules/ImageCropModal.tsx:57
+#: src/segments/order/hooks/useTimeSelectionDialog.tsx:17
+#: src/segments/order/organisms/FastClose.tsx:66
+msgid "Cancel"
+msgstr "Zrušiť"
+
+#: src/segments/createorder/molecules/OrderCancelButton.tsx:7
+#: src/segments/order/molecules/OrderCancelButton.tsx:13
+msgid "Cancel order"
+msgstr "Zrušiť objednávku"
+
+#: src/atoms/BaseMap.tsx:41
+msgid "Cannot load map right now. Please try again later."
+msgstr "Momentálne neviem načítať mapu. Skúste znovu neskôr."
+
+#: src/segments/login/models/PasswordLoginModel.ts:58
+msgid "Cannot login right now, please try again later"
+msgstr "Nie je možné se prihlásiť, prosím skúste to neskôr."
+
+#: src/segments/menu/organisms/StockFormPrimary.tsx:18
+#: src/segments/menu/organisms/StockListTable.tsx:25
+#: src/segments/stock/molecules/StockDepositResultTable.tsx:12
+#: src/segments/stock/molecules/StockTransferTable.tsx:61
+msgid "Card code"
+msgstr "Kód karty"
+
+#: src/segments/menu/organisms/StockFormPrimary.tsx:17
+#: src/segments/menu/organisms/StockListTable.tsx:26
+#: src/segments/stock/molecules/StockDepositResultTable.tsx:13
+#: src/segments/stock/molecules/StockTransferTable.tsx:62
+msgid "Card name"
+msgstr "Názov karty"
+
+#: src/segments/menu/organisms/StockFormPrimary.tsx:21
+#: src/segments/menu/organisms/StockFormPrimary.tsx:21
+#: src/segments/menu/organisms/StockListTable.tsx:29
+#: src/segments/stock/molecules/StockDepositResultTable.tsx:14
+msgid "Card note"
+msgstr "Poznámka karty"
+
+#: src/segments/menu/organisms/StockListTable.tsx:27
+#: src/segments/stock/molecules/StockDepositResultTable.tsx:11
+#: src/segments/stock/molecules/StockTransferTable.tsx:60
+msgid "Card stock"
+msgstr "Sklad"
+
+#: src/segments/createorder/organisms/OrderCart.tsx:23
+msgid "Cart is empty"
+msgstr "Košík je prázdný"
+
+#: src/segments/dashboard/pages/SettingsDashboardPage.tsx:16
+msgid "Categories"
+msgstr "Kategórie"
+
+#: src/segments/menu/pages/MenuRecipePage.tsx:56
+msgid "Category assignments"
+msgstr "Pridelené kategóriou"
+
+#: src/segments/menu/organisms/CategoryFormPrimary.tsx:19
+msgid "Category internal note"
+msgstr "Neverejná poznámka kategórie"
+
+#: src/segments/menu/organisms/CategoryFormPrimary.tsx:18
+msgid "Category name"
+msgstr "Názov kategórie"
+
+#: src/segments/menu/organisms/CategoryFormLoader.tsx:25
+msgid "Category name in default language must be entered."
+msgstr "Názov kategórie v predvolenom jazyku musí byť zadaný."
+
+#: src/segments/menu/pages/MenuCategoryListPage.tsx:43
+msgid "Category of covers"
+msgstr "Kategória manipulačného poplatku"
+
+#: src/segments/menu/pages/MenuCategoryListPage.tsx:35
+msgid "Category of recipes"
+msgstr "Kategórie receptúr"
+
+#: src/segments/menu/pages/MenuCategoryListPage.tsx:39
+msgid "Category of sidedish"
+msgstr "Prídavková kategória"
+
+#: src/segments/menu/pages/MenuCategoryListPage.tsx:22
+msgid "Category overview"
+msgstr "Prehľad kategórií"
+
+#: src/segments/order/molecules/OrderPaymentMethod.tsx:25
+msgid "Change"
+msgstr "Zmena"
+
+#: src/segments/order/organisms/BranchDefaultTime.tsx:57
+msgid "Change default time of delivery to customer (in minutes)"
+msgstr "Zmena prednastaveného času dovoz ku zákazníkovi (v minútach)"
+
+#: src/segments/order/organisms/BranchDefaultTime.tsx:58
+msgid "Change default time of pickup (in minutes)"
+msgstr "Zmeniť prednastavený čas vyzdvihnutia (v minútach)"
+
+#: src/segments/settings/organisms/UserMenuLanguage.tsx:59
+msgid "Change language"
+msgstr "Zmeniť jazyk"
+
+#: src/segments/branchpreferences/pages/BranchPreferencesPage.tsx:19
+msgid "Change of invoice preferences"
+msgstr "Zmena fakturačných údajov"
+
+#: src/segments/order/molecules/OrderPaymentMethod.tsx:30
+msgid "Change payment method"
+msgstr "Zmena platobnej metódy"
+
+#: src/segments/order/molecules/OrderDeliveryToPickup.tsx:18
+msgid "Change to pickup"
+msgstr "Zmeniť na osobný odber"
+
+#: src/segments/createorder/molecules/OrderFormBranch.tsx:21
+msgid "Changing branch will cancel current order and remove all items from the cart. Proceed?"
+msgstr "Zmena pobočky stornuje súčasnú objednávku a odoberie všetky položky z košíka. Chcete pokračovať?"
+
+#: src/segments/settings/organisms/UserMenuLanguage.tsx:59
+msgid "Changing language..."
+msgstr "Zmena jazyku..."
+
+#: src/segments/menu/molecules/ImageCropModal.tsx:50
+msgid "Choose the most significant part of the image"
+msgstr ""
+
+#: src/segments/menu/molecules/StockWareUnitField.tsx:12
+msgid "Choose unit"
+msgstr "Vyberte jednotku"
+
+#: src/atoms/FormInputDate.tsx:18
+#: src/atoms/FormInputTime.tsx:18
+#~ msgid "Clear"
+#~ msgstr "Vymazať"
+
+#: src/segments/menu/molecules/RecipeImage.tsx:97
+msgid "Click to select image or drop it here"
+msgstr "Vyberte súbor, alebo ho sem pretiahnite"
+
+#: src/app/DefaultErrorHandler.tsx:76
+msgid "Close"
+msgstr "Zavrieť"
+
+#: src/segments/order/organisms/FastClose.tsx:59
+msgid "Close reason"
+msgstr "Dôvod zatvorenia"
+
+#: src/segments/businesshours/molecules/BusinessHoursWeekday.tsx:43
+#: src/segments/businesshours/molecules/SpecificBusinessHourLine.tsx:19
+#: src/segments/businesshours/molecules/SpecificModeSelector.tsx:10
+msgid "Closed"
+msgstr "Zatvorené"
+
+#: src/segments/businesshours/organisms/SpecificBusinessHourForm.tsx:69
+msgid "Closing reason"
+msgstr "Dôvod uzavretia"
+
+#: src/segments/dashboard/pages/StatsDashboardPage.tsx:12
+#: src/segments/overview/pages/ClosurePage.tsx:9
+msgid "Closure"
+msgstr "Uzávierka"
+
+#: src/segments/overview/organisms/ClosureStatisticsControl.tsx:38
+msgid "Closure has been created"
+msgstr "Uzávierka bola vytvorenázz"
+
+#: src/segments/overview/molecules/ClosureHistoryButton.tsx:11
+#: src/segments/overview/pages/ClosureHistoryPage.tsx:10
+msgid "Closure history"
+msgstr "História uzávierok"
+
+#: src/segments/createorder/molecules/OrderMenuFilter.tsx:28
+#: src/segments/menu/molecules/MenuCodeInput.tsx:7
+#: src/segments/menu/molecules/RecipeListTable.tsx:25
+#: src/segments/stock/molecules/StockDepositFilterInput.tsx:8
+#: src/segments/stock/pages/StockTransferPage.tsx:51
+msgid "Code"
+msgstr "Kód"
+
+#: src/atoms/RootProvider.tsx:46
+#: src/hooks/useMutationGuard.ts:34
+#~ msgid "Communication with server has failed. Please retry the operation in a moment again."
+#~ msgstr "Komunikácia so serverom zlyhala. Prosím, opakujte neskôr."
+
+#: src/segments/branchpreferences/organism/StoppageForm.tsx:7
+msgid "Completely stop all orders."
+msgstr "Úplne zastaviť všetky objednávky."
+
+#: src/segments/dashboard/pages/MainDashboardPage.tsx:21
+#: src/segments/kitchen/pages/KitchenCompletionPage.tsx:15
+msgid "Completion"
+msgstr "Kompletizácia"
+
+#: src/segments/overview/molecules/ClosureStatisticsContent.tsx:19
+#: src/segments/overview/molecules/OrdersStatisticsSummary.tsx:47
+#: src/segments/overview/molecules/SalesStatisticsContent.tsx:21
+msgid "Computing"
+msgstr "Spracovávam"
+
+#: src/segments/createorder/molecules/OrderSidedishModal.tsx:38
+#: src/segments/menu/molecules/ImageCropModal.tsx:60
+msgid "Confirm"
+msgstr "Potvrdiť"
+
+#: src/segments/stock/molecules/ConfirmTransferButton.tsx:65
+msgid "Confirm import"
+msgstr "Potvrdiť import"
+
+#: src/segments/stock/molecules/ConfirmTransferButton.tsx:65
+msgid "Confirm transfer"
+msgstr "Potvrďte prenos"
+
+#: src/pages/ServiceUnreachablePage.tsx:24
+msgid "Connection to external service is not possible at the moment. Please try again later or <0>contact our support</0>."
+msgstr "Spojenie s externou službou nie je momentálne možné. Prosím, opakujte neskôr alebo <0>kontaktujte našu podporu</0>."
+
+#: src/segments/dashboard/pages/SupportPage.tsx:9
+msgid "Contact support"
+msgstr "Kontaktujte podporu"
+
+#: src/segments/stock/organisms/StockDepositControl.tsx:97
+msgid "Continue typing to find single stock card or select one from the list"
+msgstr "Pokračujte v písaní pre nájdenie jednej karty alebo zvolte zo zoznamu"
+
+#: src/segments/menu/molecules/RecipeListTable.tsx:47
+#: src/segments/menu/molecules/RecipeTypeSelection.tsx:45
+msgid "Cover"
+msgstr "Manipulačný poplatok"
+
+#: src/segments/menu/menu.labels.ts:7
+msgid "Cover categories"
+msgstr "Kategórie manipulačného poplatku"
+
+#: src/segments/menu/menu.labels.ts:12
+msgid "Cover recipe"
+msgstr "Manipulačné poplatky"
+
+#: src/segments/createorder/molecules/OrderCartTotals.tsx:14
+#: src/segments/order/molecules/OrderDetailTotals.tsx:13
+msgid "Covers price"
+msgstr "Manipulačný poplatok"
+
+#: src/segments/menu/atoms/MenuSubmitButton.tsx:11
+msgid "Create"
+msgstr "Vytvoriť"
+
+#: src/segments/overview/molecules/ClosureSubmitButton.tsx:10
+msgid "Create closure"
+msgstr "Vytvoriť uzávierku"
+
+#: src/segments/zones/molecules/CreateZoneButton.tsx:46
+msgid "Create delivery zone for branch"
+msgstr "Vytvorte zónu dovozu pre branch"
+
+#: src/segments/dashboard/molecules/CreateOrderDashboardButton.tsx:9
+#: src/segments/order/molecules/CreateOrderButton.tsx:12
+msgid "Create order"
+msgstr "Vytvoriť objednávku"
+
+#: src/segments/login/routes/PasswordChangeRoute.tsx:59
+msgid "Create password"
+msgstr "Vytvoriť heslo"
+
+#: src/segments/zones/molecules/CreateZoneButton.tsx:47
+msgid "Create return zone for branch"
+msgstr "Vytvorte zónu návratu pre branch"
+
+#: src/segments/zones/molecules/CreateZoneButton.tsx:43
+#~ msgid "Create zone for branch"
+#~ msgstr "Vytvoriť zónu pre pobočku"
+
+#: src/segments/order/molecules/OrderTimeLine.tsx:11
+msgid "Created"
+msgstr "Vytvorené"
+
+#: src/segments/overview/molecules/ClosureCurrentButton.tsx:11
+msgid "Current closure"
+msgstr "Aktuálna uzávierka"
+
+#: src/segments/createorder/molecules/OrderFormDeliverAt.tsx:34
+msgid "Current estimated delivery time is <0>{deliveryTime} minutes</0>"
+msgstr "Aktuálny čas doručenia je <0>{deliveryTime} minút</0>"
+
+#: src/segments/createorder/molecules/OrderFormDeliverAt.tsx:39
+msgid "Current estimated pickup time is <0>{pickupTime} minutes</0>"
+msgstr "Aktuálny čas vyzdvihnutia je <0>{pickupTime} minút</0>"
+
+#: src/segments/menu/organisms/CategoryRequirementsForm.tsx:32
+msgid "Custom range"
+msgstr "Vlastný rozsah"
+
+#: src/segments/overview/molecules/SalesStatisticsContent.tsx:29
+msgid "Daily statistics"
+msgstr "Denné štatistiky"
+
+#: src/segments/businesshours/organisms/SpecificBusinessHourForm.tsx:62
+msgid "Date"
+msgstr "Dátum"
+
+#: src/atoms/InputDate.tsx:7
+#: src/atoms/InputDateTime.tsx:7
+msgid "Date is too much in the future"
+msgstr "Dátum nie je v blízkej budúcnosť"
+
+#: src/atoms/InputDate.tsx:7
+#: src/atoms/InputDateTime.tsx:7
+msgid "Date is too much in the past"
+msgstr "Dátum nie je v blízkej minulosti"
+
+#: src/segments/order/organisms/BranchDefaultTime.tsx:57
+msgid "Default time of delivery to customer is changed"
+msgstr "Predvolený čas doručenia zákazníkovi zmenený"
+
+#: src/segments/order/organisms/BranchDefaultTime.tsx:58
+msgid "Default time of pickup is changed"
+msgstr "Predvolený čas vyzdvihnutia bol zmenený"
+
+#: src/segments/createorder/molecules/OrderFormDeliveryType.tsx:9
+#: src/segments/createorder/molecules/OrderFormDestination.tsx:9
+msgid "Deliver"
+msgstr "Doručiť"
+
+#: src/segments/kitchen/atoms/KitchenOrderAtSummary.tsx:25
+msgid "Deliver at"
+msgstr "Doručiť v"
+
+#: src/segments/order/molecules/OrderStats.tsx:24
+msgid "Deliver at time"
+msgstr "Doručiť v"
+
+#: src/segments/order/molecules/OrderStats.tsx:32
+msgid "Deliver on time"
+msgstr "Doručiť v"
+
+#: src/segments/createorder/molecules/OrderFormDeliveryAddress.tsx:84
+msgid "Deliver to address"
+msgstr "Doručiť adresu"
+
+#: src/segments/kitchen/atoms/KitchenOrderAtSummary.tsx:21
+msgid "Deliver until"
+msgstr "Doručiť do"
+
+#: src/segments/menu/menu.labels.ts:15
+#: src/segments/menu/molecules/RecipeListTable.tsx:27
+msgid "Delivery sale"
+msgstr "Rozvoz"
+
+#: src/segments/dashboard/pages/SettingsDashboardPage.tsx:13
+#: src/segments/zones/pages/ZonesOverviewPage.tsx:13
+msgid "Delivery zones"
+msgstr "Rozvozové zóny"
+
+#: src/segments/createorder/molecules/OrderCartTotals.tsx:15
+#: src/segments/order/molecules/OrderDetailTotals.tsx:14
+msgid "Discount total"
+msgstr "Zľava celkom"
+
+#: src/segments/createorder/atoms/OrderCancelPrompt.tsx:25
+msgid "Do you really want to cancel order?"
+msgstr "Naozaj chcete stornovať objednávku?"
+
+#: src/segments/zones/organisms/ZoneFormPanel.tsx:50
+msgid "Do you want to cancel changes for the zone?"
+msgstr "Chcete zahodiť zmeny prevedené v nastaveniach zóny?"
+
+#: src/segments/order/molecules/OrderStats.tsx:41
+msgid "Driver"
+msgstr "Vodič"
+
+#: src/segments/order/molecules/OrderMapDeliveries.tsx:48
+msgid "Driver position is unknown"
+msgstr "Poloha vodiča je nezáma."
+
+#: src/segments/order/organisms/ReturningDrivers.tsx:25
+msgid "Driver {driverName} has reached return zone {zoneName}"
+msgstr "Vodič {driverName} práve vošiel do návratovej zóny {zoneName}"
+
+#: src/segments/menu/molecules/RecipeImage.tsx:97
+msgid "Drop the image here ..."
+msgstr "Obrázok pretiahnite sem ..."
+
+#: src/segments/createorder/organisms/OrderForm.tsx:55
+msgid "E-mail"
+msgstr "E-mail"
+
+#: src/segments/login/organisms/PasswordResetForm.tsx:27
+msgid "Email to recover your password has been successfully sent."
+msgstr "Email na obnovu hesla bol úspešne zaslaný."
+
+#: src/segments/stock/molecules/ImportModeToggle.tsx:12
+msgid "Enable import mode"
+msgstr "Sprístupniť režim importu"
+
+#: src/segments/menu/organisms/CategoryRequirementsForm.tsx:27
+msgid "Exactly one"
+msgstr "Presne jeden"
+
+#: src/segments/order/molecules/OrderStateTimeNotification.tsx:33
+msgid "Expected time of delivery was set"
+msgstr "Očakávaný čas doručenia bol nastavený"
+
+#: src/segments/order/molecules/OrderStateTimeNotification.tsx:34
+msgid "Expected time of pickup was set"
+msgstr "Očakávaný čas vyzdvihnutia bol nastavený"
+
+#: src/segments/menu/molecules/MenuIdExternalSystem.tsx:6
+msgid "External ID"
+msgstr "ID pre externé systémy (DJ, dotykačka ...)"
+
+#: src/segments/order/molecules/OrderDetailTotals.tsx:15
+msgid "Extra charge"
+msgstr "Extra poplatok"
+
+#: src/segments/createorder/molecules/OrderFormPaymentMethod.tsx:22
+#~ msgid "Failed retrieving available payment methods"
+#~ msgstr "Nepodarilo sa získať dostupné platobné metódy"
+
+#: src/segments/createorder/molecules/OrderFormPromo.tsx:18
+msgid "Failed retrieving available promo codes"
+msgstr "Nepodarilo sa načítať dostupné zľavové kódy"
+
+#: src/segments/createorder/molecules/OrderFormPaymentMethod.tsx:57
+msgid "Failed to retrieve available payment methods"
+msgstr "Nepodarilo sa získať dostupné platobné metódy"
+
+#: src/segments/order/organisms/FastClose.tsx:56
+msgid "Fast close branch (for minutes)"
+msgstr "Rýchle zatvorenie pobočky (v minútach)"
+
+#: src/helpers/form.ts:8
+msgid "Field {fieldDescription} cannot be empty"
+msgstr ""
+
+#: src/helpers/form.ts:11
+msgid "Field {fieldDescription} must be a number"
+msgstr ""
+
+#: src/helpers/form.ts:14
+msgid "Field {fieldDescription} must be a positive number"
+msgstr ""
+
+#: src/segments/kitchen/molecules/KitchenFilters.tsx:86
+msgid "Filter"
+msgstr ""
+
+#: src/components/filters/BranchFilter.tsx:35
+msgid "Filter branch..."
+msgstr ""
+
+#: src/components/filters/BranchesFilter.tsx:20
+#: src/molecules/CompanyBranchDropdown.tsx:19
+msgid "Filter branches..."
+msgstr "Filtrovať pobočky"
+
+#: src/components/filters/CashboxesFilter.tsx:12
+msgid "Filter by cashbox"
+msgstr "filrovat podľa pokladne"
+
+#: src/components/filters/CashiersFilter.tsx:13
+msgid "Filter by cashier"
+msgstr "filrovat podľa pokladničného"
+
+#: src/segments/menu/molecules/RecipeCategoryFilter.tsx:34
+msgid "Filter by category"
+msgstr "Filtrovať podla kategórie"
+
+#: src/components/filters/DriversFilter.tsx:13
+msgid "Filter by drivers"
+msgstr "Filtrovať podla rozvozcu"
+
+#: src/segments/menu/molecules/MenuFilterInput.tsx:7
+#: src/segments/stock/molecules/StockStatisticsFilter.tsx:35
+msgid "Filter by name or code"
+msgstr "Filtrovať podľa mena alebo kódu"
+
+#: src/components/filters/OccasionsFilter.tsx:20
+msgid "Filter by occasions"
+msgstr ""
+
+#: src/components/filters/OriginsFilter.tsx:13
+msgid "Filter by order origins"
+msgstr ""
+
+#: src/components/filters/SectorsFilter.tsx:45
+msgid "Filter by sectors"
+msgstr ""
+
+#: src/segments/order/molecules/OrderStateButton.tsx:11
+msgid "Finish order"
+msgstr "Dokončiť objednávku"
+
+#: src/segments/order/molecules/OrderTimeLine.tsx:15
+msgid "Finished"
+msgstr "Dokončené"
+
+#: src/segments/createorder/molecules/OrderFormCustomerName.tsx:22
+msgid "First name"
+msgstr "Krstné meno"
+
+#: src/segments/menu/molecules/SubmitButton.tsx:9
+#~ msgid "Fix form errors"
+#~ msgstr "Opravte chyby vo formulári"
+
+#: src/segments/menu/molecules/StockAllowNegativeField.tsx:17
+msgid "Forbid"
+msgstr "Zakázať"
+
+#: src/segments/menu/organisms/StockListTable.tsx:36
+#: src/segments/stock/molecules/StockTransferTable.tsx:70
+msgid "Forbidden"
+msgstr "Zakázané"
+
+#: src/segments/login/molecules/PasswordResetLink.tsx:10
+msgid "Forgotten password"
+msgstr "Zabudnuté heslo"
+
+#: src/segments/overview/molecules/StatisticsPrimaryFilter.tsx:15
+msgid "From"
+msgstr "Od"
+
+#: src/segments/overview/molecules/ClosureHistoryFilter.tsx:10
+msgid "From date"
+msgstr "Od dátumu"
+
+#: src/segments/dashboard/pages/SupportPage.tsx:11
+msgid "If you have any questions or technical problems, please contact us by phone:<0/><1><2>+420 774 454 840</2></1><3/>Every day from 9:00 to 22:00"
+msgstr "V prípade otázok, alebo technických problémov, nás prosím telefonicky kontaktujte na čísle:<0/><1><2>+420 774 454 840</2></1><3/>Denne od 9:00 do 22:00"
+
+#: src/segments/stock/molecules/StockTransferTable.tsx:42
+#: src/segments/stock/molecules/StockTransferTable.tsx:59
+msgid "Import"
+msgstr "Import"
+
+#: src/segments/menu/molecules/ImportModeToggle.tsx:13
+#~ msgid "Import mode"
+#~ msgstr "Režim importu"
+
+#: src/segments/createorder/molecules/OrderFormDeliverAt.tsx:24
+msgid "In minutes"
+msgstr "V minútach"
+
+#: src/segments/menu/molecules/MenuInternalNoteField.tsx:6
+#: src/segments/menu/molecules/RecipeListTable.tsx:30
+msgid "Internal note"
+msgstr "Interná poznámka"
+
+#: src/atoms/ConnectionWarning.tsx:33
+msgid "Internet connection is not available"
+msgstr "Pripojenie k internetu nie je dostupné"
+
+#: src/segments/zones/molecules/ZoneFormContent.tsx:32
+msgid "Is active"
+msgstr "Je aktívny"
+
+#: src/segments/menu/molecules/StockAllowNegativeField.tsx:27
+msgid "Is default setting"
+msgstr "Je pôvodné nastavenie"
+
+#: src/segments/order/molecules/OrderCountLine.tsx:4
+#~ msgid "It's customer's <0/> order <1/>"
+#~ msgstr "Je to zákazníka <0/> alebo <1/>"
+
+#: src/segments/order/molecules/OrderCountLine.tsx:3
+msgid "It's customer's {current, selectordinal, one {#st} two {#nd} few {#rd} other {#th}} order {total, plural, one {} other {from total of # orders}}"
+msgstr "Zákazníkova {current, selectordinal, one {1.} two {#.} few {#.} other {#.}} objednávka {total, plural, one {} few {ze # objednávok celkom} other {z # objednávok celkom}}"
+
+#: src/segments/dashboard/pages/MainDashboardPage.tsx:20
+#: src/segments/kitchen/pages/KitchenOverviewPage.tsx:30
+msgid "Kitchen"
+msgstr "Kuchyňa"
+
+#: src/segments/settings/organisms/UserMenuLanguage.tsx:52
+#~ msgid "Language has been changed"
+#~ msgstr "Jazyk bol zmenený"
+
+#: src/segments/createorder/molecules/OrderFormCustomerName.tsx:25
+msgid "Last name"
+msgstr "Priezvisko"
+
+#: src/segments/order/atoms/OrderListTitle.tsx:71
+#~ msgid "List is collapsed"
+#~ msgstr "Zoznam je skrytý"
+
+#: src/segments/kitchen/organisms/KitchenCompletionShelf.tsx:27
+#: src/segments/kitchen/organisms/KitchenShelf.tsx:17
+msgid "Loading"
+msgstr "Načítanie"
+
+#: src/segments/zones/organisms/ZoneFormPanel.tsx:72
+#~ msgid "Loading form..."
+#~ msgstr "Načítavanie formulára..."
+
+#: src/segments/createorder/molecules/OrderSidedishModal.tsx:20
+msgid "Loading sidedishes..."
+msgstr "Načítavanie prídavkov...."
+
+#: src/segments/menu/menu.labels.ts:16
+#: src/segments/menu/molecules/RecipeListTable.tsx:28
+msgid "Local sale"
+msgstr "Predaj tu"
+
+#: src/segments/login/organisms/PasswordResetForm.tsx:35
+msgid "Login name"
+msgstr "Prihlasovacie meno"
+
+#: src/segments/login/pages/PasswordLoginPage.tsx:17
+msgid "Login page"
+msgstr "Prihlasovacia stránka"
+
+#: src/segments/dashboard/pages/MainDashboardPage.tsx:15
+msgid "Main menu"
+msgstr "Hlavná ponuka"
+
+#: src/segments/dashboard/pages/MainDashboardPage.tsx:17
+#: src/segments/order/pages/OrderMapPage.tsx:14
+msgid "Map"
+msgstr "Mapa"
+
+#: src/components/AddressSuggest/AddressSuggestMenu.tsx:59
+msgid "Matching to input"
+msgstr "Nájdené"
+
+#: src/atoms/PasswordInput.tsx:8
+msgid "Maximal length is {length}"
+msgstr "Maximálna dĺžka je {length}"
+
+#: src/segments/menu/organisms/CategoryRequirementsForm.tsx:63
+msgid "Maximum"
+msgstr "Maximálne"
+
+#: src/segments/menu/molecules/MenuGuideDownload.tsx:26
+msgid "Menu codes manual"
+msgstr "Návod na príjem objednávok"
+
+#: src/atoms/PasswordInput.tsx:7
+msgid "Minimal length is {length}"
+msgstr "Minimálna dĺžka je {length}"
+
+#: src/segments/createorder/organisms/OrderCart.tsx:33
+msgid "Minimal order price is <0>{minimalPrice}</0>"
+msgstr "Minimálna cena objednávky je <0>{minimalPrice}</0>"
+
+#: src/segments/zones/molecules/ZoneFormLoader.tsx:26
+#: src/segments/zones/molecules/ZoneFormLoader.tsx:26
+msgid "Minimal price"
+msgstr ""
+
+#: src/segments/menu/organisms/CategoryRequirementsForm.tsx:62
+msgid "Minimum"
+msgstr "Minimálne"
+
+#: src/segments/zones/atoms/ZonePriceInput.tsx:44
+#~ msgid "Must be number"
+#~ msgstr "Musí byť číslo"
+
+#: src/segments/menu/molecules/CategoryListTable.tsx:22
+#: src/segments/menu/molecules/RecipeAssocListTable.tsx:8
+#: src/segments/menu/molecules/RecipeIngredientsTable.tsx:9
+#: src/segments/menu/molecules/RecipeListTable.tsx:26
+#: src/segments/menu/organisms/StockRecipesVIew.tsx:33
+msgid "Name"
+msgstr "Meno"
+
+#: src/segments/menu/molecules/StockAllowNegativeField.tsx:22
+#: src/segments/menu/organisms/StockListTable.tsx:28
+#: src/segments/stock/molecules/StockTransferTable.tsx:63
+msgid "Negative stock"
+msgstr "Predaj do mínusu"
+
+#: src/segments/createorder/pages/CreateOrderPage.tsx:40
+msgid "New order"
+msgstr "Nová objednávka"
+
+#: src/segments/kitchen/pages/KitchenCompletionPage.tsx:28
+#: src/segments/kitchen/pages/KitchenOverviewPage.tsx:43
+msgid "New orders"
+msgstr "Nové objednávky"
+
+#: src/segments/overview/molecules/ClosureHistoryTable.tsx:33
+msgid "No closures found"
+msgstr "Žiadna uzávierka"
+
+#: src/segments/order/atoms/OrderDriverSelect.tsx:33
+msgid "No drivers available"
+msgstr "Rozvozcovia nedostupný"
+
+#: src/segments/menu/organisms/CategoryRequirementsForm.tsx:12
+msgid "No limitation"
+msgstr "Bez obmedzení"
+
+#: src/components/AddressSuggest/AddressSuggestItems.tsx:11
+msgid "No match found"
+msgstr "Nenašla sa žiadna zhoda"
+
+#: src/segments/kitchen/pages/KitchenCompletionPage.tsx:28
+#: src/segments/kitchen/pages/KitchenOverviewPage.tsx:43
+msgid "No new orders"
+msgstr "Žiadne nové objednávky"
+
+#: src/components/filters/OccasionsFilter.tsx:20
+msgid "No occasions"
+msgstr ""
+
+#: src/segments/overview/molecules/OrdersStatisticsList.tsx:81
+msgid "No orders"
+msgstr "Žiadne objednávky"
+
+#: src/segments/kitchen/pages/KitchenCompletionPage.tsx:32
+msgid "No orders to complete"
+msgstr "Žiadne objednávke ku kompletizácií"
+
+#: src/segments/kitchen/pages/KitchenOverviewPage.tsx:54
+msgid "No orders to deliver"
+msgstr "Žiadne objednávky k doručeniu"
+
+#: src/segments/kitchen/pages/KitchenCompletionPage.tsx:39
+msgid "No orders to hand over"
+msgstr "Žiadne objednávke k predaniu"
+
+#: src/segments/kitchen/pages/KitchenOverviewPage.tsx:47
+msgid "No orders to prepare"
+msgstr "Žiadne objednávky k príprave"
+
+#: src/components/filters/OriginsFilter.tsx:13
+msgid "No origins"
+msgstr ""
+
+#: src/segments/createorder/molecules/OrderFormPromo.tsx:20
+msgid "No promo codes available"
+msgstr "Žiadne zľavové kódy nie sú dostupné"
+
+#: src/segments/menu/organisms/StockRecipesVIew.tsx:20
+msgid "No recipes are using stock card"
+msgstr "Žiadne recepty nevyužívajú skladové karty"
+
+#: src/segments/menu/molecules/RecipeListTable.tsx:17
+msgid "No recipes has been found"
+msgstr "Žiadne recepty neboli nájdené"
+
+#: src/segments/menu/molecules/CategoryListTable.tsx:8
+msgid "No recipes in category"
+msgstr "Žiadne receptúry v kategórií"
+
+#: src/components/filters/SectorsFilter.tsx:46
+msgid "No sectors"
+msgstr ""
+
+#: src/segments/businesshours/organisms/SpecificBusinessHours.tsx:35
+msgid "No specific business hours defined"
+msgstr "Nie je definovaná konkrétna otváracia doba"
+
+#: src/segments/stock/organisms/StockDepositControl.tsx:101
+msgid "No stock card found from entered search value"
+msgstr "Zadanej hodnote nezodpovedá žiadna skladová karta"
+
+#: src/segments/stock/molecules/StockDepositConfirmButton.tsx:6
+msgid "No stock card selected"
+msgstr "Nie je zvolená skladová karta"
+
+#: src/segments/menu/atoms/MenuTranslationInput.tsx:54
+msgid "No text is filled"
+msgstr "Text nie je vyplnený"
+
+#: src/pages/NotFoundPage.tsx:5
+msgid "Not found"
+msgstr "nenájdené"
+
+#: src/organisms/LogoutWidget.tsx:71
+msgid "Not logged in"
+msgstr "Nie je prihlásený"
+
+#: src/segments/menu/molecules/RecipeListTable.tsx:39
+#: src/segments/menu/organisms/CategoryRecipesView.tsx:61
+msgid "Not set"
+msgstr "Nie je nastavené"
+
+#: src/segments/createorder/organisms/OrderForm.tsx:58
+msgid "Note"
+msgstr "Poznámka"
+
+#: src/segments/zones/atoms/ZoneListSection.tsx:12
+msgid "Notification will be shown when driver enters one of these zones."
+msgstr "Oznámenie sa zobrazí, ak vodič vojde do jednej zo zón."
+
+#: src/atoms/FormInputDate.tsx:18
+#: src/atoms/FormInputTime.tsx:18
+#~ msgid "Ok"
+#~ msgstr "Ok"
+
+#: src/segments/order/molecules/OrderTimeLine.tsx:14
+msgid "On way"
+msgstr "Na ceste"
+
+#: src/segments/menu/organisms/CategoryRequirementsForm.tsx:22
+msgid "One at least"
+msgstr "Aspoň jeden"
+
+#: src/segments/menu/organisms/CategoryRequirementsForm.tsx:17
+msgid "One at most"
+msgstr "Maximálne jeden"
+
+#: src/segments/overview/molecules/OrdersStatisticsSummary.tsx:64
+msgid "Online payments"
+msgstr "Online platby"
+
+#: src/segments/businesshours/molecules/SpecificBusinessHourLine.tsx:19
+msgid "Open"
+msgstr "Otvoriť"
+
+#: src/segments/businesshours/molecules/SpecificModeSelector.tsx:9
+msgid "Open between"
+msgstr "Otvorené medzi"
+
+#: src/segments/createorder/hooks/useAcceptOrder.ts:29
+msgid "Order has been accepted"
+msgstr "Objednávka bola prijata"
+
+#: src/segments/dashboard/pages/MainDashboardPage.tsx:16
+#: src/segments/order/pages/OrderMapPage.tsx:21
+#: src/segments/order/pages/OrderOverviewPage.tsx:31
+msgid "Orders"
+msgstr "Objednávky"
+
+#: src/segments/overview/molecules/OrdersStatisticsSummary.tsx:72
+msgid "Orders count"
+msgstr "Počet objednávok"
+
+#: src/segments/dashboard/pages/StatsDashboardPage.tsx:10
+#: src/segments/overview/pages/OrdersStatisticsPage.tsx:15
+msgid "Orders statistics"
+msgstr "Štatistiky objednávok"
+
+#: src/segments/kitchen/pages/KitchenCompletionPage.tsx:32
+msgid "Orders to complete"
+msgstr "Objednávky ku kompletácií"
+
+#: src/segments/kitchen/pages/KitchenOverviewPage.tsx:54
+msgid "Orders to deliver"
+msgstr "Objednávky k distribúcií"
+
+#: src/segments/kitchen/pages/KitchenCompletionPage.tsx:39
+msgid "Orders to hand over"
+msgstr "Objednávky k výdaju"
+
+#: src/segments/kitchen/pages/KitchenOverviewPage.tsx:47
+msgid "Orders to prepare"
+msgstr "Objednávky k príprave"
+
+#: src/app/DefaultErrorHandler.tsx:11
+msgid "Our team was notified about the issue."
+msgstr "Náš tým bol o probléme informovaný."
+
+#: src/segments/dashboard/pages/MainDashboardPage.tsx:24
+#: src/segments/overview/routes/OverviewRouting.tsx:14
+msgid "Overview"
+msgstr "Prehľad"
+
+#: src/segments/menu/molecules/StockPluField.tsx:9
+#: src/segments/stock/molecules/StockDepositFilterInput.tsx:8
+#: src/segments/stock/pages/StockTransferPage.tsx:51
+msgid "PLU"
+msgstr "PLU"
+
+#: src/segments/order/molecules/OrderTicker.tsx:121
+msgid "Paid"
+msgstr "Zaplatené"
+
+#: src/segments/login/routes/PasswordChangeRoute.tsx:44
+msgid "Password has been updated."
+msgstr "Heslo bolo aktuaizované."
+
+#: src/segments/login/organisms/PasswordChangeForm.tsx:49
+msgid "Password is invalid due to following errors:"
+msgstr "Heslo je neplatné z následujúcich dôvodov:"
+
+#: src/segments/login/pages/PasswordResetPage.tsx:10
+#: src/segments/login/routes/PasswordChangeRoute.tsx:62
+msgid "Password recovery"
+msgstr "Obnovenie hesla"
+
+#: src/segments/menu/molecules/StockAllowNegativeField.tsx:13
+msgid "Permit"
+msgstr "Povoliť"
+
+#: src/segments/menu/organisms/StockListTable.tsx:36
+#: src/segments/stock/molecules/StockTransferTable.tsx:70
+msgid "Permitted"
+msgstr "Povolené"
+
+#: src/segments/createorder/molecules/OrderFormDeliveryType.tsx:13
+#: src/segments/createorder/molecules/OrderFormDestination.tsx:13
+msgid "Personal pickup"
+msgstr "Osobný odber"
+
+#: src/segments/kitchen/atoms/KitchenOrderAtSummary.tsx:29
+msgid "Personal pickup at"
+msgstr "Osobný odber v"
+
+#: src/segments/createorder/molecules/OrderFormPhone.tsx:18
+#: src/segments/createorder/molecules/OrderFormPhone.tsx:18
+msgid "Phone"
+msgstr "Telefón"
+
+#: src/segments/createorder/molecules/OrderFormPhone.tsx:18
+msgid "Phone number is required"
+msgstr "Zadajte prosím telefónne číslo"
+
+#: src/segments/createorder/molecules/OrderFormPhone.tsx:15
+msgid "Phone prefix"
+msgstr "Predvolba"
+
+#: src/segments/createorder/molecules/OrderFormPhone.tsx:15
+msgid "Phone prefix is required"
+msgstr "Predvolba čísla je požadovaná"
+
+#: src/app/UpdateHandler.tsx:111
+msgid "Postpone update"
+msgstr "Odložiť aktualizáciu"
+
+#: src/segments/order/molecules/OrderTimeLine.tsx:12
+msgid "Preparing"
+msgstr "Pripravuje sa"
+
+#: src/components/AddressSuggest/AddressSuggestMenu.tsx:55
+msgid "Previous addresses"
+msgstr "Predchádzajúce adresy"
+
+#: src/segments/menu/molecules/RecipeAssocListTable.tsx:9
+msgid "Price"
+msgstr "Cena"
+
+#: src/segments/menu/molecules/FormInputPrice.tsx:22
+#~ msgid "Price must be a number"
+#~ msgstr "Cena musí byť číslo"
+
+#: src/segments/createorder/molecules/OrderFormPromo.tsx:20
+msgid "Promo codes"
+msgstr "Zľavové kódy"
+
+#: src/segments/menu/molecules/RecipeDescriptionInput.tsx:7
+msgid "Public note"
+msgstr "Verejná poznámka"
+
+#: src/segments/menu/molecules/RecipeDescriptionInput.tsx:8
+msgid "Public note for customers, allergens"
+msgstr "Poznámka pre zákazníka, alergén"
+
+#: src/segments/menu/molecules/RecipeIngredientsTable.tsx:10
+msgid "Quantity"
+msgstr "Zadajte počet"
+
+#: src/segments/order/molecules/OrderStateButton.tsx:10
+#: src/segments/order/molecules/OrderTimeLine.tsx:13
+msgid "Ready to deliver"
+msgstr "Pripravené na dovoz"
+
+#: src/segments/order/molecules/OrderCancelButton.tsx:10
+msgid "Really cancel?"
+msgstr "Naozaj zrušiť?"
+
+#: src/segments/order/molecules/OrderDeliveryToPickup.tsx:15
+msgid "Really change?"
+msgstr "Naozaj zmeniť?"
+
+#: src/segments/businesshours/molecules/SpecificBusinessHourLine.tsx:10
+msgid "Really remove specific business hour {0}?"
+msgstr "Naozaj zmazať mimoriadnu otváraciu dobu {0}?"
+
+#: src/segments/menu/organisms/RecipeFormLoader.tsx:32
+#: src/segments/menu/organisms/RecipeFormPrimary.tsx:22
+msgid "Recipe code"
+msgstr "Kód receptúry"
+
+#: src/segments/menu/organisms/RecipeFormLoader.tsx:31
+#~ msgid "Recipe code must be entered."
+#~ msgstr "Kód receptu musí byť zadaný."
+
+#: src/segments/menu/molecules/CategoryListTable.tsx:23
+msgid "Recipe count"
+msgstr "Počet receptov"
+
+#: src/segments/menu/molecules/RecipeIngredientsTable.tsx:7
+msgid "Recipe has no ingredients"
+msgstr "Receptúra nemá ingrediencie"
+
+#: src/segments/menu/pages/MenuRecipePage.tsx:52
+msgid "Recipe has no sidedish category attached"
+msgstr "Receptúra nemá priradenú prídavkovú kategóriu"
+
+#: src/segments/menu/pages/MenuRecipePage.tsx:39
+msgid "Recipe ingredients"
+msgstr "Zloženie receptúry"
+
+#: src/segments/menu/organisms/RecipeFormPrimary.tsx:27
+msgid "Recipe internal note"
+msgstr "Interná poznámka receptúry"
+
+#: src/segments/menu/pages/MenuRecipePage.tsx:59
+msgid "Recipe is in these categories"
+msgstr "Receptúra je v týchto kategóriach"
+
+#: src/segments/menu/pages/MenuRecipePage.tsx:61
+msgid "Recipe is not in any category"
+msgstr "Receptúra nie je v žiadnej kategórií"
+
+#: src/segments/menu/organisms/RecipeFormPrimary.tsx:23
+msgid "Recipe name"
+msgstr "Názov receptúry"
+
+#: src/segments/menu/organisms/RecipeFormLoader.tsx:31
+msgid "Recipe name in default language"
+msgstr ""
+
+#: src/segments/menu/organisms/RecipeFormLoader.tsx:30
+#~ msgid "Recipe name in default language must be entered."
+#~ msgstr "Názov receptu v predvolenom jazyku musí byť zadaný."
+
+#: src/segments/menu/pages/MenuRecipeListPage.tsx:30
+msgid "Recipe overview"
+msgstr "Prehľad receptúr"
+
+#: src/segments/menu/organisms/RecipeFormLoader.tsx:35
+msgid "Recipe price for {priceType}"
+msgstr ""
+
+#: src/segments/menu/organisms/RecipeFormLoader.tsx:37
+#~ msgid "Recipe price for {priceType} must be entered."
+#~ msgstr "Suma pre recept {priceType} musí byť zadaná."
+
+#: src/segments/dashboard/pages/SettingsDashboardPage.tsx:15
+#: src/segments/menu/molecules/CategoryListTable.tsx:23
+msgid "Recipes"
+msgstr "Položky"
+
+#: src/segments/menu/pages/MenuCategoryPage.tsx:60
+msgid "Recipes assigned to this category"
+msgstr "Receptúry priradené do tejto kategórie"
+
+#: src/segments/menu/organisms/StockRecipesVIew.tsx:25
+msgid "Recipes using this card"
+msgstr "Receptúry využívajúce túto kartu"
+
+#: src/segments/login/organisms/PasswordResetForm.tsx:38
+msgid "Recover password"
+msgstr "Obnoviť heslo"
+
+#: src/segments/businesshours/pages/BusinessHoursPage.tsx:20
+msgid "Regular business hours"
+msgstr "Pravidelná otváracia doba"
+
+#: src/segments/businesshours/organisms/BusinessHoursForm.tsx:90
+msgid "Regular business hours has been updated"
+msgstr "Pravidelná otváracia doba bola aktualizovaná"
+
+#: src/segments/businesshours/molecules/BusinessHoursWeekday.tsx:33
+msgid "Remove business hour"
+msgstr "Odstrániť otváracie hodiny"
+
+#: src/segments/zones/molecules/ZoneFormPriceRules.tsx:117
+msgid "Remove price range"
+msgstr "Odobrať cenové rozpätie"
+
+#: src/segments/menu/organisms/StockFormPrimary.tsx:24
+msgid "Remove this card?"
+msgstr "Zmazať túto kartu?"
+
+#: src/segments/menu/organisms/CategoryFormPrimary.tsx:26
+msgid "Remove this category?"
+msgstr "Zmazať túto kategóriu?"
+
+#: src/segments/menu/organisms/RecipeFormPrimary.tsx:35
+msgid "Remove this recipe?"
+msgstr "Zmazať túto receptúru?"
+
+#: src/segments/zones/organisms/ZoneFormPanel.tsx:45
+msgid "Remove zone {0}?"
+msgstr "Zmazat zónu {0}?"
+
+#: src/segments/login/routes/PasswordChangeRoute.tsx:33
+#: src/segments/login/routes/PasswordChangeRoute.tsx:48
+msgid "Request for password update is invalid. Please try again."
+msgstr "Žiadosť o aktualizáciu hesla je neplatná. Skúste to znova."
+
+#: src/segments/zones/organisms/ZoneFormPanel.tsx:63
+#~ msgid "Requested zone wasn't found"
+#~ msgstr "Požadovaná zóna nebola nájdená"
+
+#: src/segments/menu/pages/MenuCategoryPage.tsx:51
+msgid "Required amounts of recipes to be picked"
+msgstr "Je nutné vybrať požadovaný počet receptov"
+
+#: src/atoms/PasswordInput.tsx:9
+msgid "Requires at least one digit"
+msgstr "Musí obsahovať aspoň jedno číslo"
+
+#: src/atoms/PasswordInput.tsx:10
+msgid "Requires at least one uppercase character"
+msgstr "Musí obsahovať aspoň jedno veľké písmeno"
+
+#: src/pages/ErrorPage.tsx:40
+msgid "Restart application"
+msgstr "Reštartovať aplikáciu"
+
+#: src/app/UpdateHandler.tsx:114
+msgid "Restart now"
+msgstr "Reštartovať teraz"
+
+#: src/pages/ErrorPage.tsx:25
+#: src/pages/ServiceUnreachablePage.tsx:25
+#~ msgid "Retry"
+#~ msgstr ""
+
+#: src/pages/ServiceUnreachablePage.tsx:36
+msgid "Retry the connection"
+msgstr "Obnoviť spojenie"
+
+#: src/segments/dashboard/pages/StatsDashboardPage.tsx:11
+#: src/segments/overview/pages/SalesStatisticsPage.tsx:15
+msgid "Sales statistics"
+msgstr "Predajné štatistiky"
+
+#: src/segments/menu/atoms/MenuSubmitButton.tsx:11
+msgid "Save"
+msgstr "Uložiť"
+
+#: src/segments/branchpreferences/organism/SaveInvoicePreferencesButton.tsx:5
+msgid "Save invoice preferences"
+msgstr "Uložiť fakturačné údaje"
+
+#: src/segments/businesshours/organisms/BusinessHoursForm.tsx:101
+msgid "Save regular hours"
+msgstr "Uložiť pravidelnú otváraciu dobu"
+
+#: src/segments/zones/molecules/ZoneFormControls.tsx:23
+msgid "Save zone"
+msgstr "Uložiť zónu"
+
+#: src/components/AddressSuggest/DiscoverSuggestions.tsx:28
+msgid "Searching..."
+msgstr "Hľadám..."
+
+#: src/molecules/CompanyBranchDropdown.tsx:19
+#: src/segments/kitchen/organisms/KitchenCompletionShelf.tsx:22
+#: src/segments/overview/molecules/ClosureHistoryTable.tsx:28
+#: src/segments/overview/molecules/ClosureStatisticsContent.tsx:16
+msgid "Select a branch"
+msgstr "Zvolte pobočku"
+
+#: src/segments/order/molecules/FastCloseButton.tsx:20
+msgid "Select a single branch for closing"
+msgstr "Vyberte pobočku pre uzavrietie"
+
+#: src/segments/order/organisms/BranchDefaultTime.tsx:41
+msgid "Select a single branch to set delivery time"
+msgstr "Vybrať pobočku pre nastavenie času dovozu"
+
+#: src/segments/order/organisms/OrderList.tsx:20
+msgid "Select at least one branch"
+msgstr "Vyberte aspoň jednu pobočku"
+
+#: src/segments/zones/molecules/ZoneFIlterBranch.tsx:5
+#~ msgid "Select branch"
+#~ msgstr "Vyberte pobočku"
+
+#: src/segments/zones/molecules/CreateZoneButton.tsx:55
+msgid "Select branch to create zone"
+msgstr "Vytvorte pobočku pre vytvorenie zóný"
+
+#: src/molecules/CompanyBrandDropdown.tsx:23
+msgid "Select brand"
+msgstr "Vyberte brand"
+
+#: src/segments/zones/molecules/ZoneList.tsx:21
+msgid "Select brand to see its zones"
+msgstr "Vyberte brand pre načítanie zón"
+
+#: src/segments/menu/molecules/RecipeTypeSelection.tsx:33
+msgid "Select item type"
+msgstr "Vyberte typ položky"
+
+#: src/segments/menu/organisms/StockListTable.tsx:22
+#: src/segments/stock/molecules/StockTransferTable.tsx:56
+msgid "Selected branch has no stock cards"
+msgstr "Vybraná pobočka nemá žiadne skladové karty"
+
+#: src/segments/order/molecules/OrderStateTimeNotification.tsx:25
+msgid "Send expected time of delivery to customer (in minutes)"
+msgstr "Odoslať predpokladanú dobu dodania zákazníkovi (v minútach)"
+
+#: src/segments/order/molecules/OrderStateTimeNotification.tsx:26
+msgid "Send expected time of pickup to customer (in minutes)"
+msgstr "Zaslať čas pre vyzdvihnutie zákazníkovi (v minútách)"
+
+#: src/pages/ErrorPage.tsx:34
+msgid "Send feedback"
+msgstr "Odoslať spätnú väzbu"
+
+#: src/pages/ServiceUnreachablePage.tsx:21
+msgid "Service unreachable"
+msgstr "Služba nedostupná"
+
+#: src/segments/zones/organisms/ZoneMenuPanel.tsx:49
+msgid "Service zones"
+msgstr "Servisné zóny"
+
+#: src/segments/login/routes/PasswordChangeRoute.tsx:58
+msgid "Set up password"
+msgstr "Nastaviť heslo"
+
+#: src/segments/dashboard/pages/MainDashboardPage.tsx:23
+#: src/segments/dashboard/pages/SettingsDashboardPage.tsx:11
+msgid "Settings"
+msgstr "Nastavenie"
+
+#: src/segments/overview/molecules/ClosureHistoryFilter.tsx:17
+msgid "Show history for branch"
+msgstr "Zobraziť históriu pobočky"
+
+#: src/segments/menu/molecules/RecipeListTable.tsx:44
+#: src/segments/menu/molecules/RecipeTypeSelection.tsx:42
+msgid "Sidedish"
+msgstr "Prídavok"
+
+#: src/segments/menu/menu.labels.ts:6
+#: src/segments/menu/pages/MenuRecipePage.tsx:47
+msgid "Sidedish categories"
+msgstr "Prídavkové kategórie"
+
+#: src/segments/menu/menu.labels.ts:11
+msgid "Sidedish recipe"
+msgstr "Prídavková receptúra"
+
+#: src/segments/login/organisms/PasswordLoginForm.tsx:16
+msgid "Sign-in"
+msgstr "Prihlásiť"
+
+#: src/segments/businesshours/pages/BusinessHoursPage.tsx:28
+msgid "Specific business hours"
+msgstr "Mimoriadne otváracie hodiny"
+
+#: src/components/AddressSuggest/DiscoverSuggestions.tsx:23
+msgid "Start typing to search for an address"
+msgstr "Napíšte adresu pre spustenie vyhľadávania"
+
+#: src/segments/dashboard/pages/MainDashboardPage.tsx:22
+#: src/segments/dashboard/pages/StockDashboardPage.tsx:8
+msgid "Stock"
+msgstr "Sklad"
+
+#: src/segments/menu/pages/MenuStockPage.tsx:15
+#: src/segments/stock/molecules/StockDepositFilterInput.tsx:5
+msgid "Stock card"
+msgstr "Skladová karta"
+
+#: src/segments/stock/organisms/StockDepositControl.tsx:102
+msgid "Stock card <0>{0}</0> is selected"
+msgstr "Zvolená skladová karta <0>{0}</0>"
+
+#: src/segments/dashboard/pages/StockDashboardPage.tsx:10
+#: src/segments/stock/pages/StockDepositPage.tsx:8
+msgid "Stock deposit"
+msgstr "Naskladnenie"
+
+#: src/segments/dashboard/pages/SettingsDashboardPage.tsx:17
+#: src/segments/dashboard/pages/StockDashboardPage.tsx:9
+#: src/segments/menu/pages/MenuStockListPage.tsx:17
+msgid "Stock overview"
+msgstr "Prehľad skladov"
+
+#: src/segments/dashboard/pages/StatsDashboardPage.tsx:13
+#: src/segments/dashboard/pages/StockDashboardPage.tsx:12
+#: src/segments/stock/pages/StockStatisticsPage.tsx:9
+msgid "Stock statistics"
+msgstr "Skladové štatistiky"
+
+#: src/segments/dashboard/pages/StockDashboardPage.tsx:11
+#: src/segments/stock/molecules/MenuStockTransferButton.tsx:6
+#: src/segments/stock/pages/StockTransferPage.tsx:36
+msgid "Stock transfer"
+msgstr "Prevod skladov"
+
+#: src/atoms/ShowFeedbackButton.tsx:7
+#~ msgid "Submit feedback"
+#~ msgstr "Poslať názor"
+
+#: src/segments/menu/molecules/RecipeImage.tsx:68
+msgid "Supplied file is not recognized as image."
+msgstr "Dodaný súbor nebol rozpoznaný ako obrázok."
+
+#: src/segments/dashboard/pages/MainDashboardPage.tsx:25
+msgid "Support"
+msgstr "Podpora"
+
+#: src/atoms/DataTable.tsx:81
+msgid "Table is empty"
+msgstr "Tabuľka je prázdna"
+
+#: src/pages/NotFoundPage.tsx:6
+msgid "There is nothing here, sorry!"
+msgstr "Nič tu nie je, ospravedlňujeme sa!"
+
+#: src/segments/menu/pages/MenuRecipePage.tsx:50
+msgid "These sidedish are presented with recipe"
+msgstr "Tieto prílohy sú ponúkané s receptom"
+
+#: src/segments/order/molecules/OrderDetailTotals.tsx:11
+msgid "Tips"
+msgstr "Sprepitné"
+
+#: src/segments/createorder/molecules/OrderMenuFilter.tsx:28
+#: src/segments/stock/molecules/StockDepositFilterInput.tsx:8
+#: src/segments/stock/pages/StockTransferPage.tsx:51
+msgid "Title"
+msgstr "Názov"
+
+#: src/segments/overview/molecules/StatisticsPrimaryFilter.tsx:18
+msgid "To"
+msgstr "Do"
+
+#: src/segments/overview/molecules/ClosureHistoryFilter.tsx:13
+msgid "To date"
+msgstr "Do dátumu"
+
+#: src/segments/kitchen/molecules/KitchenCardOrder.tsx:64
+#: src/segments/order/molecules/OrderTicker.tsx:90
+msgid "To pickup"
+msgstr "Osobný odber"
+
+#: src/segments/menu/organisms/CategoryFormPrimary.tsx:22
+msgid "To show this category"
+msgstr "Zobraziť túto kategóriu"
+
+#: src/segments/menu/organisms/RecipeFormPrimary.tsx:33
+msgid "To show this recipe"
+msgstr "Zobraziť túto receptúru"
+
+#: src/atoms/FormInputDate.tsx:18
+#~ msgid "Today"
+#~ msgstr "Dnes"
+
+#: src/segments/overview/molecules/OrdersStatisticsSummary.tsx:80
+msgid "Total commissions"
+msgstr "Celková provízia"
+
+#: src/segments/createorder/molecules/OrderCartTotals.tsx:11
+#: src/segments/order/molecules/OrderDetailTotals.tsx:16
+msgid "Total price"
+msgstr "Cena celkom"
+
+#: src/segments/overview/molecules/OrdersStatisticsSummary.tsx:56
+msgid "Total turnover"
+msgstr "Celkový obrat"
+
+#: src/segments/order/molecules/OrderTransferToBranch.tsx:22
+msgid "Transfer"
+msgstr "Prenos"
+
+#: src/segments/order/molecules/OrderTransferToBranch.tsx:25
+msgid "Transfer to branch"
+msgstr "Presunúť na pobočku"
+
+#: src/segments/stock/molecules/ConfirmTransferButton.tsx:54
+msgid "Transfer was successfully completed!"
+msgstr "Prevod bol úspešne dokončený!"
+
+#: src/segments/createorder/molecules/OrderCartTotals.tsx:13
+#: src/segments/order/molecules/OrderDetailTotals.tsx:12
+msgid "Transport fee"
+msgstr "Dovozné"
+
+#: src/segments/menu/molecules/RecipeListTable.tsx:24
+msgid "Type"
+msgstr "Typ"
+
+#: src/app/DefaultErrorHandler.tsx:77
+msgid "Unexpected error in the app"
+msgstr "Nastala neočakávaná chyba v aplikácií."
+
+#: src/app/DefaultErrorHandler.tsx:45
+msgid "Unexpected error occured in communication with service."
+msgstr "Nastala neočakávaná chyba pri komunikacií so službou."
+
+#: src/app/DefaultErrorHandler.tsx:50
+msgid "Unexpected error occured while sending a request."
+msgstr "Nastala neočakávaná chyba pri odosielaní požiadavku."
+
+#: src/molecules/DefaultErrorHandler.tsx:7
+#~ msgid "Unexpected error occured while sending a request. Our team was notified about the issue."
+#~ msgstr "Pri odosielaní požiadavku sa objavila neočakávaná chyba. Náš tým bol informovaný."
+
+#: src/segments/menu/atoms/MenuBaseFormLoader.tsx:41
+#~ msgid "Unexpected error while sending form. Out team was notified about the issue."
+#~ msgstr "Neočakávaná chyba pri odosielaní formulára. Náš tým bol informovaný."
+
+#: src/segments/login/organisms/PasswordResetForm.tsx:63
+#: src/segments/login/organisms/PasswordResetForm.tsx:63
+msgid "Unknown error while requesting password recovery"
+msgstr "Pri vyžiadaní obnovy hesla nastala neznáma chyba"
+
+#: src/segments/menu/molecules/CategoryRequirementControl.tsx:58
+msgid "Unlimited"
+msgstr "Neobmedzené"
+
+#: src/segments/login/routes/PasswordChangeRoute.tsx:63
+msgid "Update password"
+msgstr "Aktualizovať heslo"
+
+#: src/segments/overview/molecules/ClosureHistoryTable.tsx:21
+#~ msgid "Use the filter"
+#~ msgstr "Použiť filter"
+
+#: src/segments/dashboard/pages/SettingsDashboardPage.tsx:14
+#: src/segments/settings/pages/UserMenuPage.tsx:9
+msgid "User"
+msgstr "Uživateľ"
+
+#: src/segments/menu/molecules/RecipeVatSelectField.tsx:13
+msgid "VAT"
+msgstr "DPH"
+
+#: src/segments/overview/molecules/SalesStatisticsContent.tsx:33
+msgid "VAT overview"
+msgstr "Súhrn DPH"
+
+#: src/atoms/FormInputFlatSelect.tsx:7
+msgid "Value"
+msgstr "Hodnota"
+
+#: src/segments/menu/molecules/RecipeListTable.tsx:49
+#: src/segments/menu/molecules/RecipeTypeSelection.tsx:38
+msgid "Ware"
+msgstr "Ponuka"
+
+#: src/segments/menu/menu.labels.ts:5
+msgid "Ware categories"
+msgstr "Skladová kategória"
+
+#: src/segments/menu/menu.labels.ts:10
+msgid "Ware recipe"
+msgstr "Skladová receptúra"
+
+#: src/segments/menu/molecules/RecipeIngredientsTable.tsx:13
+msgid "Ware unit"
+msgstr "Skladová jednotka"
+
+#: src/segments/order/organisms/FastClose.tsx:59
+msgid "We are closed at the moment"
+msgstr "Pre veľký záujem momentálne neprijímame objednávky. Skúste to prosím neskôr. Ďakujeme."
+
+#: src/segments/branchpreferences/organism/StoppageForm.tsx:5
+msgid "We are not delivering, only take away."
+msgstr "Nerozvážame, možný iba osobný odber."
+
+#: src/pages/ErrorPage.tsx:17
+#~ msgid "We are sorry, but there is an internal error in the app. Our team was notified and will fix this soon."
+#~ msgstr "Ospravedlňujeme sa, ale vyskytla sa interná chyba. Náš tým bol upozornený a čoskoro to napraví."
+
+#: src/pages/ErrorPage.tsx:22
+msgid "We are sorry, but there is an unexpected problem in the app. Our team was notified and will fix this soon."
+msgstr "Ospravedlňujeme sa, ale nastala neočakávaná chyba v aplikácií. Náš tým bol informovaný a čoskoro to napraví."
+
+#: src/segments/order/molecules/NoteLine.tsx:15
+msgid "Without note"
+msgstr "Bez poznámky"
+
+#: src/segments/zones/molecules/CreateZoneButton.tsx:41
+msgid "Zone has been created"
+msgstr "Zóna bola vytvorená"
+
+#: src/segments/zones/molecules/ZoneFormLoader.tsx:38
+msgid "Zone has been updated"
+msgstr "Zóna byla upravená"
+
+#: src/segments/zones/molecules/ZoneFormContent.tsx:26
+#~ msgid "Zone name"
+#~ msgstr "Názov zóny"
+
+#: src/segments/zones/atoms/ZoneFormRuleInputs.tsx:12
+msgid "Zone price rules cannot have empty values."
+msgstr ""
+
+#. Price range to be reached to apply zone rule
+#: src/segments/zones/atoms/ZoneFormRuleInputs.tsx:9
+#~ msgid "at"
+#~ msgstr ""
+
+#: src/segments/branchpreferences/pages/BranchPreferencesPage.tsx:14
+msgid "branch.preferences.stoppage"
+msgstr "Odstávka"
+
+#: src/segments/menu/molecules/CategoryOriginsField.tsx:10
+msgid "cat. origins"
+msgstr "kat. pôvodu"
+
+#. Label for input with transport fee used when zone rule applies
+#: src/segments/zones/atoms/ZoneFormForPrice.tsx:16
+msgid "for"
+msgstr "za"
+
+#: src/components/forms/FormInputTimeSpan.tsx:11
+#: src/segments/businesshours/atoms/BusinessHoursTimeRange.tsx:13
+msgid "input.timespan.from"
+msgstr "od"
+
+#: src/components/forms/FormInputTimeSpan.tsx:14
+#: src/segments/businesshours/atoms/BusinessHoursTimeRange.tsx:14
+msgid "input.timespan.to"
+msgstr "do"
+
+#: src/segments/login/organisms/PasswordChangeForm.tsx:35
+msgid "new password"
+msgstr "nové heslo"
+
+#: src/atoms/SelectControlFlat.tsx:88
+msgid "optionselector.clear-filter"
+msgstr "Všetko"
+
+#: src/segments/login/organisms/PasswordLoginForm.tsx:12
+#: src/segments/login/organisms/PasswordLoginForm.tsx:12
+msgid "password"
+msgstr "heslo"
+
+#: src/segments/menu/molecules/RecipeListTable.tsx:29
+msgid "recipe.list.availableAmount"
+msgstr "Sklad"
+
+#. Label for input with upper bound of order price where zone rule is applied
+#: src/segments/zones/atoms/ZoneFormToPrice.tsx:16
+msgid "to"
+msgstr "do"
+
+#: src/segments/stock/molecules/StockTransferAmountInput.tsx:18
+msgid "to transfer"
+msgstr "k prevodu"
+
+#: src/segments/login/organisms/PasswordLoginForm.tsx:10
+#: src/segments/login/organisms/PasswordLoginForm.tsx:10
+msgid "username"
+msgstr "meno"
+
+#: src/segments/overview/molecules/StatisticsPrimaryFilter.tsx:22
+msgid "{0, plural, one {Show for one branch} few {Show for # branches} other {Show for # branches}}"
+msgstr "{0, plural, one {Ukáž pre jednu pobočku} few {Ukáž pre # pobočky} other {Ukáž pre # pobočiek}}"
+
+#: src/atoms/FormInputSelect.tsx:20
+#~ msgid "{0} must be selected"
+#~ msgstr "{0} musí byť vybrané"
+
+#: src/segments/order/molecules/OrderCountLine.tsx:6
+#~ msgid "{current, selectordinal, one {#st} two {#nd} few {#rd} other {#th}}"
+#~ msgstr "{current, selectordinal, one {#st} two {#nd} few {#rd} other {#th}}"
+
+#: src/segments/menu/molecules/RecipeIngredientsTable.tsx:22
+#~ msgid "{fieldName} must be a positive number"
+#~ msgstr "{fieldName} musí byť kladné číslo"
+
+#: src/helpers/form.ts:7
+#~ msgid "{fieldName} must be entered"
+#~ msgstr "{fieldName} musí byť zadané"
+
+#: src/segments/createorder/molecules/OrderMenuFilter.tsx:30
+msgid "{recipeCount, plural, zero {No recipes found} one {One recipe found, Enter to confirm} few {Found # recipes} other {Found # recipes}}"
+msgstr "{recipeCount, plural, zero {Nenašli sa žiadne recepty} one {Našiel sa jeden recept, potvrďte enterom,} few {Nájdené # recepty} other {Nájdených # receptov}}"
+
+#: src/segments/order/molecules/OrderCountLine.tsx:7
+#~ msgid "{total, plural, one {} other {from total of # orders}}"
+#~ msgstr "{total, plural, one {} other {from total of # orders}}"
+
+#: src/atoms/FormInputTextBox.tsx:23
+msgid "{validatioName} is required"
+msgstr "{validatioName} je povinné"
+
+#: src/atoms/FormInputFlatSelect.tsx:14
+msgid "{validationName} must have a selection"
+msgstr "{validationName} musí byť vybrané"
+
+#: src/atoms/FormInputFlatSelect.tsx:11
+msgid "{validationName} must have at least option selected"
+msgstr "{validationName} aspoň jedna možnosť musí byt vybraná"
