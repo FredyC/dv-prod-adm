@@ -1,0 +1,2 @@
+(this.webpackJsonpspeedlo=this.webpackJsonpspeedlo||[]).push([[318],{1e3:function(e,o,t){"use strict";Object.defineProperty(o,"__esModule",{value:!0}),o.default=function(e){return p[e]};var p={lastWeek:"'verlede' eeee 'om' p",yesterday:"'gister om' p",today:"'vandag om' p",tomorrow:"'m\xf4re om' p",nextWeek:"eeee 'om' p",other:"P"};e.exports=o.default}}]);
+//# sourceMappingURL=df-6.2085965e.chunk.js.map

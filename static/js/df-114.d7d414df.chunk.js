@@ -1,0 +1,2 @@
+(this.webpackJsonpspeedlo=this.webpackJsonpspeedlo||[]).push([[59],{1276:function(e,t,o){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var a={};["MMM","MMMM"].forEach((function(e){a["Do "+e]=function(t,o){var a=o.formatters,r=a[1===t.getUTCDate()?"Do":"D"],s=a[e];return r(t,o)+" "+s(t,o)}}));var r=a;t.default=r,e.exports=t.default}}]);
+//# sourceMappingURL=df-114.d7d414df.chunk.js.map
