@@ -1,2 +1,0 @@
-(this.webpackJsonpspeedlo=this.webpackJsonpspeedlo||[]).push([[85],{1103:function(e,t,o){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default=function(e,t,o,s){return p[e]};var p={lastWeek:"'\u092a\u093f\u091b\u0932\u0947' eeee p",yesterday:"'\u0915\u0932' p",today:"'\u0906\u091c' p",tomorrow:"'\u0915\u0932' p",nextWeek:"eeee '\u0915\u094b' p",other:"P"};e.exports=t.default}}]);
-//# sourceMappingURL=df-138.cab42962.chunk.js.map

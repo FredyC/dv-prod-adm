@@ -1,0 +1,2 @@
+(this.webpackJsonpspeedlo=this.webpackJsonpspeedlo||[]).push([[41],{986:function(t,e,s){"use strict";Object.defineProperty(e,"__esModule",{value:!0}),e.default=function(t){return function(e){var s=e||{},u=s.width?String(s.width):t.defaultWidth;return t.formats[u]||t.formats[t.defaultWidth]}},t.exports=e.default}}]);
+//# sourceMappingURL=df-0.a489ed8e.chunk.js.map
