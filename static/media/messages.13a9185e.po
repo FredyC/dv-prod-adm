@@ -1,0 +1,1635 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2019-12-16 11:09+0100\n"
+"Mime-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: fr\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/segments/zones/molecules/ZoneFormContent.tsx:35
+msgid "<0>Delivery cost</0><1>according order total cost</1>"
+msgstr "<0>Prix de livraison</0><1>selon le prix total de la commande</1>"
+
+#: src/segments/createorder/molecules/OrderFormDeliverAt.tsx:22
+msgid "ASAP"
+msgstr "Le plus tôt"
+
+#: src/segments/createorder/molecules/OrderAcceptButton.tsx:10
+#: src/segments/order/molecules/OrderStateButton.tsx:9
+msgid "Accept order"
+msgstr "Accepter la commande"
+
+#: src/segments/businesshours/organisms/SpecificBusinessHourForm.tsx:75
+#: src/segments/menu/atoms/MenuSuggestionPanel.tsx:21
+#: src/segments/menu/atoms/MenuSuggestionPanel.tsx:21
+msgid "Add"
+msgstr "Ajouter"
+
+#: src/segments/zones/molecules/ZoneFormPriceRules.tsx:114
+msgid "Add another range"
+msgstr "Ajouter un autre fourchette"
+
+#: src/segments/businesshours/molecules/BusinessHoursWeekday.tsx:52
+msgid "Add business hour"
+msgstr "Ajouter horaires d'ouverture"
+
+#: src/segments/menu/organisms/RecipeIngredientsView.tsx:20
+msgid "Add ingredient"
+msgstr "Ajouter ingrédient"
+
+#: src/segments/createorder/molecules/OrderSidedishModal.tsx:24
+msgid "Add something else to {0}?"
+msgstr "Ajouter autre chose à {0}?"
+
+#: src/segments/businesshours/pages/BusinessHoursPage.tsx:36
+msgid "Add specific business hour"
+msgstr "Ajouter des horaires d'ouverture exceptionnels"
+
+#: src/segments/menu/pages/MenuRecipePage.tsx:61
+msgid "Add to category"
+msgstr "Ajouter à la catégorie"
+
+#: src/segments/stock/molecules/StockDepositConfirmButton.tsx:6
+msgid "Add {0} {1}"
+msgstr "Ajouter {0} {1}"
+
+#: src/segments/createorder/molecules/OrderFormDeliveryAddress.tsx:65
+msgid "Address is not within any delivery zone"
+msgstr "L'adresse ne se trouve dans aucune zone de livraison"
+
+#: src/segments/createorder/molecules/OrderFormDeliveryAddress.tsx:59
+msgid "Address is within delivery zone"
+msgstr "L'adresse se trouve dans la zone de livraison"
+
+#: src/atoms/SelectControl.tsx:66
+msgid "All"
+msgstr "Tout"
+
+#: src/segments/menu/molecules/RecipeAllergenDisplay.tsx:19
+msgid "Allergens based on stock cards"
+msgstr "Allergènes selon la carte de stock"
+
+#: src/segments/stock/molecules/StockTransferTable.tsx:58
+msgid "Amount"
+msgstr "Quantité"
+
+#: src/pages/ErrorPage.tsx:19
+msgid "Application error"
+msgstr "Erreur d'application"
+
+#: src/segments/settings/pages/UserMenuPage.tsx:12
+msgid "Application language"
+msgstr "Langue de l'application"
+
+#: src/app/UpdateHandler.tsx:111
+msgid "Application will be restarted in {remainingSeconds} to apply available update."
+msgstr "L'application redémarrera dans {remainingSeconds} pour prendre en compte les modifications"
+
+#: src/segments/overview/molecules/ClosureSubmitButton.tsx:9
+msgid "Are you sure?"
+msgstr "Etes-vous sûr/e ?"
+
+#: src/segments/createorder/molecules/OrderFormDeliverAt.tsx:23
+msgid "At time"
+msgstr "A l'heure"
+
+#: src/segments/menu/pages/MenuRecipePage.tsx:52
+msgid "Attach sidedish category"
+msgstr "Ajouter une catégorie de suppléments"
+
+#: src/segments/zones/molecules/ZoneFormControls.tsx:18
+msgid "Back"
+msgstr "Retour"
+
+#: src/segments/branchpreferences/pages/BranchPreferencesPage.tsx:10
+#: src/segments/settings/organisms/PreferencesButton.tsx:6
+msgid "Branch preferences"
+msgstr "Réglage de la succursale"
+
+#: src/segments/order/organisms/FastClose.tsx:44
+msgid "Branch will open again {minutesLocalized}."
+msgstr "La succursale ouvre de nouveau {minutesLocalized}."
+
+#: src/segments/businesshours/pages/BusinessHoursPage.tsx:14
+#: src/segments/dashboard/pages/SettingsDashboardPage.tsx:12
+msgid "Business hours"
+msgstr "Horaires d'ouverture"
+
+#: src/segments/overview/molecules/SalesStatisticsContent.tsx:40
+msgid "By category"
+msgstr "Selon la catégorie"
+
+#: src/segments/overview/molecules/SalesStatisticsContent.tsx:52
+msgid "By driver"
+msgstr "Selon le chauffeur"
+
+#: src/segments/overview/molecules/SalesStatisticsContent.tsx:44
+msgid "By type"
+msgstr "Selon le type"
+
+#: src/segments/overview/molecules/SalesStatisticsContent.tsx:48
+msgid "By zone"
+msgstr "Par zone"
+
+#: src/segments/stock/pages/StockTransferPage.tsx:62
+msgid "Can't access page"
+msgstr "Page inaccessible"
+
+#: src/segments/createorder/molecules/OrderSidedishModal.tsx:37
+#: src/segments/menu/molecules/ImageCropModal.tsx:57
+#: src/segments/order/hooks/useTimeSelectionDialog.tsx:17
+#: src/segments/order/organisms/FastClose.tsx:67
+msgid "Cancel"
+msgstr "Annuler"
+
+#: src/segments/createorder/molecules/OrderCancelButton.tsx:7
+#: src/segments/order/molecules/OrderCancelButton.tsx:13
+msgid "Cancel order"
+msgstr "Annuler la commande"
+
+#: src/atoms/BaseMap.tsx:41
+msgid "Cannot load map right now. Please try again later."
+msgstr "Impossible de charger la carte. Merci d'essayer plus tard."
+
+#: src/segments/login/models/PasswordLoginModel.ts:59
+msgid "Cannot login right now, please try again later"
+msgstr "Connexion impossible, merci de réessayer plus tard."
+
+#: src/segments/menu/organisms/StockFormPrimary.tsx:18
+#: src/segments/menu/organisms/StockListTable.tsx:25
+#: src/segments/stock/molecules/StockDepositResultTable.tsx:12
+#: src/segments/stock/molecules/StockTransferTable.tsx:61
+msgid "Card code"
+msgstr "Code de la carte"
+
+#: src/segments/menu/organisms/StockFormPrimary.tsx:17
+#: src/segments/menu/organisms/StockListTable.tsx:26
+#: src/segments/stock/molecules/StockDepositResultTable.tsx:13
+#: src/segments/stock/molecules/StockTransferTable.tsx:62
+msgid "Card name"
+msgstr "Nom de la carte"
+
+#: src/segments/menu/organisms/StockFormPrimary.tsx:21
+#: src/segments/menu/organisms/StockFormPrimary.tsx:21
+#: src/segments/menu/organisms/StockListTable.tsx:29
+#: src/segments/stock/molecules/StockDepositResultTable.tsx:14
+msgid "Card note"
+msgstr "Note"
+
+#: src/segments/menu/organisms/StockListTable.tsx:27
+#: src/segments/stock/molecules/StockDepositResultTable.tsx:11
+#: src/segments/stock/molecules/StockTransferTable.tsx:60
+msgid "Card stock"
+msgstr "Stock"
+
+#: src/segments/createorder/organisms/OrderCart.tsx:23
+msgid "Cart is empty"
+msgstr "Le panier est vide"
+
+#: src/segments/dashboard/pages/SettingsDashboardPage.tsx:16
+msgid "Categories"
+msgstr "Catégories"
+
+#: src/segments/menu/pages/MenuRecipePage.tsx:56
+msgid "Category assignments"
+msgstr "Affecté à la catégorie"
+
+#: src/segments/menu/organisms/CategoryFormPrimary.tsx:20
+msgid "Category internal note"
+msgstr "Note interne de la catégorie"
+
+#: src/segments/menu/organisms/CategoryFormPrimary.tsx:19
+msgid "Category name"
+msgstr "Nom de catégorie"
+
+#: src/segments/menu/organisms/CategoryFormLoader.tsx:26
+msgid "Category name in default language must be entered."
+msgstr "Le nom de catégorie doit être saisi dans la langue initiale"
+
+#: src/segments/menu/pages/MenuCategoryListPage.tsx:43
+msgid "Category of covers"
+msgstr "Catégorie d'emballage"
+
+#: src/segments/menu/pages/MenuCategoryListPage.tsx:35
+msgid "Category of recipes"
+msgstr "Catégorie de recettes"
+
+#: src/segments/menu/pages/MenuCategoryListPage.tsx:39
+msgid "Category of sidedish"
+msgstr "Catégorie de supplément"
+
+#: src/segments/menu/pages/MenuCategoryListPage.tsx:22
+msgid "Category overview"
+msgstr "Récapitulatif des catégories"
+
+#: src/segments/order/molecules/OrderPaymentMethod.tsx:25
+msgid "Change"
+msgstr "Changement  "
+
+#: src/segments/order/organisms/BranchDefaultTime.tsx:57
+msgid "Change default time of delivery to customer (in minutes)"
+msgstr "Changer l'heure initiale de livraison au client (en minutes)"
+
+#: src/segments/order/organisms/BranchDefaultTime.tsx:58
+msgid "Change default time of pickup (in minutes)"
+msgstr "Changer l'heure initiale pour l'enlèvement (en minutes)"
+
+#: src/segments/settings/organisms/UserMenuLanguage.tsx:60
+msgid "Change language"
+msgstr "Changer de langue"
+
+#: src/segments/branchpreferences/pages/BranchPreferencesPage.tsx:19
+msgid "Change of invoice preferences"
+msgstr "Changement des données de facturation"
+
+#: src/segments/order/molecules/OrderPaymentMethod.tsx:30
+msgid "Change payment method"
+msgstr "Changement du mode de paiement"
+
+#: src/segments/order/molecules/OrderDeliveryToPickup.tsx:18
+msgid "Change to pickup"
+msgstr "Changer en à emporter"
+
+#: src/segments/createorder/molecules/OrderFormBranch.tsx:21
+msgid "Changing branch will cancel current order and remove all items from the cart. Proceed?"
+msgstr "Le changement de succursale annule la commande en cours et enlève tous les articles du panier. Souhaitez-vous continuer ? "
+
+#: src/segments/settings/organisms/UserMenuLanguage.tsx:60
+msgid "Changing language..."
+msgstr "Changement de langue"
+
+#: src/segments/menu/molecules/ImageCropModal.tsx:50
+msgid "Choose the most significant part of the image"
+msgstr "Sélectionnez la partie la plus importante de l'image"
+
+#: src/segments/menu/molecules/StockWareUnitField.tsx:12
+msgid "Choose unit"
+msgstr "Choisir une unité"
+
+#: src/components/ColorSelector.tsx:21
+msgid "Clear"
+msgstr "Vider"
+
+#: src/segments/menu/molecules/RecipeImage.tsx:98
+msgid "Click to select image or drop it here"
+msgstr "Sélectionnez le fichier ou glissez-le ici"
+
+#: src/app/DefaultErrorHandler.tsx:76
+msgid "Close"
+msgstr "Fermer"
+
+#: src/segments/order/organisms/FastClose.tsx:60
+msgid "Close reason"
+msgstr "Motif de fermeture"
+
+#: src/segments/businesshours/molecules/BusinessHoursWeekday.tsx:43
+#: src/segments/businesshours/molecules/SpecificBusinessHourLine.tsx:19
+#: src/segments/businesshours/molecules/SpecificModeSelector.tsx:10
+msgid "Closed"
+msgstr "Fermé"
+
+#: src/segments/businesshours/organisms/SpecificBusinessHourForm.tsx:69
+msgid "Closing reason"
+msgstr "Motif de fermeture"
+
+#: src/segments/dashboard/pages/StatsDashboardPage.tsx:12
+#: src/segments/overview/pages/ClosurePage.tsx:10
+msgid "Closure"
+msgstr "Arrêté des comptes"
+
+#: src/segments/overview/organisms/ClosureStatisticsControl.tsx:39
+msgid "Closure has been created"
+msgstr "L'arrêté des comptes a été créé"
+
+#: src/segments/overview/molecules/ClosureHistoryButton.tsx:11
+#: src/segments/overview/pages/ClosureHistoryPage.tsx:10
+msgid "Closure history"
+msgstr "Historique des arrêtés des comptes"
+
+#: src/segments/createorder/molecules/OrderMenuFilter.tsx:28
+#: src/segments/menu/molecules/MenuCodeInput.tsx:7
+#: src/segments/menu/molecules/RecipeListTable.tsx:25
+#: src/segments/stock/molecules/StockDepositFilterInput.tsx:8
+#: src/segments/stock/pages/StockTransferPage.tsx:51
+msgid "Code"
+msgstr "Code"
+
+#: src/segments/branchpreferences/organism/StoppageForm.tsx:7
+msgid "Completely stop all orders."
+msgstr "Stopper complètement toutes les commandes."
+
+#: src/segments/dashboard/pages/MainDashboardPage.tsx:22
+#: src/segments/kitchen/pages/KitchenCompletionPage.tsx:15
+msgid "Completion"
+msgstr "Complètement"
+
+#: src/segments/overview/molecules/ClosureStatisticsContent.tsx:19
+#: src/segments/overview/molecules/OrdersStatisticsSummary.tsx:47
+#: src/segments/overview/molecules/SalesStatisticsContent.tsx:24
+msgid "Computing"
+msgstr "En cours de traitement"
+
+#: src/segments/createorder/molecules/OrderSidedishModal.tsx:38
+#: src/segments/menu/molecules/ImageCropModal.tsx:60
+msgid "Confirm"
+msgstr "Confirmer"
+
+#: src/segments/stock/molecules/ConfirmTransferButton.tsx:66
+msgid "Confirm import"
+msgstr "Confirmer l'import"
+
+#: src/atoms/SoundControl.tsx:30
+msgid "Confirm to play sounds"
+msgstr "Confirmez pour la mise en marche des sons"
+
+#: src/segments/stock/molecules/ConfirmTransferButton.tsx:66
+msgid "Confirm transfer"
+msgstr "Confirmer le transfert"
+
+#: src/pages/ServiceUnreachablePage.tsx:24
+msgid "Connection to external service is not possible at the moment. Please try again later or <0>contact our support</0>."
+msgstr "Connexion au service externe actuellement impossible. Merci de répéter plus tard ou <0>contactez l'assistance</0>."
+
+#: src/segments/dashboard/pages/SupportPage.tsx:9
+msgid "Contact support"
+msgstr "Contacter l'assistance"
+
+#: src/segments/stock/organisms/StockDepositControl.tsx:97
+msgid "Continue typing to find single stock card or select one from the list"
+msgstr "Continuez à écrire pour trouver une carte ou choisissez dans la liste"
+
+#: src/segments/menu/molecules/RecipeListTable.tsx:47
+#: src/segments/menu/molecules/RecipeTypeSelection.tsx:45
+msgid "Cover"
+msgstr "Emballage"
+
+#: src/segments/menu/menu.labels.ts:7
+msgid "Cover categories"
+msgstr "Catégories d'emballage"
+
+#: src/segments/menu/menu.labels.ts:12
+msgid "Cover recipe"
+msgstr "Emballages"
+
+#: src/segments/createorder/molecules/OrderCartTotals.tsx:14
+#: src/segments/order/molecules/OrderDetailTotals.tsx:13
+msgid "Covers price"
+msgstr "Prix des emballages"
+
+#: src/segments/menu/atoms/MenuSubmitButton.tsx:11
+msgid "Create"
+msgstr "Créer"
+
+#: src/segments/overview/molecules/ClosureSubmitButton.tsx:10
+msgid "Create closure"
+msgstr "Créer l'arrêté des comptes"
+
+#: src/segments/zones/molecules/CreateZoneButton.tsx:47
+msgid "Create delivery zone for branch"
+msgstr "Créez une zone de livraison pour branch"
+
+#: src/segments/dashboard/molecules/CreateOrderDashboardButton.tsx:9
+#: src/segments/order/molecules/CreateOrderButton.tsx:12
+msgid "Create order"
+msgstr "Créer une commande"
+
+#: src/segments/login/routes/PasswordChangeRoute.tsx:60
+msgid "Create password"
+msgstr "Créer un mot de passe"
+
+#: src/segments/zones/molecules/CreateZoneButton.tsx:48
+msgid "Create return zone for branch"
+msgstr "Créez une zone de retour pour branch"
+
+#: src/segments/order/molecules/OrderTimeLine.tsx:11
+msgid "Created"
+msgstr "Créé"
+
+#: src/segments/overview/molecules/ClosureCurrentButton.tsx:11
+msgid "Current closure"
+msgstr "Arrêté des comptes actuel"
+
+#: src/segments/createorder/molecules/OrderFormDeliverAt.tsx:34
+msgid "Current estimated delivery time is <0>{deliveryTime} minutes</0>"
+msgstr "Heure de livraison actuelle <0>{deliveryTime} minutes</0>"
+
+#: src/segments/createorder/molecules/OrderFormDeliverAt.tsx:39
+msgid "Current estimated pickup time is <0>{pickupTime} minutes</0>"
+msgstr "Heure actuelle pour l'enlèvement <0>{pickupTime} minutes</0>"
+
+#: src/segments/menu/organisms/CategoryRequirementsForm.tsx:32
+msgid "Custom range"
+msgstr "Zone personnalisée"
+
+#: src/segments/customerscreen/pages/CustomerScreenSetupPage.tsx:17
+#: src/segments/dashboard/pages/MainDashboardPage.tsx:23
+msgid "Customer screen"
+msgstr "Ecran client"
+
+#: src/segments/overview/molecules/SalesStatisticsContent.tsx:32
+msgid "Daily statistics"
+msgstr "Statistiques journalières"
+
+#: src/segments/businesshours/organisms/SpecificBusinessHourForm.tsx:62
+msgid "Date"
+msgstr "Date"
+
+#: src/atoms/InputDate.tsx:7
+#: src/atoms/InputDateTime.tsx:12
+msgid "Date is too much in the future"
+msgstr "Date trop lointaine"
+
+#: src/atoms/InputDate.tsx:7
+#: src/atoms/InputDateTime.tsx:12
+msgid "Date is too much in the past"
+msgstr "Date trop antérieure"
+
+#: src/segments/order/organisms/BranchDefaultTime.tsx:57
+msgid "Default time of delivery to customer is changed"
+msgstr "L'heure de livraison au client initiale a été modifiée"
+
+#: src/segments/order/organisms/BranchDefaultTime.tsx:58
+msgid "Default time of pickup is changed"
+msgstr "L'heure d'enlèvement initial a été modifiée"
+
+#: src/segments/createorder/molecules/OrderFormDeliveryType.tsx:9
+#: src/segments/createorder/molecules/OrderFormDestination.tsx:9
+msgid "Deliver"
+msgstr "Livrer"
+
+#: src/segments/kitchen/atoms/KitchenOrderAtSummary.tsx:25
+msgid "Deliver at"
+msgstr "Livrer à  "
+
+#: src/segments/order/molecules/OrderStats.tsx:24
+msgid "Deliver at time"
+msgstr "Livrer à"
+
+#: src/segments/order/molecules/OrderStats.tsx:32
+msgid "Deliver on time"
+msgstr "Livrer à"
+
+#: src/segments/createorder/molecules/OrderFormDeliveryAddress.tsx:85
+msgid "Deliver to address"
+msgstr "Livrer à l'adresse"
+
+#: src/segments/kitchen/atoms/KitchenOrderAtSummary.tsx:21
+msgid "Deliver until"
+msgstr "Livrer avant"
+
+#: src/segments/menu/menu.labels.ts:15
+#: src/segments/menu/molecules/RecipeListTable.tsx:27
+msgid "Delivery sale"
+msgstr "A emporter"
+
+#: src/segments/dashboard/pages/SettingsDashboardPage.tsx:13
+#: src/segments/zones/pages/ZonesOverviewPage.tsx:13
+msgid "Delivery zones"
+msgstr "Zones de livraison"
+
+#: src/segments/createorder/molecules/OrderCartTotals.tsx:15
+#: src/segments/order/molecules/OrderDetailTotals.tsx:14
+msgid "Discount total"
+msgstr "Réduction totale"
+
+#: src/segments/createorder/atoms/OrderCancelPrompt.tsx:26
+msgid "Do you really want to cancel order?"
+msgstr "Souhaitez-vous vraiment annuler la commande ?"
+
+#: src/segments/zones/organisms/ZoneFormPanel.tsx:51
+msgid "Do you want to cancel changes for the zone?"
+msgstr "Vous souhaitez annuler les changements réalisés dans le réglage de la zone ?"
+
+#: src/segments/order/molecules/OrderStats.tsx:41
+msgid "Driver"
+msgstr "Conducteur"
+
+#: src/segments/order/molecules/OrderMapDeliveries.tsx:50
+msgid "Driver position is unknown"
+msgstr "Position du chauffeur inconnue"
+
+#: src/segments/order/organisms/ReturningDrivers.tsx:23
+msgid "Driver {driverName} has reached return zone {zoneName}"
+msgstr "Le chauffeur {driverName} vient de rentrer dans la zone de retour {zoneName}"
+
+#: src/segments/menu/molecules/RecipeImage.tsx:98
+msgid "Drop the image here ..."
+msgstr "Glissez l'image ici"
+
+#: src/segments/createorder/organisms/OrderForm.tsx:55
+msgid "E-mail"
+msgstr "E-mail"
+
+#: src/segments/login/organisms/PasswordResetForm.tsx:29
+msgid "Email to recover your password has been successfully sent."
+msgstr "E-mail de renouvellement de mot de passe envoyé"
+
+#: src/segments/stock/molecules/ImportModeToggle.tsx:12
+msgid "Enable import mode"
+msgstr "Rendre accessible le mode d'import"
+
+#: src/segments/menu/organisms/CategoryRequirementsForm.tsx:27
+msgid "Exactly one"
+msgstr "Exactement une"
+
+#: src/segments/order/molecules/OrderStateTimeNotification.tsx:34
+msgid "Expected time of delivery was set"
+msgstr "L'heure attendue de livraison a été réglée"
+
+#: src/segments/order/molecules/OrderStateTimeNotification.tsx:35
+msgid "Expected time of pickup was set"
+msgstr "L'heure attendue d'enlèvement a été réglée"
+
+#: src/segments/menu/molecules/MenuIdExternalSystem.tsx:6
+msgid "External ID"
+msgstr "ID pour systèmes externes (DJ, écran tactile ...)"
+
+#: src/segments/order/molecules/OrderDetailTotals.tsx:15
+msgid "Extra charge"
+msgstr "Frais extras"
+
+#: src/segments/createorder/molecules/OrderFormPromo.tsx:18
+msgid "Failed retrieving available promo codes"
+msgstr "Code promotionnels disponibles"
+
+#: src/segments/createorder/molecules/OrderFormPaymentMethod.tsx:57
+msgid "Failed to retrieve available payment methods"
+msgstr "échec d'obtention du mode de paiement disponible"
+
+#: src/segments/order/organisms/FastClose.tsx:57
+msgid "Fast close branch (for minutes)"
+msgstr "Fermeture rapide de la succursale (en minutes)"
+
+#: src/helpers/form.ts:8
+msgid "Field {fieldDescription} cannot be empty"
+msgstr "Le champ {fieldDescription} ne doit pas être vide"
+
+#: src/helpers/form.ts:11
+msgid "Field {fieldDescription} must be a number"
+msgstr "Le champ {fieldDescription} doit être un nombre"
+
+#: src/helpers/form.ts:14
+msgid "Field {fieldDescription} must be a positive number"
+msgstr "Le champ {fieldDescription} doit être un nombre positif"
+
+#: src/segments/kitchen/molecules/KitchenFilters.tsx:86
+msgid "Filter"
+msgstr "Filtre"
+
+#: src/components/filters/BranchFilter.tsx:24
+msgid "Filter branch..."
+msgstr "Filtre des succursales"
+
+#: src/components/filters/BranchesFilter.tsx:16
+#: src/molecules/CompanyBranchDropdown.tsx:21
+msgid "Filter branches..."
+msgstr "Filtrer les succursales "
+
+#: src/components/filters/CashboxesFilter.tsx:12
+msgid "Filter by cashbox"
+msgstr "Filtre par caisse"
+
+#: src/components/filters/CashiersFilter.tsx:13
+msgid "Filter by cashier"
+msgstr "Filtre par caissier"
+
+#: src/segments/menu/molecules/RecipeCategoryFilter.tsx:34
+msgid "Filter by category"
+msgstr "Filtre par catégorie"
+
+#: src/components/filters/CountryFilter.tsx:9
+msgid "Filter by country"
+msgstr "Filtre par pays"
+
+#: src/components/filters/DriversFilter.tsx:13
+msgid "Filter by drivers"
+msgstr "Filtrer selon le livreur"
+
+#: src/segments/menu/molecules/MenuFilterInput.tsx:7
+#: src/segments/stock/molecules/StockStatisticsFilter.tsx:35
+msgid "Filter by name or code"
+msgstr "Filtrer selon le nom ou le code"
+
+#: src/components/filters/OccasionsFilter.tsx:20
+msgid "Filter by occasions"
+msgstr "Filtres par événement"
+
+#: src/components/filters/OriginsFilter.tsx:9
+msgid "Filter by order origins"
+msgstr "Filtre selon l'origine des commandes"
+
+#: src/components/filters/SectorsFilter.tsx:58
+msgid "Filter by sectors"
+msgstr "Filtre par secteurs"
+
+#: src/segments/order/molecules/OrderStateButton.tsx:11
+msgid "Finish order"
+msgstr "Terminer la commande"
+
+#: src/segments/order/molecules/OrderTimeLine.tsx:15
+msgid "Finished"
+msgstr "Terminés"
+
+#: src/segments/createorder/molecules/OrderFormCustomerName.tsx:22
+msgid "First name"
+msgstr "Prénom"
+
+#: src/segments/menu/molecules/StockAllowNegativeField.tsx:17
+msgid "Forbid"
+msgstr "Interdire"
+
+#: src/segments/menu/organisms/StockListTable.tsx:36
+#: src/segments/stock/molecules/StockTransferTable.tsx:70
+msgid "Forbidden"
+msgstr "Interdit"
+
+#: src/segments/login/molecules/PasswordResetLink.tsx:10
+msgid "Forgotten password"
+msgstr "Mot de passe oublié"
+
+#: src/segments/overview/molecules/StatisticsPrimaryFilter.tsx:17
+msgid "From"
+msgstr "De"
+
+#: src/segments/overview/molecules/ClosureHistoryFilter.tsx:10
+msgid "From date"
+msgstr "Depuis la date"
+
+#: src/segments/dashboard/pages/SupportPage.tsx:11
+msgid "If you have any questions or technical problems, please contact us by phone:<0/><1><2>+420 774 454 840</2></1><3/>Every day from 9:00 to 22:00"
+msgstr "Si vous avez des question ou en cas de problème technique, merci de nous contacter au :<0/><1><2>+420 461 049 231</2></1><3/>Tous les jours de 9h00 à 22h00"
+
+#: src/segments/stock/molecules/StockTransferTable.tsx:42
+#: src/segments/stock/molecules/StockTransferTable.tsx:59
+msgid "Import"
+msgstr "Import"
+
+#: src/segments/createorder/molecules/OrderFormDeliverAt.tsx:24
+msgid "In minutes"
+msgstr "En minutes"
+
+#: src/segments/menu/molecules/MenuInternalNoteField.tsx:6
+#: src/segments/menu/molecules/RecipeListTable.tsx:30
+msgid "Internal note"
+msgstr "Note interne  "
+
+#: src/atoms/ConnectionWarning.tsx:33
+msgid "Internet connection is not available"
+msgstr "Connexion à Internet indisponible"
+
+#: src/segments/zones/molecules/ZoneFormContent.tsx:32
+msgid "Is active"
+msgstr "Est actif"
+
+#: src/segments/menu/molecules/StockAllowNegativeField.tsx:27
+msgid "Is default setting"
+msgstr "Est un réglage par défaut"
+
+#: src/segments/order/molecules/OrderCountLine.tsx:3
+msgid "It's customer's {current, selectordinal, one {#st} two {#nd} few {#rd} other {#th}} order {total, plural, one {} other {from total of # orders}}"
+msgstr "La commande {current, selectordinal, one {1.} two {#.} few {#.} other {#.}} de client {total, plural, one {} few {de # commandes au total} other {d # commandes au total}}"
+
+#: src/segments/dashboard/pages/MainDashboardPage.tsx:21
+#: src/segments/kitchen/pages/KitchenOverviewPage.tsx:30
+msgid "Kitchen"
+msgstr "Cuisine"
+
+#: src/segments/createorder/molecules/OrderFormCustomerName.tsx:25
+msgid "Last name"
+msgstr "Nom"
+
+#: src/segments/kitchen/organisms/KitchenCompletionShelf.tsx:25
+#: src/segments/kitchen/organisms/KitchenShelf.tsx:24
+msgid "Loading"
+msgstr "Chargement"
+
+#: src/segments/createorder/molecules/OrderSidedishModal.tsx:20
+msgid "Loading sidedishes..."
+msgstr "Chargement des suppléments"
+
+#: src/segments/menu/menu.labels.ts:16
+#: src/segments/menu/molecules/RecipeListTable.tsx:28
+msgid "Local sale"
+msgstr "Vente ici"
+
+#: src/segments/login/organisms/PasswordResetForm.tsx:37
+msgid "Login name"
+msgstr "Nom d'utilisateur"
+
+#: src/segments/login/pages/PasswordLoginPage.tsx:17
+msgid "Login page"
+msgstr "Page de connexion"
+
+#: src/segments/dashboard/pages/MainDashboardPage.tsx:16
+msgid "Main menu"
+msgstr "Menu principal"
+
+#: src/segments/dashboard/pages/MainDashboardPage.tsx:18
+#: src/segments/order/pages/OrderMapPage.tsx:14
+msgid "Map"
+msgstr "Carte"
+
+#: src/components/AddressSuggest/AddressSuggestMenu.tsx:59
+msgid "Matching to input"
+msgstr "Non trouvé"
+
+#: src/atoms/PasswordInput.tsx:8
+msgid "Maximal length is {length}"
+msgstr "La longueur maximale est {length}"
+
+#: src/segments/menu/organisms/CategoryRequirementsForm.tsx:63
+msgid "Maximum"
+msgstr "Maximum"
+
+#: src/segments/menu/molecules/MenuGuideDownload.tsx:26
+msgid "Menu codes manual"
+msgstr "Manuel de réception de commande"
+
+#: src/atoms/PasswordInput.tsx:7
+msgid "Minimal length is {length}"
+msgstr "La longueur minimale est {length}"
+
+#: src/segments/createorder/organisms/OrderCart.tsx:33
+msgid "Minimal order price is <0>{minimalPrice}</0>"
+msgstr "Le prix minimal de la commande est  <0>{minimalPrice}</0>"
+
+#: src/segments/zones/molecules/ZoneFormLoader.tsx:27
+#: src/segments/zones/molecules/ZoneFormLoader.tsx:27
+msgid "Minimal price"
+msgstr "Prix minimal"
+
+#: src/segments/menu/organisms/CategoryRequirementsForm.tsx:62
+msgid "Minimum"
+msgstr "Minimum"
+
+#: src/segments/menu/molecules/CategoryListTable.tsx:27
+#: src/segments/menu/molecules/RecipeAssocListTable.tsx:8
+#: src/segments/menu/molecules/RecipeIngredientsTable.tsx:9
+#: src/segments/menu/molecules/RecipeListTable.tsx:26
+#: src/segments/menu/organisms/StockRecipesVIew.tsx:33
+msgid "Name"
+msgstr "Nom"
+
+#: src/segments/menu/molecules/StockAllowNegativeField.tsx:22
+#: src/segments/menu/organisms/StockListTable.tsx:28
+#: src/segments/stock/molecules/StockTransferTable.tsx:63
+msgid "Negative stock"
+msgstr "Stock négatif"
+
+#: src/segments/createorder/pages/CreateOrderPage.tsx:40
+msgid "New order"
+msgstr "Nouvelle commande"
+
+#: src/segments/kitchen/pages/KitchenCompletionPage.tsx:28
+#: src/segments/kitchen/pages/KitchenOverviewPage.tsx:43
+msgid "New orders"
+msgstr "Nouvelles commandes"
+
+#: src/segments/overview/molecules/ClosureHistoryTable.tsx:33
+msgid "No closures found"
+msgstr "Aucun arrêté des comptes"
+
+#: src/components/filters/CountryFilter.tsx:9
+msgid "No countries"
+msgstr "Aucun pays"
+
+#: src/segments/order/atoms/OrderDriverSelect.tsx:33
+msgid "No drivers available"
+msgstr "Livreurs non disponibles"
+
+#: src/segments/menu/organisms/CategoryRequirementsForm.tsx:12
+msgid "No limitation"
+msgstr "Sans limitation"
+
+#: src/components/AddressSuggest/AddressSuggestItems.tsx:11
+msgid "No match found"
+msgstr "Aucun résultat"
+
+#: src/segments/kitchen/pages/KitchenCompletionPage.tsx:28
+#: src/segments/kitchen/pages/KitchenOverviewPage.tsx:43
+msgid "No new orders"
+msgstr "Aucune nouvelle commande"
+
+#: src/components/filters/OccasionsFilter.tsx:20
+msgid "No occasions"
+msgstr "Aucun événement"
+
+#: src/segments/overview/molecules/OrdersStatisticsList.tsx:87
+msgid "No orders"
+msgstr "Aucune commande"
+
+#: src/segments/kitchen/pages/KitchenCompletionPage.tsx:32
+msgid "No orders to complete"
+msgstr "Aucune commande à compléter"
+
+#: src/segments/kitchen/pages/KitchenOverviewPage.tsx:54
+msgid "No orders to deliver"
+msgstr "Aucune commande à délivrer"
+
+#: src/segments/kitchen/pages/KitchenCompletionPage.tsx:39
+msgid "No orders to hand over"
+msgstr "Aucune commande à remettre"
+
+#: src/segments/kitchen/pages/KitchenOverviewPage.tsx:47
+msgid "No orders to prepare"
+msgstr "Aucune commande à préparer"
+
+#: src/components/filters/OriginsFilter.tsx:9
+msgid "No origins"
+msgstr "Aucune origine"
+
+#: src/segments/createorder/molecules/OrderFormPromo.tsx:20
+msgid "No promo codes available"
+msgstr "Aucun code promotionnel disponible"
+
+#: src/segments/menu/organisms/StockRecipesVIew.tsx:20
+msgid "No recipes are using stock card"
+msgstr "Aucune recette n'utilise des cartes de stock"
+
+#: src/segments/menu/molecules/RecipeListTable.tsx:17
+msgid "No recipes has been found"
+msgstr "Aucune recette trouvée"
+
+#: src/segments/menu/molecules/CategoryListTable.tsx:9
+msgid "No recipes in category"
+msgstr "Aucune recette dans la catégorie"
+
+#: src/components/filters/SectorsFilter.tsx:59
+msgid "No sectors"
+msgstr "Aucun secteur"
+
+#: src/segments/businesshours/organisms/SpecificBusinessHours.tsx:36
+msgid "No specific business hours defined"
+msgstr "Les horaires d'ouverture concrets ne sont pas définis"
+
+#: src/segments/stock/organisms/StockDepositControl.tsx:101
+msgid "No stock card found from entered search value"
+msgstr "Aucune carte de stock ne correspond à la valeur saisie"
+
+#: src/segments/stock/molecules/StockDepositConfirmButton.tsx:6
+msgid "No stock card selected"
+msgstr "Carte de stock non sélectionnée"
+
+#: src/segments/menu/atoms/MenuTranslationInput.tsx:54
+msgid "No text is filled"
+msgstr "Aucun texte n'est saisi"
+
+#: src/pages/NotFoundPage.tsx:5
+msgid "Not found"
+msgstr "non trouvé"
+
+#: src/organisms/LogoutWidget.tsx:71
+msgid "Not logged in"
+msgstr "N'est pas connecté"
+
+#: src/segments/menu/molecules/RecipeListTable.tsx:39
+#: src/segments/menu/organisms/CategoryRecipesView.tsx:62
+msgid "Not set"
+msgstr "Non réglé"
+
+#: src/segments/createorder/organisms/OrderForm.tsx:58
+msgid "Note"
+msgstr "Note"
+
+#: src/segments/zones/atoms/ZoneListSection.tsx:12
+msgid "Notification will be shown when driver enters one of these zones."
+msgstr "La notification s'affiche lorsque le chauffer rentre dans une des zones."
+
+#: src/segments/order/molecules/OrderTimeLine.tsx:14
+msgid "On way"
+msgstr "Sur la route"
+
+#: src/segments/menu/organisms/CategoryRequirementsForm.tsx:22
+msgid "One at least"
+msgstr "Au moins une"
+
+#: src/segments/menu/organisms/CategoryRequirementsForm.tsx:17
+msgid "One at most"
+msgstr "Au maximum une"
+
+#: src/segments/overview/molecules/OrdersStatisticsSummary.tsx:64
+msgid "Online payments"
+msgstr "Paiements en ligne"
+
+#: src/segments/businesshours/molecules/SpecificBusinessHourLine.tsx:19
+msgid "Open"
+msgstr "Ouvrir"
+
+#: src/segments/businesshours/molecules/SpecificModeSelector.tsx:9
+msgid "Open between"
+msgstr "Ouvert entre"
+
+#: src/segments/createorder/hooks/useAcceptOrder.ts:32
+msgid "Order has been accepted"
+msgstr "La commande a été reçue"
+
+#: src/segments/dashboard/pages/MainDashboardPage.tsx:17
+#: src/segments/order/pages/OrderMapPage.tsx:21
+#: src/segments/order/pages/OrderOverviewPage.tsx:31
+msgid "Orders"
+msgstr "Commandes"
+
+#: src/segments/overview/molecules/OrdersStatisticsSummary.tsx:72
+msgid "Orders count"
+msgstr "Nombre de commandes"
+
+#: src/segments/dashboard/pages/StatsDashboardPage.tsx:10
+#: src/segments/overview/pages/OrdersStatisticsPage.tsx:17
+msgid "Orders statistics"
+msgstr "Statistiques des commandes"
+
+#: src/segments/kitchen/pages/KitchenCompletionPage.tsx:32
+msgid "Orders to complete"
+msgstr "Commandes à compléter"
+
+#: src/segments/kitchen/pages/KitchenOverviewPage.tsx:54
+msgid "Orders to deliver"
+msgstr "Commandes à livrer"
+
+#: src/segments/kitchen/pages/KitchenCompletionPage.tsx:39
+msgid "Orders to hand over"
+msgstr "Commandes à remettre"
+
+#: src/segments/kitchen/pages/KitchenOverviewPage.tsx:47
+msgid "Orders to prepare"
+msgstr "Commandes à préparer"
+
+#: src/app/DefaultErrorHandler.tsx:11
+msgid "Our team was notified about the issue."
+msgstr "Le problème a été signalé à notre équipe."
+
+#: src/segments/dashboard/pages/MainDashboardPage.tsx:26
+#: src/segments/overview/routes/OverviewRouting.tsx:14
+msgid "Overview"
+msgstr "Résumé"
+
+#: src/segments/menu/molecules/StockPluField.tsx:9
+#: src/segments/stock/molecules/StockDepositFilterInput.tsx:8
+#: src/segments/stock/pages/StockTransferPage.tsx:51
+msgid "PLU"
+msgstr "PLU"
+
+#: src/segments/order/molecules/OrderTicker.tsx:121
+msgid "Paid"
+msgstr "Payé"
+
+#: src/segments/login/routes/PasswordChangeRoute.tsx:45
+msgid "Password has been updated."
+msgstr "Le mot de passe a été actualisé"
+
+#: src/segments/login/organisms/PasswordChangeForm.tsx:49
+msgid "Password is invalid due to following errors:"
+msgstr "Mot de passe invalide pour les raisons suivantes :"
+
+#: src/segments/login/pages/PasswordResetPage.tsx:10
+#: src/segments/login/routes/PasswordChangeRoute.tsx:63
+msgid "Password recovery"
+msgstr "Renouvellement du mot de passe"
+
+#: src/segments/menu/molecules/StockAllowNegativeField.tsx:13
+msgid "Permit"
+msgstr "Autoriser  "
+
+#: src/segments/menu/organisms/StockListTable.tsx:36
+#: src/segments/stock/molecules/StockTransferTable.tsx:70
+msgid "Permitted"
+msgstr "Autorisé"
+
+#: src/segments/createorder/molecules/OrderFormDeliveryType.tsx:13
+#: src/segments/createorder/molecules/OrderFormDestination.tsx:13
+msgid "Personal pickup"
+msgstr "A emporter"
+
+#: src/segments/kitchen/atoms/KitchenOrderAtSummary.tsx:29
+msgid "Personal pickup at"
+msgstr "Enlèvement personnel à"
+
+#: src/segments/createorder/molecules/OrderFormPhone.tsx:18
+#: src/segments/createorder/molecules/OrderFormPhone.tsx:18
+msgid "Phone"
+msgstr "Téléphone"
+
+#: src/segments/createorder/molecules/OrderFormPhone.tsx:18
+msgid "Phone number is required"
+msgstr "Merci de saisir le numéro de téléphone"
+
+#: src/segments/createorder/molecules/OrderFormPhone.tsx:15
+msgid "Phone prefix"
+msgstr "Préfixe"
+
+#: src/segments/createorder/molecules/OrderFormPhone.tsx:15
+msgid "Phone prefix is required"
+msgstr "Préfixe exigé"
+
+#: src/app/UpdateHandler.tsx:113
+msgid "Postpone update"
+msgstr "Sauvegarder update"
+
+#: src/segments/customerscreen/pages/CustomerScreenPage.tsx:13
+#: src/segments/order/molecules/OrderTimeLine.tsx:12
+msgid "Preparing"
+msgstr "En cours de préparation"
+
+#: src/components/AddressSuggest/AddressSuggestMenu.tsx:55
+msgid "Previous addresses"
+msgstr "Adresses précédentes"
+
+#: src/segments/customerscreen/molecules/MarqueeNumberStack.tsx:49
+msgid "Previous:"
+msgstr "Précédent :"
+
+#: src/segments/menu/molecules/RecipeAssocListTable.tsx:9
+msgid "Price"
+msgstr "Prix"
+
+#: src/segments/createorder/molecules/OrderFormPromo.tsx:20
+msgid "Promo codes"
+msgstr "Codes promotionnels"
+
+#: src/segments/menu/molecules/RecipeDescriptionInput.tsx:7
+msgid "Public note"
+msgstr "Note publique"
+
+#: src/segments/menu/molecules/RecipeDescriptionInput.tsx:8
+msgid "Public note for customers, allergens"
+msgstr "Note pour le client, allergène"
+
+#: src/segments/menu/molecules/RecipeIngredientsTable.tsx:10
+msgid "Quantity"
+msgstr "Saisir le nombre"
+
+#: src/segments/customerscreen/pages/CustomerScreenPage.tsx:16
+msgid "Ready"
+msgstr "Prêt   "
+
+#: src/segments/order/molecules/OrderStateButton.tsx:10
+#: src/segments/order/molecules/OrderTimeLine.tsx:13
+msgid "Ready to deliver"
+msgstr "Prêt à la livraison"
+
+#: src/segments/order/molecules/OrderCancelButton.tsx:10
+msgid "Really cancel?"
+msgstr "Vraiment annuler ?"
+
+#: src/segments/order/molecules/OrderDeliveryToPickup.tsx:15
+msgid "Really change?"
+msgstr "Vraiment modifier ?"
+
+#: src/segments/businesshours/molecules/SpecificBusinessHourLine.tsx:10
+msgid "Really remove specific business hour {0}?"
+msgstr "Vraiment effacer les horaires d'ouverture exceptionnels {0}?"
+
+#: src/segments/menu/organisms/RecipeFormLoader.tsx:33
+#: src/segments/menu/organisms/RecipeFormPrimary.tsx:22
+msgid "Recipe code"
+msgstr "Code de recette"
+
+#: src/segments/menu/molecules/CategoryListTable.tsx:28
+msgid "Recipe count"
+msgstr "Nombre de recette"
+
+#: src/segments/menu/molecules/RecipeIngredientsTable.tsx:7
+msgid "Recipe has no ingredients"
+msgstr "La recette n'a pas d'ingrédients"
+
+#: src/segments/menu/pages/MenuRecipePage.tsx:52
+msgid "Recipe has no sidedish category attached"
+msgstr "Aucune catégorie d'accompagnement attribuée à la recette"
+
+#: src/segments/menu/pages/MenuRecipePage.tsx:39
+msgid "Recipe ingredients"
+msgstr "Ingrédients de la recette"
+
+#: src/segments/menu/organisms/RecipeFormPrimary.tsx:27
+msgid "Recipe internal note"
+msgstr "Note interne"
+
+#: src/segments/menu/pages/MenuRecipePage.tsx:59
+msgid "Recipe is in these categories"
+msgstr "La recettes est dans les catégories suivantes "
+
+#: src/segments/menu/pages/MenuRecipePage.tsx:61
+msgid "Recipe is not in any category"
+msgstr "La recette ne se trouve dans aucune catégorie"
+
+#: src/segments/menu/organisms/RecipeFormPrimary.tsx:23
+msgid "Recipe name"
+msgstr "Nom de recette"
+
+#: src/segments/menu/organisms/RecipeFormLoader.tsx:32
+msgid "Recipe name in default language"
+msgstr "Nom de recette en langue d'origine"
+
+#: src/segments/menu/pages/MenuRecipeListPage.tsx:30
+msgid "Recipe overview"
+msgstr "Récapitulatif des recettes"
+
+#: src/segments/menu/organisms/RecipeFormLoader.tsx:36
+msgid "Recipe price for {priceType}"
+msgstr "Prix de la recette pour {priceType}"
+
+#: src/segments/dashboard/pages/SettingsDashboardPage.tsx:15
+#: src/segments/menu/molecules/CategoryListTable.tsx:28
+msgid "Recipes"
+msgstr "Articles"
+
+#: src/segments/menu/pages/MenuCategoryPage.tsx:60
+msgid "Recipes assigned to this category"
+msgstr "Recettes affectées à cette catégorie"
+
+#: src/segments/menu/organisms/StockRecipesVIew.tsx:25
+msgid "Recipes using this card"
+msgstr "Recettes utilisant cette carte"
+
+#: src/segments/login/organisms/PasswordResetForm.tsx:41
+msgid "Recover password"
+msgstr "Renouveler le mot de passe"
+
+#: src/segments/businesshours/pages/BusinessHoursPage.tsx:20
+msgid "Regular business hours"
+msgstr "Horaires d'ouverture habituels"
+
+#: src/segments/businesshours/organisms/BusinessHoursForm.tsx:91
+msgid "Regular business hours has been updated"
+msgstr "Les horaires d'ouverture habituels ont été actualisé"
+
+#: src/segments/businesshours/molecules/BusinessHoursWeekday.tsx:33
+msgid "Remove business hour"
+msgstr "Supprimer les horaires d'ouverture"
+
+#: src/segments/zones/molecules/ZoneFormPriceRules.tsx:117
+msgid "Remove price range"
+msgstr "Retirer la fourchette des prix"
+
+#: src/segments/menu/organisms/StockFormPrimary.tsx:24
+msgid "Remove this card?"
+msgstr "Supprimer cette carte ?"
+
+#: src/segments/menu/organisms/CategoryFormPrimary.tsx:28
+msgid "Remove this category?"
+msgstr "Supprimer cette catégorie ?"
+
+#: src/segments/menu/organisms/RecipeFormPrimary.tsx:35
+msgid "Remove this recipe?"
+msgstr "Supprimer cette recette ?"
+
+#: src/segments/zones/organisms/ZoneFormPanel.tsx:46
+msgid "Remove zone {0}?"
+msgstr "Effacer la zone {0}?"
+
+#: src/segments/login/routes/PasswordChangeRoute.tsx:34
+#: src/segments/login/routes/PasswordChangeRoute.tsx:49
+msgid "Request for password update is invalid. Please try again."
+msgstr "La demande d'actualisation est invalide. Merci de réessayer."
+
+#: src/segments/menu/pages/MenuCategoryPage.tsx:51
+msgid "Required amounts of recipes to be picked"
+msgstr "Nombre exigé pour la sélection"
+
+#: src/atoms/PasswordInput.tsx:9
+msgid "Requires at least one digit"
+msgstr "Nécessite au moins un nombre"
+
+#: src/atoms/PasswordInput.tsx:10
+msgid "Requires at least one uppercase character"
+msgstr "Nécessite au moins un lettre majuscule"
+
+#: src/pages/ErrorPage.tsx:40
+msgid "Restart application"
+msgstr "Redémarrer l'application"
+
+#: src/app/UpdateHandler.tsx:116
+msgid "Restart now"
+msgstr "Redémarrer maintenant"
+
+#: src/pages/ServiceUnreachablePage.tsx:36
+msgid "Retry the connection"
+msgstr "Restaurer la connexion"
+
+#: src/segments/dashboard/pages/StatsDashboardPage.tsx:11
+#: src/segments/overview/pages/SalesStatisticsPage.tsx:17
+msgid "Sales statistics"
+msgstr "Statistiques de vente"
+
+#: src/segments/menu/atoms/MenuSubmitButton.tsx:11
+msgid "Save"
+msgstr "Sauvegarder"
+
+#: src/segments/branchpreferences/organism/SaveInvoicePreferencesButton.tsx:5
+msgid "Save invoice preferences"
+msgstr "Sauvegarder les données de facturation"
+
+#: src/segments/businesshours/organisms/BusinessHoursForm.tsx:102
+msgid "Save regular hours"
+msgstr "Sauvegarder les horaires d'ouverture réguliers"
+
+#: src/segments/zones/molecules/ZoneFormControls.tsx:23
+msgid "Save zone"
+msgstr "Sauvegarder la zone"
+
+#: src/components/AddressSuggest/DiscoverSuggestions.tsx:28
+msgid "Searching..."
+msgstr "Recherche en cours…"
+
+#: src/molecules/CompanyBranchDropdown.tsx:21
+#: src/segments/kitchen/organisms/KitchenCompletionShelf.tsx:20
+#: src/segments/kitchen/organisms/KitchenShelf.tsx:19
+#: src/segments/overview/molecules/ClosureHistoryTable.tsx:28
+#: src/segments/overview/molecules/ClosureStatisticsContent.tsx:16
+msgid "Select a branch"
+msgstr "Sélectionnez une succursale"
+
+#: src/segments/order/molecules/FastCloseButton.tsx:20
+msgid "Select a single branch for closing"
+msgstr "Sélectionnez une succursale pour la fermeture"
+
+#: src/segments/order/organisms/BranchDefaultTime.tsx:41
+msgid "Select a single branch to set delivery time"
+msgstr "Choisissez une succursale pour laquelle vous souhaitez régler l'heure initiale de livraison"
+
+#: src/segments/order/organisms/OrderList.tsx:19
+msgid "Select at least one branch"
+msgstr "Sélectionnez au moins une succursale"
+
+#: src/segments/zones/molecules/CreateZoneButton.tsx:56
+msgid "Select branch to create zone"
+msgstr "Sélectionnez une succursale pour créer une zone"
+
+#: src/molecules/CompanyBrandDropdown.tsx:25
+msgid "Select brand"
+msgstr "Sélectionnez brand"
+
+#: src/segments/zones/molecules/ZoneList.tsx:21
+msgid "Select brand to see its zones"
+msgstr "Sélectionnez brand pour charger les zones"
+
+#: src/segments/menu/molecules/RecipeTypeSelection.tsx:33
+msgid "Select item type"
+msgstr "Sélectionnez le type d'article"
+
+#: src/segments/menu/organisms/StockListTable.tsx:22
+#: src/segments/stock/molecules/StockTransferTable.tsx:56
+msgid "Selected branch has no stock cards"
+msgstr "La succursale sélectionnée n'a aucune carte de stock"
+
+#: src/segments/order/molecules/OrderStateTimeNotification.tsx:26
+msgid "Send expected time of delivery to customer (in minutes)"
+msgstr "Envoyer l'heure de livraison présumée au client (en minutes)"
+
+#: src/segments/order/molecules/OrderStateTimeNotification.tsx:27
+msgid "Send expected time of pickup to customer (in minutes)"
+msgstr "Envoyer l'heure d'enlèvement au client (en minutes)"
+
+#: src/pages/ErrorPage.tsx:34
+msgid "Send feedback"
+msgstr "Envoyer le retour d'expérience"
+
+#: src/pages/ServiceUnreachablePage.tsx:21
+msgid "Service unreachable"
+msgstr "Service indisponible"
+
+#: src/segments/zones/organisms/ZoneMenuPanel.tsx:49
+msgid "Service zones"
+msgstr "Zones de service"
+
+#: src/segments/login/routes/PasswordChangeRoute.tsx:59
+msgid "Set up password"
+msgstr "Régler le mot de passe"
+
+#: src/segments/dashboard/pages/MainDashboardPage.tsx:25
+#: src/segments/dashboard/pages/SettingsDashboardPage.tsx:11
+msgid "Settings"
+msgstr "Réglage  "
+
+#: src/segments/customerscreen/pages/CustomerScreenSetupPage.tsx:25
+msgid "Show customer screen"
+msgstr "Afficher l'écran client"
+
+#: src/segments/overview/molecules/ClosureHistoryFilter.tsx:17
+msgid "Show history for branch"
+msgstr "Afficher l'historique"
+
+#: src/segments/menu/molecules/RecipeListTable.tsx:44
+#: src/segments/menu/molecules/RecipeTypeSelection.tsx:42
+msgid "Sidedish"
+msgstr "Supplément"
+
+#: src/segments/menu/menu.labels.ts:6
+#: src/segments/menu/pages/MenuRecipePage.tsx:47
+msgid "Sidedish categories"
+msgstr "Catégorie de supplément"
+
+#: src/segments/menu/menu.labels.ts:11
+msgid "Sidedish recipe"
+msgstr "Recette avec supplément"
+
+#: src/segments/login/organisms/PasswordLoginForm.tsx:16
+msgid "Sign-in"
+msgstr "Connecter"
+
+#: src/segments/businesshours/pages/BusinessHoursPage.tsx:28
+msgid "Specific business hours"
+msgstr "Horaires d'ouverture exceptionnels"
+
+#: src/components/AddressSuggest/DiscoverSuggestions.tsx:23
+msgid "Start typing to search for an address"
+msgstr "Commencez à écrire pour trouver une adresse"
+
+#: src/segments/dashboard/pages/MainDashboardPage.tsx:24
+#: src/segments/dashboard/pages/StockDashboardPage.tsx:8
+msgid "Stock"
+msgstr "Stock"
+
+#: src/segments/menu/pages/MenuStockPage.tsx:15
+#: src/segments/stock/molecules/StockDepositFilterInput.tsx:5
+msgid "Stock card"
+msgstr "Carte de stock  "
+
+#: src/segments/stock/organisms/StockDepositControl.tsx:102
+msgid "Stock card <0>{0}</0> is selected"
+msgstr "Carte de stock sélectionnée <0>{0}</0>"
+
+#: src/segments/dashboard/pages/StockDashboardPage.tsx:10
+#: src/segments/stock/pages/StockDepositPage.tsx:8
+msgid "Stock deposit"
+msgstr "Réception de nouveau stock"
+
+#: src/segments/dashboard/pages/SettingsDashboardPage.tsx:17
+#: src/segments/dashboard/pages/StockDashboardPage.tsx:9
+#: src/segments/menu/pages/MenuStockListPage.tsx:17
+msgid "Stock overview"
+msgstr "Récapitulatif de stock"
+
+#: src/segments/dashboard/pages/StatsDashboardPage.tsx:13
+#: src/segments/dashboard/pages/StockDashboardPage.tsx:12
+#: src/segments/stock/pages/StockStatisticsPage.tsx:9
+msgid "Stock statistics"
+msgstr "Statistique des stocks"
+
+#: src/segments/dashboard/pages/StockDashboardPage.tsx:11
+#: src/segments/stock/molecules/MenuStockTransferButton.tsx:6
+#: src/segments/stock/pages/StockTransferPage.tsx:36
+msgid "Stock transfer"
+msgstr "Transfert des stocks"
+
+#: src/segments/menu/molecules/RecipeImage.tsx:69
+msgid "Supplied file is not recognized as image."
+msgstr "Le fichier fourni n'a pas été reconnu comme image"
+
+#: src/segments/dashboard/pages/MainDashboardPage.tsx:27
+msgid "Support"
+msgstr "Assistance"
+
+#: src/atoms/DataTable.tsx:83
+msgid "Table is empty"
+msgstr "Le tableau est vide"
+
+#: src/pages/NotFoundPage.tsx:6
+msgid "There is nothing here, sorry!"
+msgstr "Désolé, il n'y a rien ici !"
+
+#: src/segments/menu/pages/MenuRecipePage.tsx:50
+msgid "These sidedish are presented with recipe"
+msgstr "Accompagnements proposés avec la recette"
+
+#: src/segments/order/molecules/OrderDetailTotals.tsx:11
+msgid "Tips"
+msgstr "Pourboire"
+
+#: src/segments/createorder/molecules/OrderMenuFilter.tsx:28
+#: src/segments/stock/molecules/StockDepositFilterInput.tsx:8
+#: src/segments/stock/pages/StockTransferPage.tsx:51
+msgid "Title"
+msgstr "Nom"
+
+#: src/segments/overview/molecules/StatisticsPrimaryFilter.tsx:20
+msgid "To"
+msgstr "A"
+
+#: src/segments/overview/molecules/ClosureHistoryFilter.tsx:13
+msgid "To date"
+msgstr "Jusqu'à la date de"
+
+#: src/segments/kitchen/molecules/KitchenCardOrder.tsx:73
+#: src/segments/order/molecules/OrderTicker.tsx:90
+msgid "To pickup"
+msgstr "A emporter"
+
+#: src/segments/menu/organisms/CategoryFormPrimary.tsx:23
+msgid "To show this category"
+msgstr "Afficher cette catégorie"
+
+#: src/segments/menu/organisms/RecipeFormPrimary.tsx:33
+msgid "To show this recipe"
+msgstr "Afficher cette recette"
+
+#: src/segments/overview/molecules/OrdersStatisticsSummary.tsx:80
+msgid "Total commissions"
+msgstr "Commission totale"
+
+#: src/segments/createorder/molecules/OrderCartTotals.tsx:11
+#: src/segments/order/molecules/OrderDetailTotals.tsx:16
+msgid "Total price"
+msgstr "Prix total"
+
+#: src/segments/overview/molecules/OrdersStatisticsSummary.tsx:56
+msgid "Total turnover"
+msgstr "Chiffre d'affaire total"
+
+#: src/segments/order/molecules/OrderTransferToBranch.tsx:22
+msgid "Transfer"
+msgstr "Transfert"
+
+#: src/segments/order/molecules/OrderTransferToBranch.tsx:25
+msgid "Transfer to branch"
+msgstr "Transférer vers la succursale"
+
+#: src/segments/stock/molecules/ConfirmTransferButton.tsx:55
+msgid "Transfer was successfully completed!"
+msgstr "Le transfert a été terminé avec succès !"
+
+#: src/segments/createorder/molecules/OrderCartTotals.tsx:13
+#: src/segments/order/molecules/OrderDetailTotals.tsx:12
+msgid "Transport fee"
+msgstr "Frais de transport"
+
+#: src/segments/menu/molecules/RecipeListTable.tsx:24
+msgid "Type"
+msgstr "Type"
+
+#: src/app/DefaultErrorHandler.tsx:77
+msgid "Unexpected error in the app"
+msgstr "Erreur inattendue dans l'application."
+
+#: src/app/DefaultErrorHandler.tsx:45
+msgid "Unexpected error occured in communication with service."
+msgstr "Une erreur inattendue s'est produite lors de la communication avec le service."
+
+#: src/app/DefaultErrorHandler.tsx:50
+msgid "Unexpected error occured while sending a request."
+msgstr "Une erreur inattendue s'est produite lors de l'envoi de la demande."
+
+#: src/segments/login/organisms/PasswordResetForm.tsx:67
+#: src/segments/login/organisms/PasswordResetForm.tsx:67
+msgid "Unknown error while requesting password recovery"
+msgstr "Erreur inconnue lors du renouvellement du mot de passe"
+
+#: src/segments/menu/molecules/CategoryRequirementControl.tsx:58
+msgid "Unlimited"
+msgstr "illimité"
+
+#: src/segments/login/routes/PasswordChangeRoute.tsx:64
+msgid "Update password"
+msgstr "Actualiser le mot de passe"
+
+#: src/segments/dashboard/pages/SettingsDashboardPage.tsx:14
+#: src/segments/settings/pages/UserMenuPage.tsx:9
+msgid "User"
+msgstr "Utilisateur"
+
+#: src/segments/menu/molecules/RecipeVatSelectField.tsx:13
+msgid "VAT"
+msgstr "TVA"
+
+#: src/segments/overview/molecules/SalesStatisticsContent.tsx:36
+msgid "VAT overview"
+msgstr "Total TVA"
+
+#: src/atoms/FormInputFlatSelect.tsx:7
+msgid "Value"
+msgstr "Valeur"
+
+#: src/segments/menu/molecules/RecipeListTable.tsx:49
+#: src/segments/menu/molecules/RecipeTypeSelection.tsx:38
+msgid "Ware"
+msgstr "Offre"
+
+#: src/segments/menu/menu.labels.ts:5
+msgid "Ware categories"
+msgstr "Catégorie de stock"
+
+#: src/segments/menu/menu.labels.ts:10
+msgid "Ware recipe"
+msgstr "Recette de stock"
+
+#: src/segments/menu/molecules/RecipeIngredientsTable.tsx:13
+msgid "Ware unit"
+msgstr "Unité de stock"
+
+#: src/segments/order/organisms/FastClose.tsx:60
+msgid "We are closed at the moment"
+msgstr "Pour des raisons d'un grand volume de commandes, nous n'en acceptons plus. Merci de réessayer plus tard. "
+
+#: src/segments/branchpreferences/organism/StoppageForm.tsx:5
+msgid "We are not delivering, only take away."
+msgstr "Livraison impossible, uniquement à emporter "
+
+#: src/pages/ErrorPage.tsx:22
+msgid "We are sorry, but there is an unexpected problem in the app. Our team was notified and will fix this soon."
+msgstr "Désolé, une erreur inattendue s'est produite dans l'application. Notre équipe a été informée et la corrigera dans les plus brefs délais."
+
+#: src/segments/order/molecules/NoteLine.tsx:15
+msgid "Without note"
+msgstr "Sans note"
+
+#: src/atoms/SoundControl.tsx:21
+msgid "You have enabled sounds before. Due to technical restrictions, you need to click on the button below for sounds to be able to play. You can disable sounds with green button in top right corner."
+msgstr "Vous avez déjà activé les sons. Pour des raisons techniques, vous devez appuyer sur le bouton en dessous de ce message, de façon à ce que les sons continuent à être activés. Vous pouvez les couper à l'aide de l'icône située dans l'angle supérieur droit. "
+
+#: src/segments/zones/molecules/CreateZoneButton.tsx:42
+msgid "Zone has been created"
+msgstr "La zone a été créée"
+
+#: src/segments/zones/molecules/ZoneFormLoader.tsx:39
+msgid "Zone has been updated"
+msgstr "La zone a été modifiée"
+
+#: src/segments/zones/atoms/ZoneFormRuleInputs.tsx:12
+msgid "Zone price rules cannot have empty values."
+msgstr "Les règles de prix des zones ne doivent pas avoir des valeurs vides."
+
+#: src/segments/branchpreferences/pages/BranchPreferencesPage.tsx:14
+msgid "branch.preferences.stoppage"
+msgstr "Interruption "
+
+#: src/segments/menu/molecules/CategoryOriginsField.tsx:10
+msgid "cat. origins"
+msgstr "Cat. des origines"
+
+#. Label for input with transport fee used when zone rule applies
+#: src/segments/zones/atoms/ZoneFormForPrice.tsx:16
+msgid "for"
+msgstr "dans"
+
+#. Label for input with lower bound of order price where zone rule is applied
+#: src/segments/zones/atoms/ZoneFormRangePrice.tsx:16
+msgid "from"
+msgstr "de"
+
+#: src/components/forms/FormInputTimeSpan.tsx:11
+#: src/segments/businesshours/atoms/BusinessHoursTimeRange.tsx:13
+msgid "input.timespan.from"
+msgstr "du"
+
+#: src/components/forms/FormInputTimeSpan.tsx:14
+#: src/segments/businesshours/atoms/BusinessHoursTimeRange.tsx:14
+msgid "input.timespan.to"
+msgstr "au  "
+
+#: src/segments/login/organisms/PasswordChangeForm.tsx:33
+msgid "new password"
+msgstr "Nouveau mot de passe"
+
+#: src/atoms/SelectControlFlat.tsx:88
+msgid "optionselector.clear-filter"
+msgstr "Tout"
+
+#: src/segments/login/organisms/PasswordLoginForm.tsx:12
+#: src/segments/login/organisms/PasswordLoginForm.tsx:12
+msgid "password"
+msgstr "mot de passe  "
+
+#: src/segments/menu/molecules/RecipeListTable.tsx:29
+msgid "recipe.list.availableAmount"
+msgstr "Stock"
+
+#. Label for input with upper bound of order price where zone rule is applied
+#: src/segments/zones/atoms/ZoneFormRangePrice.tsx:18
+msgid "to"
+msgstr "jusqu'à  "
+
+#: src/segments/stock/molecules/StockTransferAmountInput.tsx:18
+msgid "to transfer"
+msgstr "pour le transfert"
+
+#: src/segments/login/organisms/PasswordLoginForm.tsx:10
+#: src/segments/login/organisms/PasswordLoginForm.tsx:10
+msgid "username"
+msgstr "nom"
+
+#: src/segments/overview/molecules/StatisticsPrimaryFilter.tsx:24
+msgid "{0, plural, one {Show for one branch} few {Show for # branches} other {Show for # branches}}"
+msgstr "{0, plural, one {Affiche pour une succursale} few {Affiche pour # succursales} other {Affiche pour # succursales}}"
+
+#: src/segments/createorder/molecules/OrderMenuFilter.tsx:30
+msgid "{recipeCount, plural, zero {No recipes found} one {One recipe found, Enter to confirm} few {Found # recipes} other {Found # recipes}}"
+msgstr "{recipeCount, plural, zero {aucune recette trouvée} one {une recette trouvée, pressez Enter pour confirmer} few {# recettes trouvées} other {# recettes trouvées}}"
+
+#: src/atoms/FormInputTextBox.tsx:25
+msgid "{validatioName} is required"
+msgstr "{validatioName} est obligatoire"
+
+#: src/atoms/FormInputFlatSelect.tsx:14
+msgid "{validationName} must have a selection"
+msgstr "{validationName} doit être sélectionné"
+
+#: src/atoms/FormInputFlatSelect.tsx:11
+msgid "{validationName} must have at least option selected"
+msgstr "{validationName} au moins une possibilité doit être sélectionnée "

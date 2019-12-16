@@ -1,0 +1,1635 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2019-12-16 11:09+0100\n"
+"Mime-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: af\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/segments/zones/molecules/ZoneFormContent.tsx:35
+msgid "<0>Delivery cost</0><1>according order total cost</1>"
+msgstr "<0>Afleweringskoste</0><1>volgens totale koste van bestelling</1>"
+
+#: src/segments/createorder/molecules/OrderFormDeliverAt.tsx:22
+msgid "ASAP"
+msgstr "So gou moontlik"
+
+#: src/segments/createorder/molecules/OrderAcceptButton.tsx:10
+#: src/segments/order/molecules/OrderStateButton.tsx:9
+msgid "Accept order"
+msgstr "Aanvaar bestelling"
+
+#: src/segments/businesshours/organisms/SpecificBusinessHourForm.tsx:75
+#: src/segments/menu/atoms/MenuSuggestionPanel.tsx:21
+#: src/segments/menu/atoms/MenuSuggestionPanel.tsx:21
+msgid "Add"
+msgstr "Voeg by"
+
+#: src/segments/zones/molecules/ZoneFormPriceRules.tsx:114
+msgid "Add another range"
+msgstr "Voeg nog 'n reeks by "
+
+#: src/segments/businesshours/molecules/BusinessHoursWeekday.tsx:52
+msgid "Add business hour"
+msgstr "Voeg besigheidsuur by"
+
+#: src/segments/menu/organisms/RecipeIngredientsView.tsx:20
+msgid "Add ingredient"
+msgstr "Voeg bestanddeel by"
+
+#: src/segments/createorder/molecules/OrderSidedishModal.tsx:24
+msgid "Add something else to {0}?"
+msgstr "Voeg nog iets by {0}?"
+
+#: src/segments/businesshours/pages/BusinessHoursPage.tsx:36
+msgid "Add specific business hour"
+msgstr "Voeg spesifieke besigheidsuur by"
+
+#: src/segments/menu/pages/MenuRecipePage.tsx:61
+msgid "Add to category"
+msgstr "Voeg by kategorie"
+
+#: src/segments/stock/molecules/StockDepositConfirmButton.tsx:6
+msgid "Add {0} {1}"
+msgstr "Voeg by {0} {1}"
+
+#: src/segments/createorder/molecules/OrderFormDeliveryAddress.tsx:65
+msgid "Address is not within any delivery zone"
+msgstr "Adres is nie binne afleweringsone"
+
+#: src/segments/createorder/molecules/OrderFormDeliveryAddress.tsx:59
+msgid "Address is within delivery zone"
+msgstr "Adres is binne afleweringsone"
+
+#: src/atoms/SelectControl.tsx:66
+msgid "All"
+msgstr "Alles"
+
+#: src/segments/menu/molecules/RecipeAllergenDisplay.tsx:19
+msgid "Allergens based on stock cards"
+msgstr "Allergene gebaseer op voorraadkaarte"
+
+#: src/segments/stock/molecules/StockTransferTable.tsx:58
+msgid "Amount"
+msgstr "Bedrag"
+
+#: src/pages/ErrorPage.tsx:19
+msgid "Application error"
+msgstr "App-fout"
+
+#: src/segments/settings/pages/UserMenuPage.tsx:12
+msgid "Application language"
+msgstr "App-taal"
+
+#: src/app/UpdateHandler.tsx:111
+msgid "Application will be restarted in {remainingSeconds} to apply available update."
+msgstr "App sal weer begin in {remainingSeconds} om beskikbare bywerking toe te pas."
+
+#: src/segments/overview/molecules/ClosureSubmitButton.tsx:9
+msgid "Are you sure?"
+msgstr "is jy seker?"
+
+#: src/segments/createorder/molecules/OrderFormDeliverAt.tsx:23
+msgid "At time"
+msgstr "Hierdie tyd"
+
+#: src/segments/menu/pages/MenuRecipePage.tsx:52
+msgid "Attach sidedish category"
+msgstr "Heg bygereg-kategorie aan"
+
+#: src/segments/zones/molecules/ZoneFormControls.tsx:18
+msgid "Back"
+msgstr "Terug"
+
+#: src/segments/branchpreferences/pages/BranchPreferencesPage.tsx:10
+#: src/segments/settings/organisms/PreferencesButton.tsx:6
+msgid "Branch preferences"
+msgstr "Tak se voorkeure"
+
+#: src/segments/order/organisms/FastClose.tsx:44
+msgid "Branch will open again {minutesLocalized}."
+msgstr "Tak maak weer oop {minutesLocalized}."
+
+#: src/segments/businesshours/pages/BusinessHoursPage.tsx:14
+#: src/segments/dashboard/pages/SettingsDashboardPage.tsx:12
+msgid "Business hours"
+msgstr "Besigheidsure"
+
+#: src/segments/overview/molecules/SalesStatisticsContent.tsx:40
+msgid "By category"
+msgstr "Per kategorie"
+
+#: src/segments/overview/molecules/SalesStatisticsContent.tsx:52
+msgid "By driver"
+msgstr "Met bestuurder"
+
+#: src/segments/overview/molecules/SalesStatisticsContent.tsx:44
+msgid "By type"
+msgstr "Per tipe"
+
+#: src/segments/overview/molecules/SalesStatisticsContent.tsx:48
+msgid "By zone"
+msgstr "per sone"
+
+#: src/segments/stock/pages/StockTransferPage.tsx:62
+msgid "Can't access page"
+msgstr "Geen toegang tot blad"
+
+#: src/segments/createorder/molecules/OrderSidedishModal.tsx:37
+#: src/segments/menu/molecules/ImageCropModal.tsx:57
+#: src/segments/order/hooks/useTimeSelectionDialog.tsx:17
+#: src/segments/order/organisms/FastClose.tsx:67
+msgid "Cancel"
+msgstr "Kanselleer"
+
+#: src/segments/createorder/molecules/OrderCancelButton.tsx:7
+#: src/segments/order/molecules/OrderCancelButton.tsx:13
+msgid "Cancel order"
+msgstr "Kanselleer bestelling"
+
+#: src/atoms/BaseMap.tsx:41
+msgid "Cannot load map right now. Please try again later."
+msgstr "Kan nie kaart nou laai nie. Probeer asseblief later weer."
+
+#: src/segments/login/models/PasswordLoginModel.ts:59
+msgid "Cannot login right now, please try again later"
+msgstr "Kan nie nou aanmeld, probeer asseblief weer later"
+
+#: src/segments/menu/organisms/StockFormPrimary.tsx:18
+#: src/segments/menu/organisms/StockListTable.tsx:25
+#: src/segments/stock/molecules/StockDepositResultTable.tsx:12
+#: src/segments/stock/molecules/StockTransferTable.tsx:61
+msgid "Card code"
+msgstr "Kaartkode"
+
+#: src/segments/menu/organisms/StockFormPrimary.tsx:17
+#: src/segments/menu/organisms/StockListTable.tsx:26
+#: src/segments/stock/molecules/StockDepositResultTable.tsx:13
+#: src/segments/stock/molecules/StockTransferTable.tsx:62
+msgid "Card name"
+msgstr "Kaartnaam"
+
+#: src/segments/menu/organisms/StockFormPrimary.tsx:21
+#: src/segments/menu/organisms/StockFormPrimary.tsx:21
+#: src/segments/menu/organisms/StockListTable.tsx:29
+#: src/segments/stock/molecules/StockDepositResultTable.tsx:14
+msgid "Card note"
+msgstr "Kaartnota"
+
+#: src/segments/menu/organisms/StockListTable.tsx:27
+#: src/segments/stock/molecules/StockDepositResultTable.tsx:11
+#: src/segments/stock/molecules/StockTransferTable.tsx:60
+msgid "Card stock"
+msgstr "Kaartvoorraad"
+
+#: src/segments/createorder/organisms/OrderCart.tsx:23
+msgid "Cart is empty"
+msgstr "Mandjie is leeg"
+
+#: src/segments/dashboard/pages/SettingsDashboardPage.tsx:16
+msgid "Categories"
+msgstr "Kategorieë"
+
+#: src/segments/menu/pages/MenuRecipePage.tsx:56
+msgid "Category assignments"
+msgstr "Kategorie-toewysings"
+
+#: src/segments/menu/organisms/CategoryFormPrimary.tsx:20
+msgid "Category internal note"
+msgstr "Kategorie- interne nota"
+
+#: src/segments/menu/organisms/CategoryFormPrimary.tsx:19
+msgid "Category name"
+msgstr "Kategorienaam"
+
+#: src/segments/menu/organisms/CategoryFormLoader.tsx:26
+msgid "Category name in default language must be entered."
+msgstr "Kategorienaam in verstektaal moet ingetik word."
+
+#: src/segments/menu/pages/MenuCategoryListPage.tsx:43
+msgid "Category of covers"
+msgstr "Kategorie van verpakking"
+
+#: src/segments/menu/pages/MenuCategoryListPage.tsx:35
+msgid "Category of recipes"
+msgstr "Kategorie van resepte"
+
+#: src/segments/menu/pages/MenuCategoryListPage.tsx:39
+msgid "Category of sidedish"
+msgstr "Kategorie van bygereg"
+
+#: src/segments/menu/pages/MenuCategoryListPage.tsx:22
+msgid "Category overview"
+msgstr "Kategorie-oorsig"
+
+#: src/segments/order/molecules/OrderPaymentMethod.tsx:25
+msgid "Change"
+msgstr "Verander"
+
+#: src/segments/order/organisms/BranchDefaultTime.tsx:57
+msgid "Change default time of delivery to customer (in minutes)"
+msgstr "Verander verstektyd van aflewering aan klant (in minute)"
+
+#: src/segments/order/organisms/BranchDefaultTime.tsx:58
+msgid "Change default time of pickup (in minutes)"
+msgstr "Verander verstektyd van aflewering (in minute)"
+
+#: src/segments/settings/organisms/UserMenuLanguage.tsx:60
+msgid "Change language"
+msgstr "Verander taal"
+
+#: src/segments/branchpreferences/pages/BranchPreferencesPage.tsx:19
+msgid "Change of invoice preferences"
+msgstr "Verandering van faktuurvoorkeure"
+
+#: src/segments/order/molecules/OrderPaymentMethod.tsx:30
+msgid "Change payment method"
+msgstr "Verander betaalmetode"
+
+#: src/segments/order/molecules/OrderDeliveryToPickup.tsx:18
+msgid "Change to pickup"
+msgstr "Verander na self kom haal"
+
+#: src/segments/createorder/molecules/OrderFormBranch.tsx:21
+msgid "Changing branch will cancel current order and remove all items from the cart. Proceed?"
+msgstr "Betalende tak sal huidge bestelling kanselleer en alle items uit die mandjie verwyder. Voortgaan?"
+
+#: src/segments/settings/organisms/UserMenuLanguage.tsx:60
+msgid "Changing language..."
+msgstr "Verander taal…"
+
+#: src/segments/menu/molecules/ImageCropModal.tsx:50
+msgid "Choose the most significant part of the image"
+msgstr "Kies die belangrikste deel van die beeld"
+
+#: src/segments/menu/molecules/StockWareUnitField.tsx:12
+msgid "Choose unit"
+msgstr "Kies eenheid"
+
+#: src/components/ColorSelector.tsx:21
+msgid "Clear"
+msgstr "Maak skoon"
+
+#: src/segments/menu/molecules/RecipeImage.tsx:98
+msgid "Click to select image or drop it here"
+msgstr "Klik om beeld te selekteer of sit dit hier neer"
+
+#: src/app/DefaultErrorHandler.tsx:76
+msgid "Close"
+msgstr "Sluit"
+
+#: src/segments/order/organisms/FastClose.tsx:60
+msgid "Close reason"
+msgstr "Sluit rede"
+
+#: src/segments/businesshours/molecules/BusinessHoursWeekday.tsx:43
+#: src/segments/businesshours/molecules/SpecificBusinessHourLine.tsx:19
+#: src/segments/businesshours/molecules/SpecificModeSelector.tsx:10
+msgid "Closed"
+msgstr "Gesluit"
+
+#: src/segments/businesshours/organisms/SpecificBusinessHourForm.tsx:69
+msgid "Closing reason"
+msgstr "Rede vir sluiting"
+
+#: src/segments/dashboard/pages/StatsDashboardPage.tsx:12
+#: src/segments/overview/pages/ClosurePage.tsx:10
+msgid "Closure"
+msgstr "Sluiting"
+
+#: src/segments/overview/organisms/ClosureStatisticsControl.tsx:39
+msgid "Closure has been created"
+msgstr "Sluiting is geskep"
+
+#: src/segments/overview/molecules/ClosureHistoryButton.tsx:11
+#: src/segments/overview/pages/ClosureHistoryPage.tsx:10
+msgid "Closure history"
+msgstr "Sluitinggeskiedenis"
+
+#: src/segments/createorder/molecules/OrderMenuFilter.tsx:28
+#: src/segments/menu/molecules/MenuCodeInput.tsx:7
+#: src/segments/menu/molecules/RecipeListTable.tsx:25
+#: src/segments/stock/molecules/StockDepositFilterInput.tsx:8
+#: src/segments/stock/pages/StockTransferPage.tsx:51
+msgid "Code"
+msgstr "Kode"
+
+#: src/segments/branchpreferences/organism/StoppageForm.tsx:7
+msgid "Completely stop all orders."
+msgstr "Stop alle bestellings heeltemal."
+
+#: src/segments/dashboard/pages/MainDashboardPage.tsx:22
+#: src/segments/kitchen/pages/KitchenCompletionPage.tsx:15
+msgid "Completion"
+msgstr "Voltooi"
+
+#: src/segments/overview/molecules/ClosureStatisticsContent.tsx:19
+#: src/segments/overview/molecules/OrdersStatisticsSummary.tsx:47
+#: src/segments/overview/molecules/SalesStatisticsContent.tsx:24
+msgid "Computing"
+msgstr "Verwerking"
+
+#: src/segments/createorder/molecules/OrderSidedishModal.tsx:38
+#: src/segments/menu/molecules/ImageCropModal.tsx:60
+msgid "Confirm"
+msgstr "Bevestig"
+
+#: src/segments/stock/molecules/ConfirmTransferButton.tsx:66
+msgid "Confirm import"
+msgstr "Bevestig invoering"
+
+#: src/atoms/SoundControl.tsx:30
+msgid "Confirm to play sounds"
+msgstr "Bevestig om geluide te speel"
+
+#: src/segments/stock/molecules/ConfirmTransferButton.tsx:66
+msgid "Confirm transfer"
+msgstr "Bevestig oorplasing"
+
+#: src/pages/ServiceUnreachablePage.tsx:24
+msgid "Connection to external service is not possible at the moment. Please try again later or <0>contact our support</0>."
+msgstr "Konneksie na eksterne diens is nie tans beskikbaar. Probeer asseblief weer later of <0>kontak ons ondersteuning</0>."
+
+#: src/segments/dashboard/pages/SupportPage.tsx:9
+msgid "Contact support"
+msgstr "Kontak ondersteuning"
+
+#: src/segments/stock/organisms/StockDepositControl.tsx:97
+msgid "Continue typing to find single stock card or select one from the list"
+msgstr "Hou aan tik om enkelvoorraadkaart te vind of kies een op die lys"
+
+#: src/segments/menu/molecules/RecipeListTable.tsx:47
+#: src/segments/menu/molecules/RecipeTypeSelection.tsx:45
+msgid "Cover"
+msgstr "Verpakking"
+
+#: src/segments/menu/menu.labels.ts:7
+msgid "Cover categories"
+msgstr "Verpakkingskategorieë"
+
+#: src/segments/menu/menu.labels.ts:12
+msgid "Cover recipe"
+msgstr "Verpakkingsresep"
+
+#: src/segments/createorder/molecules/OrderCartTotals.tsx:14
+#: src/segments/order/molecules/OrderDetailTotals.tsx:13
+msgid "Covers price"
+msgstr "Verpakkingsprys"
+
+#: src/segments/menu/atoms/MenuSubmitButton.tsx:11
+msgid "Create"
+msgstr "Skep"
+
+#: src/segments/overview/molecules/ClosureSubmitButton.tsx:10
+msgid "Create closure"
+msgstr "Skep sluiting"
+
+#: src/segments/zones/molecules/CreateZoneButton.tsx:47
+msgid "Create delivery zone for branch"
+msgstr "Skep afleweringsone vir tak"
+
+#: src/segments/dashboard/molecules/CreateOrderDashboardButton.tsx:9
+#: src/segments/order/molecules/CreateOrderButton.tsx:12
+msgid "Create order"
+msgstr "Skep bestelling"
+
+#: src/segments/login/routes/PasswordChangeRoute.tsx:60
+msgid "Create password"
+msgstr "Skep wagwoord"
+
+#: src/segments/zones/molecules/CreateZoneButton.tsx:48
+msgid "Create return zone for branch"
+msgstr "Skep terugkeersone vir tak"
+
+#: src/segments/order/molecules/OrderTimeLine.tsx:11
+msgid "Created"
+msgstr "Geskep"
+
+#: src/segments/overview/molecules/ClosureCurrentButton.tsx:11
+msgid "Current closure"
+msgstr "Huidige sluiting"
+
+#: src/segments/createorder/molecules/OrderFormDeliverAt.tsx:34
+msgid "Current estimated delivery time is <0>{deliveryTime} minutes</0>"
+msgstr "Huidige verwagte afleweringstyd is  <0>{deliveryTime} minute</0>"
+
+#: src/segments/createorder/molecules/OrderFormDeliverAt.tsx:39
+msgid "Current estimated pickup time is <0>{pickupTime} minutes</0>"
+msgstr "Huidige verwagte afhaaltyd is <0>{deliveryTime} minute</0>"
+
+#: src/segments/menu/organisms/CategoryRequirementsForm.tsx:32
+msgid "Custom range"
+msgstr "Doelgemaakte reeks"
+
+#: src/segments/customerscreen/pages/CustomerScreenSetupPage.tsx:17
+#: src/segments/dashboard/pages/MainDashboardPage.tsx:23
+msgid "Customer screen"
+msgstr "kliënteskerm"
+
+#: src/segments/overview/molecules/SalesStatisticsContent.tsx:32
+msgid "Daily statistics"
+msgstr "Daaglikse statistiek"
+
+#: src/segments/businesshours/organisms/SpecificBusinessHourForm.tsx:62
+msgid "Date"
+msgstr "Datum"
+
+#: src/atoms/InputDate.tsx:7
+#: src/atoms/InputDateTime.tsx:12
+msgid "Date is too much in the future"
+msgstr "Datum is te ver in die toekoms"
+
+#: src/atoms/InputDate.tsx:7
+#: src/atoms/InputDateTime.tsx:12
+msgid "Date is too much in the past"
+msgstr "Datum is te ver in die verlede"
+
+#: src/segments/order/organisms/BranchDefaultTime.tsx:57
+msgid "Default time of delivery to customer is changed"
+msgstr "Verstektyd van aflewering aan klant is verander"
+
+#: src/segments/order/organisms/BranchDefaultTime.tsx:58
+msgid "Default time of pickup is changed"
+msgstr "Verstektyd van afhaal is verander"
+
+#: src/segments/createorder/molecules/OrderFormDeliveryType.tsx:9
+#: src/segments/createorder/molecules/OrderFormDestination.tsx:9
+msgid "Deliver"
+msgstr "Lewer af"
+
+#: src/segments/kitchen/atoms/KitchenOrderAtSummary.tsx:25
+msgid "Deliver at"
+msgstr "Lewer af by"
+
+#: src/segments/order/molecules/OrderStats.tsx:24
+msgid "Deliver at time"
+msgstr "Lewer af hierdie tyd"
+
+#: src/segments/order/molecules/OrderStats.tsx:32
+msgid "Deliver on time"
+msgstr "Lewer betyds af"
+
+#: src/segments/createorder/molecules/OrderFormDeliveryAddress.tsx:85
+msgid "Deliver to address"
+msgstr "Lewer af by adres"
+
+#: src/segments/kitchen/atoms/KitchenOrderAtSummary.tsx:21
+msgid "Deliver until"
+msgstr "Lewer af tot"
+
+#: src/segments/menu/menu.labels.ts:15
+#: src/segments/menu/molecules/RecipeListTable.tsx:27
+msgid "Delivery sale"
+msgstr "Afleweringsverkoop"
+
+#: src/segments/dashboard/pages/SettingsDashboardPage.tsx:13
+#: src/segments/zones/pages/ZonesOverviewPage.tsx:13
+msgid "Delivery zones"
+msgstr "Afleweringsones"
+
+#: src/segments/createorder/molecules/OrderCartTotals.tsx:15
+#: src/segments/order/molecules/OrderDetailTotals.tsx:14
+msgid "Discount total"
+msgstr "Afslagtotaal"
+
+#: src/segments/createorder/atoms/OrderCancelPrompt.tsx:26
+msgid "Do you really want to cancel order?"
+msgstr "Wil jy regtig die bestelling kanselleer?"
+
+#: src/segments/zones/organisms/ZoneFormPanel.tsx:51
+msgid "Do you want to cancel changes for the zone?"
+msgstr "Wil jy veranderinge vir die sone kanselleer?"
+
+#: src/segments/order/molecules/OrderStats.tsx:41
+msgid "Driver"
+msgstr "Bestuurder"
+
+#: src/segments/order/molecules/OrderMapDeliveries.tsx:50
+msgid "Driver position is unknown"
+msgstr "Bestuurderposisie is onbekend"
+
+#: src/segments/order/organisms/ReturningDrivers.tsx:23
+msgid "Driver {driverName} has reached return zone {zoneName}"
+msgstr "Bestuurder {driverName} is nou by terugkeersone {zoneName}"
+
+#: src/segments/menu/molecules/RecipeImage.tsx:98
+msgid "Drop the image here ..."
+msgstr "Sit die beeld hier neer…"
+
+#: src/segments/createorder/organisms/OrderForm.tsx:55
+msgid "E-mail"
+msgstr "E-pos"
+
+#: src/segments/login/organisms/PasswordResetForm.tsx:29
+msgid "Email to recover your password has been successfully sent."
+msgstr "E-pos om jou wagwoord te herwin is suksesvol gestuur."
+
+#: src/segments/stock/molecules/ImportModeToggle.tsx:12
+msgid "Enable import mode"
+msgstr "Magtig invoermetode"
+
+#: src/segments/menu/organisms/CategoryRequirementsForm.tsx:27
+msgid "Exactly one"
+msgstr "Presies een"
+
+#: src/segments/order/molecules/OrderStateTimeNotification.tsx:34
+msgid "Expected time of delivery was set"
+msgstr "Verwagte afleweringstyd is gestel"
+
+#: src/segments/order/molecules/OrderStateTimeNotification.tsx:35
+msgid "Expected time of pickup was set"
+msgstr "Verwagte afhaaltyd is gestel"
+
+#: src/segments/menu/molecules/MenuIdExternalSystem.tsx:6
+msgid "External ID"
+msgstr "Eksterne ID"
+
+#: src/segments/order/molecules/OrderDetailTotals.tsx:15
+msgid "Extra charge"
+msgstr "Ekstra koste"
+
+#: src/segments/createorder/molecules/OrderFormPromo.tsx:18
+msgid "Failed retrieving available promo codes"
+msgstr "Kon nie beskikbare promo-kodes oproep nie"
+
+#: src/segments/createorder/molecules/OrderFormPaymentMethod.tsx:57
+msgid "Failed to retrieve available payment methods"
+msgstr "Kon nie beskikbare betaalmetodes terugkry nie"
+
+#: src/segments/order/organisms/FastClose.tsx:57
+msgid "Fast close branch (for minutes)"
+msgstr "Vinnige sluiting tak (vir minute)"
+
+#: src/helpers/form.ts:8
+msgid "Field {fieldDescription} cannot be empty"
+msgstr "Veld {fieldDescription} kan nie leeg wees nie"
+
+#: src/helpers/form.ts:11
+msgid "Field {fieldDescription} must be a number"
+msgstr "Veld {fieldDescription} moet 'n syfer wees"
+
+#: src/helpers/form.ts:14
+msgid "Field {fieldDescription} must be a positive number"
+msgstr "Veld {fieldDescription} moet 'n positiewe getal wees"
+
+#: src/segments/kitchen/molecules/KitchenFilters.tsx:86
+msgid "Filter"
+msgstr "Filter"
+
+#: src/components/filters/BranchFilter.tsx:24
+msgid "Filter branch..."
+msgstr "Filter tak…"
+
+#: src/components/filters/BranchesFilter.tsx:16
+#: src/molecules/CompanyBranchDropdown.tsx:21
+msgid "Filter branches..."
+msgstr "Filter takke…"
+
+#: src/components/filters/CashboxesFilter.tsx:12
+msgid "Filter by cashbox"
+msgstr "Filter per kontantkissie"
+
+#: src/components/filters/CashiersFilter.tsx:13
+msgid "Filter by cashier"
+msgstr "Filter per kassier"
+
+#: src/segments/menu/molecules/RecipeCategoryFilter.tsx:34
+msgid "Filter by category"
+msgstr "Filter per kategorie"
+
+#: src/components/filters/CountryFilter.tsx:9
+msgid "Filter by country"
+msgstr "filter volgens land"
+
+#: src/components/filters/DriversFilter.tsx:13
+msgid "Filter by drivers"
+msgstr "Filter per bestuurders"
+
+#: src/segments/menu/molecules/MenuFilterInput.tsx:7
+#: src/segments/stock/molecules/StockStatisticsFilter.tsx:35
+msgid "Filter by name or code"
+msgstr "Filter by naam of kode"
+
+#: src/components/filters/OccasionsFilter.tsx:20
+msgid "Filter by occasions"
+msgstr "Filter per kere"
+
+#: src/components/filters/OriginsFilter.tsx:9
+msgid "Filter by order origins"
+msgstr "Filter per besteloorspronge"
+
+#: src/components/filters/SectorsFilter.tsx:58
+msgid "Filter by sectors"
+msgstr "Filter per sektore"
+
+#: src/segments/order/molecules/OrderStateButton.tsx:11
+msgid "Finish order"
+msgstr "Voltooi bestelling"
+
+#: src/segments/order/molecules/OrderTimeLine.tsx:15
+msgid "Finished"
+msgstr "Voltooi"
+
+#: src/segments/createorder/molecules/OrderFormCustomerName.tsx:22
+msgid "First name"
+msgstr "Voornaam"
+
+#: src/segments/menu/molecules/StockAllowNegativeField.tsx:17
+msgid "Forbid"
+msgstr "Verbied"
+
+#: src/segments/menu/organisms/StockListTable.tsx:36
+#: src/segments/stock/molecules/StockTransferTable.tsx:70
+msgid "Forbidden"
+msgstr "Verbode"
+
+#: src/segments/login/molecules/PasswordResetLink.tsx:10
+msgid "Forgotten password"
+msgstr "Wagwoord vergeet"
+
+#: src/segments/overview/molecules/StatisticsPrimaryFilter.tsx:17
+msgid "From"
+msgstr "Vanaf"
+
+#: src/segments/overview/molecules/ClosureHistoryFilter.tsx:10
+msgid "From date"
+msgstr "Vanaf datum"
+
+#: src/segments/dashboard/pages/SupportPage.tsx:11
+msgid "If you have any questions or technical problems, please contact us by phone:<0/><1><2>+420 774 454 840</2></1><3/>Every day from 9:00 to 22:00"
+msgstr "As jy enige vrae of tegniese probleme het, kontak ons asseblief telefonies:<0/><1><2>+420 774 454 840</2></1><3/>Elke dag van 9:00 tot 22:00"
+
+#: src/segments/stock/molecules/StockTransferTable.tsx:42
+#: src/segments/stock/molecules/StockTransferTable.tsx:59
+msgid "Import"
+msgstr "Voer in"
+
+#: src/segments/createorder/molecules/OrderFormDeliverAt.tsx:24
+msgid "In minutes"
+msgstr "In minute"
+
+#: src/segments/menu/molecules/MenuInternalNoteField.tsx:6
+#: src/segments/menu/molecules/RecipeListTable.tsx:30
+msgid "Internal note"
+msgstr "Interne nota"
+
+#: src/atoms/ConnectionWarning.tsx:33
+msgid "Internet connection is not available"
+msgstr "Internetkonneksie is nie beskikbaar"
+
+#: src/segments/zones/molecules/ZoneFormContent.tsx:32
+msgid "Is active"
+msgstr "Is aktief"
+
+#: src/segments/menu/molecules/StockAllowNegativeField.tsx:27
+msgid "Is default setting"
+msgstr "Is verstekstelling"
+
+#: src/segments/order/molecules/OrderCountLine.tsx:3
+msgid "It's customer's {current, selectordinal, one {#st} two {#nd} few {#rd} other {#th}} order {total, plural, one {} other {from total of # orders}}"
+msgstr "Dit is klant se {current, selectordinal, one {#st} two {#nd} few {#rd} other {#th}} order {total, plural, one {} other {from total of # orders}}"
+
+#: src/segments/dashboard/pages/MainDashboardPage.tsx:21
+#: src/segments/kitchen/pages/KitchenOverviewPage.tsx:30
+msgid "Kitchen"
+msgstr "Kombuis"
+
+#: src/segments/createorder/molecules/OrderFormCustomerName.tsx:25
+msgid "Last name"
+msgstr "Van"
+
+#: src/segments/kitchen/organisms/KitchenCompletionShelf.tsx:25
+#: src/segments/kitchen/organisms/KitchenShelf.tsx:24
+msgid "Loading"
+msgstr "Laai"
+
+#: src/segments/createorder/molecules/OrderSidedishModal.tsx:20
+msgid "Loading sidedishes..."
+msgstr "Laai bygeregte…"
+
+#: src/segments/menu/menu.labels.ts:16
+#: src/segments/menu/molecules/RecipeListTable.tsx:28
+msgid "Local sale"
+msgstr "Plaaslike verkoop"
+
+#: src/segments/login/organisms/PasswordResetForm.tsx:37
+msgid "Login name"
+msgstr "Aanmeld-naam"
+
+#: src/segments/login/pages/PasswordLoginPage.tsx:17
+msgid "Login page"
+msgstr "Aanmeld-bladsy"
+
+#: src/segments/dashboard/pages/MainDashboardPage.tsx:16
+msgid "Main menu"
+msgstr "Hoofkieslys"
+
+#: src/segments/dashboard/pages/MainDashboardPage.tsx:18
+#: src/segments/order/pages/OrderMapPage.tsx:14
+msgid "Map"
+msgstr "Kaart"
+
+#: src/components/AddressSuggest/AddressSuggestMenu.tsx:59
+msgid "Matching to input"
+msgstr "Gevind"
+
+#: src/atoms/PasswordInput.tsx:8
+msgid "Maximal length is {length}"
+msgstr "Maksimum lengte is {length}"
+
+#: src/segments/menu/organisms/CategoryRequirementsForm.tsx:63
+msgid "Maximum"
+msgstr "Maksimum "
+
+#: src/segments/menu/molecules/MenuGuideDownload.tsx:26
+msgid "Menu codes manual"
+msgstr "Kieslyskodes per hand"
+
+#: src/atoms/PasswordInput.tsx:7
+msgid "Minimal length is {length}"
+msgstr "Minimum lengte is {length}"
+
+#: src/segments/createorder/organisms/OrderCart.tsx:33
+msgid "Minimal order price is <0>{minimalPrice}</0>"
+msgstr "Minimum bestelprys is <0>{minimalPrice}</0>"
+
+#: src/segments/zones/molecules/ZoneFormLoader.tsx:27
+#: src/segments/zones/molecules/ZoneFormLoader.tsx:27
+msgid "Minimal price"
+msgstr "Minimum prys"
+
+#: src/segments/menu/organisms/CategoryRequirementsForm.tsx:62
+msgid "Minimum"
+msgstr "Minimum "
+
+#: src/segments/menu/molecules/CategoryListTable.tsx:27
+#: src/segments/menu/molecules/RecipeAssocListTable.tsx:8
+#: src/segments/menu/molecules/RecipeIngredientsTable.tsx:9
+#: src/segments/menu/molecules/RecipeListTable.tsx:26
+#: src/segments/menu/organisms/StockRecipesVIew.tsx:33
+msgid "Name"
+msgstr "Naam"
+
+#: src/segments/menu/molecules/StockAllowNegativeField.tsx:22
+#: src/segments/menu/organisms/StockListTable.tsx:28
+#: src/segments/stock/molecules/StockTransferTable.tsx:63
+msgid "Negative stock"
+msgstr "Negatiewe voorraad"
+
+#: src/segments/createorder/pages/CreateOrderPage.tsx:40
+msgid "New order"
+msgstr "Nuwe bestelling"
+
+#: src/segments/kitchen/pages/KitchenCompletionPage.tsx:28
+#: src/segments/kitchen/pages/KitchenOverviewPage.tsx:43
+msgid "New orders"
+msgstr "Nuwe bestellings"
+
+#: src/segments/overview/molecules/ClosureHistoryTable.tsx:33
+msgid "No closures found"
+msgstr "Geen sluitings gevind"
+
+#: src/components/filters/CountryFilter.tsx:9
+msgid "No countries"
+msgstr "geen lande nie"
+
+#: src/segments/order/atoms/OrderDriverSelect.tsx:33
+msgid "No drivers available"
+msgstr "Geen bestuurders beskikbaar"
+
+#: src/segments/menu/organisms/CategoryRequirementsForm.tsx:12
+msgid "No limitation"
+msgstr "Geen beperking"
+
+#: src/components/AddressSuggest/AddressSuggestItems.tsx:11
+msgid "No match found"
+msgstr "Nie gevind nie"
+
+#: src/segments/kitchen/pages/KitchenCompletionPage.tsx:28
+#: src/segments/kitchen/pages/KitchenOverviewPage.tsx:43
+msgid "No new orders"
+msgstr "Geen nuwe bestellings"
+
+#: src/components/filters/OccasionsFilter.tsx:20
+msgid "No occasions"
+msgstr "Geen kere"
+
+#: src/segments/overview/molecules/OrdersStatisticsList.tsx:87
+msgid "No orders"
+msgstr "Geen bestellings"
+
+#: src/segments/kitchen/pages/KitchenCompletionPage.tsx:32
+msgid "No orders to complete"
+msgstr "Geen bestellings om af te handel"
+
+#: src/segments/kitchen/pages/KitchenOverviewPage.tsx:54
+msgid "No orders to deliver"
+msgstr "Geen bestellings om af te lewer"
+
+#: src/segments/kitchen/pages/KitchenCompletionPage.tsx:39
+msgid "No orders to hand over"
+msgstr "Geen bestellings om te oorhandig"
+
+#: src/segments/kitchen/pages/KitchenOverviewPage.tsx:47
+msgid "No orders to prepare"
+msgstr "Geen bestellings om voor te berei"
+
+#: src/components/filters/OriginsFilter.tsx:9
+msgid "No origins"
+msgstr "Geen oorspronge"
+
+#: src/segments/createorder/molecules/OrderFormPromo.tsx:20
+msgid "No promo codes available"
+msgstr "Geen promo-kodes beskikbaar"
+
+#: src/segments/menu/organisms/StockRecipesVIew.tsx:20
+msgid "No recipes are using stock card"
+msgstr "Geen resepte gebruik voorraadkaart"
+
+#: src/segments/menu/molecules/RecipeListTable.tsx:17
+msgid "No recipes has been found"
+msgstr "Geen resepte is gevind nie"
+
+#: src/segments/menu/molecules/CategoryListTable.tsx:9
+msgid "No recipes in category"
+msgstr "Geen resepte in kategorie"
+
+#: src/components/filters/SectorsFilter.tsx:59
+msgid "No sectors"
+msgstr "Geen sektore"
+
+#: src/segments/businesshours/organisms/SpecificBusinessHours.tsx:36
+msgid "No specific business hours defined"
+msgstr "Geen spesifieke besigheidsure omskryf"
+
+#: src/segments/stock/organisms/StockDepositControl.tsx:101
+msgid "No stock card found from entered search value"
+msgstr "Geen voorraadkaart gevind uit ingetikte soekwaarde"
+
+#: src/segments/stock/molecules/StockDepositConfirmButton.tsx:6
+msgid "No stock card selected"
+msgstr "Geen voorraadkaart gekies"
+
+#: src/segments/menu/atoms/MenuTranslationInput.tsx:54
+msgid "No text is filled"
+msgstr "Geen teks is ingevul nie"
+
+#: src/pages/NotFoundPage.tsx:5
+msgid "Not found"
+msgstr "Nie gevind nie"
+
+#: src/organisms/LogoutWidget.tsx:71
+msgid "Not logged in"
+msgstr "Nie aangeteken nie"
+
+#: src/segments/menu/molecules/RecipeListTable.tsx:39
+#: src/segments/menu/organisms/CategoryRecipesView.tsx:62
+msgid "Not set"
+msgstr "Nie ingestel nie"
+
+#: src/segments/createorder/organisms/OrderForm.tsx:58
+msgid "Note"
+msgstr "Nota"
+
+#: src/segments/zones/atoms/ZoneListSection.tsx:12
+msgid "Notification will be shown when driver enters one of these zones."
+msgstr "Kennisgewing sal gewys word wanneer bestuurder een van hierdie sones binnekom."
+
+#: src/segments/order/molecules/OrderTimeLine.tsx:14
+msgid "On way"
+msgstr "Op pad"
+
+#: src/segments/menu/organisms/CategoryRequirementsForm.tsx:22
+msgid "One at least"
+msgstr "Ten minste een"
+
+#: src/segments/menu/organisms/CategoryRequirementsForm.tsx:17
+msgid "One at most"
+msgstr "Op die meeste een"
+
+#: src/segments/overview/molecules/OrdersStatisticsSummary.tsx:64
+msgid "Online payments"
+msgstr "Aanlynbetalings"
+
+#: src/segments/businesshours/molecules/SpecificBusinessHourLine.tsx:19
+msgid "Open"
+msgstr "Oop"
+
+#: src/segments/businesshours/molecules/SpecificModeSelector.tsx:9
+msgid "Open between"
+msgstr "Oop tussen"
+
+#: src/segments/createorder/hooks/useAcceptOrder.ts:32
+msgid "Order has been accepted"
+msgstr "Bestelling is aanvaar"
+
+#: src/segments/dashboard/pages/MainDashboardPage.tsx:17
+#: src/segments/order/pages/OrderMapPage.tsx:21
+#: src/segments/order/pages/OrderOverviewPage.tsx:31
+msgid "Orders"
+msgstr "Bestellings"
+
+#: src/segments/overview/molecules/OrdersStatisticsSummary.tsx:72
+msgid "Orders count"
+msgstr "Aantal bestellings"
+
+#: src/segments/dashboard/pages/StatsDashboardPage.tsx:10
+#: src/segments/overview/pages/OrdersStatisticsPage.tsx:17
+msgid "Orders statistics"
+msgstr "Bestellingstatistiek"
+
+#: src/segments/kitchen/pages/KitchenCompletionPage.tsx:32
+msgid "Orders to complete"
+msgstr "Bestellings om te voltooi"
+
+#: src/segments/kitchen/pages/KitchenOverviewPage.tsx:54
+msgid "Orders to deliver"
+msgstr "Bestellings om af te lewer"
+
+#: src/segments/kitchen/pages/KitchenCompletionPage.tsx:39
+msgid "Orders to hand over"
+msgstr "Bestellings om te oorhandig"
+
+#: src/segments/kitchen/pages/KitchenOverviewPage.tsx:47
+msgid "Orders to prepare"
+msgstr "Bestellings om voor te berei"
+
+#: src/app/DefaultErrorHandler.tsx:11
+msgid "Our team was notified about the issue."
+msgstr "Ons span is van die probleem in kennis gestel."
+
+#: src/segments/dashboard/pages/MainDashboardPage.tsx:26
+#: src/segments/overview/routes/OverviewRouting.tsx:14
+msgid "Overview"
+msgstr "Oorsig"
+
+#: src/segments/menu/molecules/StockPluField.tsx:9
+#: src/segments/stock/molecules/StockDepositFilterInput.tsx:8
+#: src/segments/stock/pages/StockTransferPage.tsx:51
+msgid "PLU"
+msgstr "PLU"
+
+#: src/segments/order/molecules/OrderTicker.tsx:121
+msgid "Paid"
+msgstr "Betaal"
+
+#: src/segments/login/routes/PasswordChangeRoute.tsx:45
+msgid "Password has been updated."
+msgstr "Wagwoord is bygewerk"
+
+#: src/segments/login/organisms/PasswordChangeForm.tsx:49
+msgid "Password is invalid due to following errors:"
+msgstr "Wagwoord is ongeldig weens die volgende foute:"
+
+#: src/segments/login/pages/PasswordResetPage.tsx:10
+#: src/segments/login/routes/PasswordChangeRoute.tsx:63
+msgid "Password recovery"
+msgstr "Wagwoord-herwinning"
+
+#: src/segments/menu/molecules/StockAllowNegativeField.tsx:13
+msgid "Permit"
+msgstr "Laat toe"
+
+#: src/segments/menu/organisms/StockListTable.tsx:36
+#: src/segments/stock/molecules/StockTransferTable.tsx:70
+msgid "Permitted"
+msgstr "Toegelaat"
+
+#: src/segments/createorder/molecules/OrderFormDeliveryType.tsx:13
+#: src/segments/createorder/molecules/OrderFormDestination.tsx:13
+msgid "Personal pickup"
+msgstr "Persoonlik kom haal"
+
+#: src/segments/kitchen/atoms/KitchenOrderAtSummary.tsx:29
+msgid "Personal pickup at"
+msgstr "Persoonlike afhaal"
+
+#: src/segments/createorder/molecules/OrderFormPhone.tsx:18
+#: src/segments/createorder/molecules/OrderFormPhone.tsx:18
+msgid "Phone"
+msgstr "Telefoon"
+
+#: src/segments/createorder/molecules/OrderFormPhone.tsx:18
+msgid "Phone number is required"
+msgstr "Telefoonnommer word vereis"
+
+#: src/segments/createorder/molecules/OrderFormPhone.tsx:15
+msgid "Phone prefix"
+msgstr "Foonprefiks"
+
+#: src/segments/createorder/molecules/OrderFormPhone.tsx:15
+msgid "Phone prefix is required"
+msgstr "Foonprefiks word vereis"
+
+#: src/app/UpdateHandler.tsx:113
+msgid "Postpone update"
+msgstr "Werk later by"
+
+#: src/segments/customerscreen/pages/CustomerScreenPage.tsx:13
+#: src/segments/order/molecules/OrderTimeLine.tsx:12
+msgid "Preparing"
+msgstr "Word voorberei"
+
+#: src/components/AddressSuggest/AddressSuggestMenu.tsx:55
+msgid "Previous addresses"
+msgstr "Vorige adresse"
+
+#: src/segments/customerscreen/molecules/MarqueeNumberStack.tsx:49
+msgid "Previous:"
+msgstr "vorige"
+
+#: src/segments/menu/molecules/RecipeAssocListTable.tsx:9
+msgid "Price"
+msgstr "Prys"
+
+#: src/segments/createorder/molecules/OrderFormPromo.tsx:20
+msgid "Promo codes"
+msgstr "Promo-kodes"
+
+#: src/segments/menu/molecules/RecipeDescriptionInput.tsx:7
+msgid "Public note"
+msgstr "Openbare nota"
+
+#: src/segments/menu/molecules/RecipeDescriptionInput.tsx:8
+msgid "Public note for customers, allergens"
+msgstr "Openbare nota vir klante, allergene"
+
+#: src/segments/menu/molecules/RecipeIngredientsTable.tsx:10
+msgid "Quantity"
+msgstr "Hoeveelheid"
+
+#: src/segments/customerscreen/pages/CustomerScreenPage.tsx:16
+msgid "Ready"
+msgstr "gereed"
+
+#: src/segments/order/molecules/OrderStateButton.tsx:10
+#: src/segments/order/molecules/OrderTimeLine.tsx:13
+msgid "Ready to deliver"
+msgstr "Gereed om af te lewer"
+
+#: src/segments/order/molecules/OrderCancelButton.tsx:10
+msgid "Really cancel?"
+msgstr "Regtig kanselleer?"
+
+#: src/segments/order/molecules/OrderDeliveryToPickup.tsx:15
+msgid "Really change?"
+msgstr "Regtig verander?"
+
+#: src/segments/businesshours/molecules/SpecificBusinessHourLine.tsx:10
+msgid "Really remove specific business hour {0}?"
+msgstr "Regtig spesifieke besigheidsuur verwyder {0}?"
+
+#: src/segments/menu/organisms/RecipeFormLoader.tsx:33
+#: src/segments/menu/organisms/RecipeFormPrimary.tsx:22
+msgid "Recipe code"
+msgstr "Resepkode"
+
+#: src/segments/menu/molecules/CategoryListTable.tsx:28
+msgid "Recipe count"
+msgstr "Reseptelling"
+
+#: src/segments/menu/molecules/RecipeIngredientsTable.tsx:7
+msgid "Recipe has no ingredients"
+msgstr "Resep het geen bestanddele"
+
+#: src/segments/menu/pages/MenuRecipePage.tsx:52
+msgid "Recipe has no sidedish category attached"
+msgstr "Resep het geen bygereg-kategorie aangeheg"
+
+#: src/segments/menu/pages/MenuRecipePage.tsx:39
+msgid "Recipe ingredients"
+msgstr "Resepbestanddele"
+
+#: src/segments/menu/organisms/RecipeFormPrimary.tsx:27
+msgid "Recipe internal note"
+msgstr "Resep- interna nota"
+
+#: src/segments/menu/pages/MenuRecipePage.tsx:59
+msgid "Recipe is in these categories"
+msgstr "Resep is in hierdie kategorieë"
+
+#: src/segments/menu/pages/MenuRecipePage.tsx:61
+msgid "Recipe is not in any category"
+msgstr "Resep is nie in enige kategorie"
+
+#: src/segments/menu/organisms/RecipeFormPrimary.tsx:23
+msgid "Recipe name"
+msgstr "Resepnaam"
+
+#: src/segments/menu/organisms/RecipeFormLoader.tsx:32
+msgid "Recipe name in default language"
+msgstr "Resepnaam in verstektaal"
+
+#: src/segments/menu/pages/MenuRecipeListPage.tsx:30
+msgid "Recipe overview"
+msgstr "Resepoorsig"
+
+#: src/segments/menu/organisms/RecipeFormLoader.tsx:36
+msgid "Recipe price for {priceType}"
+msgstr "Resepprys vir {priceType}"
+
+#: src/segments/dashboard/pages/SettingsDashboardPage.tsx:15
+#: src/segments/menu/molecules/CategoryListTable.tsx:28
+msgid "Recipes"
+msgstr "Resepte"
+
+#: src/segments/menu/pages/MenuCategoryPage.tsx:60
+msgid "Recipes assigned to this category"
+msgstr "Resepte toegewys in hierdie kategorie?"
+
+#: src/segments/menu/organisms/StockRecipesVIew.tsx:25
+msgid "Recipes using this card"
+msgstr "Resepte met gebruik van hierdie kaart"
+
+#: src/segments/login/organisms/PasswordResetForm.tsx:41
+msgid "Recover password"
+msgstr "Herwin wagwoord"
+
+#: src/segments/businesshours/pages/BusinessHoursPage.tsx:20
+msgid "Regular business hours"
+msgstr "Gewone besigheidsure"
+
+#: src/segments/businesshours/organisms/BusinessHoursForm.tsx:91
+msgid "Regular business hours has been updated"
+msgstr "Gewone besigheidsure is bygewerk"
+
+#: src/segments/businesshours/molecules/BusinessHoursWeekday.tsx:33
+msgid "Remove business hour"
+msgstr "Verwyder besigheidsuur"
+
+#: src/segments/zones/molecules/ZoneFormPriceRules.tsx:117
+msgid "Remove price range"
+msgstr "Verwyder prysreeks"
+
+#: src/segments/menu/organisms/StockFormPrimary.tsx:24
+msgid "Remove this card?"
+msgstr "Verwyder hierdie kaart?"
+
+#: src/segments/menu/organisms/CategoryFormPrimary.tsx:28
+msgid "Remove this category?"
+msgstr "Verwyder hierdie kategorie?"
+
+#: src/segments/menu/organisms/RecipeFormPrimary.tsx:35
+msgid "Remove this recipe?"
+msgstr "Verwyder hierdie resep?"
+
+#: src/segments/zones/organisms/ZoneFormPanel.tsx:46
+msgid "Remove zone {0}?"
+msgstr "Verwyder sone  {0}?"
+
+#: src/segments/login/routes/PasswordChangeRoute.tsx:34
+#: src/segments/login/routes/PasswordChangeRoute.tsx:49
+msgid "Request for password update is invalid. Please try again."
+msgstr "Versoek om wagwoord by te werk is ongeldig. Probeer asseblief weer."
+
+#: src/segments/menu/pages/MenuCategoryPage.tsx:51
+msgid "Required amounts of recipes to be picked"
+msgstr "Vereiste aantal resepte wat gekies moet word"
+
+#: src/atoms/PasswordInput.tsx:9
+msgid "Requires at least one digit"
+msgstr "Vereis ten minste een syfer"
+
+#: src/atoms/PasswordInput.tsx:10
+msgid "Requires at least one uppercase character"
+msgstr "Vereis ten minste een hoofletter"
+
+#: src/pages/ErrorPage.tsx:40
+msgid "Restart application"
+msgstr "Begin app weer"
+
+#: src/app/UpdateHandler.tsx:116
+msgid "Restart now"
+msgstr "Begin nou weer"
+
+#: src/pages/ServiceUnreachablePage.tsx:36
+msgid "Retry the connection"
+msgstr "Probeer weer die konneksie"
+
+#: src/segments/dashboard/pages/StatsDashboardPage.tsx:11
+#: src/segments/overview/pages/SalesStatisticsPage.tsx:17
+msgid "Sales statistics"
+msgstr "Verkoopstatistiek"
+
+#: src/segments/menu/atoms/MenuSubmitButton.tsx:11
+msgid "Save"
+msgstr "Stoor"
+
+#: src/segments/branchpreferences/organism/SaveInvoicePreferencesButton.tsx:5
+msgid "Save invoice preferences"
+msgstr "Stoor faktuurvoorkeure"
+
+#: src/segments/businesshours/organisms/BusinessHoursForm.tsx:102
+msgid "Save regular hours"
+msgstr "Stoor gereelde ure"
+
+#: src/segments/zones/molecules/ZoneFormControls.tsx:23
+msgid "Save zone"
+msgstr "Stoor sone"
+
+#: src/components/AddressSuggest/DiscoverSuggestions.tsx:28
+msgid "Searching..."
+msgstr "Soek…"
+
+#: src/molecules/CompanyBranchDropdown.tsx:21
+#: src/segments/kitchen/organisms/KitchenCompletionShelf.tsx:20
+#: src/segments/kitchen/organisms/KitchenShelf.tsx:19
+#: src/segments/overview/molecules/ClosureHistoryTable.tsx:28
+#: src/segments/overview/molecules/ClosureStatisticsContent.tsx:16
+msgid "Select a branch"
+msgstr "Kies 'n tak"
+
+#: src/segments/order/molecules/FastCloseButton.tsx:20
+msgid "Select a single branch for closing"
+msgstr "Kies 'n enkele tak vir sluiting"
+
+#: src/segments/order/organisms/BranchDefaultTime.tsx:41
+msgid "Select a single branch to set delivery time"
+msgstr "Kies 'n enkele tak om afleweringstyd te stel"
+
+#: src/segments/order/organisms/OrderList.tsx:19
+msgid "Select at least one branch"
+msgstr "Kies ten minste een tak"
+
+#: src/segments/zones/molecules/CreateZoneButton.tsx:56
+msgid "Select branch to create zone"
+msgstr "Kies die tak om sone te skep"
+
+#: src/molecules/CompanyBrandDropdown.tsx:25
+msgid "Select brand"
+msgstr "Kies handelsnaam"
+
+#: src/segments/zones/molecules/ZoneList.tsx:21
+msgid "Select brand to see its zones"
+msgstr "Kies handelsnaam om sy sones te sien"
+
+#: src/segments/menu/molecules/RecipeTypeSelection.tsx:33
+msgid "Select item type"
+msgstr "Kies itemtipe"
+
+#: src/segments/menu/organisms/StockListTable.tsx:22
+#: src/segments/stock/molecules/StockTransferTable.tsx:56
+msgid "Selected branch has no stock cards"
+msgstr "Gekose tak het geen voorraadkaarte"
+
+#: src/segments/order/molecules/OrderStateTimeNotification.tsx:26
+msgid "Send expected time of delivery to customer (in minutes)"
+msgstr "Stuur verwagte tyd van aflewering na klant (in minute)"
+
+#: src/segments/order/molecules/OrderStateTimeNotification.tsx:27
+msgid "Send expected time of pickup to customer (in minutes)"
+msgstr "Stuur verwagte tyd van afhaal na klant (in minute)"
+
+#: src/pages/ErrorPage.tsx:34
+msgid "Send feedback"
+msgstr "Stuur terugvoer"
+
+#: src/pages/ServiceUnreachablePage.tsx:21
+msgid "Service unreachable"
+msgstr "Diens onbereikbaar"
+
+#: src/segments/zones/organisms/ZoneMenuPanel.tsx:49
+msgid "Service zones"
+msgstr "Dienssones"
+
+#: src/segments/login/routes/PasswordChangeRoute.tsx:59
+msgid "Set up password"
+msgstr "Stel wagwoord op"
+
+#: src/segments/dashboard/pages/MainDashboardPage.tsx:25
+#: src/segments/dashboard/pages/SettingsDashboardPage.tsx:11
+msgid "Settings"
+msgstr "Stellings"
+
+#: src/segments/customerscreen/pages/CustomerScreenSetupPage.tsx:25
+msgid "Show customer screen"
+msgstr "wys kliënteskerm"
+
+#: src/segments/overview/molecules/ClosureHistoryFilter.tsx:17
+msgid "Show history for branch"
+msgstr "Vertoon geskiedenis vir tak"
+
+#: src/segments/menu/molecules/RecipeListTable.tsx:44
+#: src/segments/menu/molecules/RecipeTypeSelection.tsx:42
+msgid "Sidedish"
+msgstr "Bygereg"
+
+#: src/segments/menu/menu.labels.ts:6
+#: src/segments/menu/pages/MenuRecipePage.tsx:47
+msgid "Sidedish categories"
+msgstr "Bygereg-kategorieë"
+
+#: src/segments/menu/menu.labels.ts:11
+msgid "Sidedish recipe"
+msgstr "Bygereg-resep"
+
+#: src/segments/login/organisms/PasswordLoginForm.tsx:16
+msgid "Sign-in"
+msgstr "Teken aan"
+
+#: src/segments/businesshours/pages/BusinessHoursPage.tsx:28
+msgid "Specific business hours"
+msgstr "Spesifieke besigheidsure"
+
+#: src/components/AddressSuggest/DiscoverSuggestions.tsx:23
+msgid "Start typing to search for an address"
+msgstr "Begin tik om vir 'n adres te soek"
+
+#: src/segments/dashboard/pages/MainDashboardPage.tsx:24
+#: src/segments/dashboard/pages/StockDashboardPage.tsx:8
+msgid "Stock"
+msgstr "Voorraad"
+
+#: src/segments/menu/pages/MenuStockPage.tsx:15
+#: src/segments/stock/molecules/StockDepositFilterInput.tsx:5
+msgid "Stock card"
+msgstr "Voorraadkaart"
+
+#: src/segments/stock/organisms/StockDepositControl.tsx:102
+msgid "Stock card <0>{0}</0> is selected"
+msgstr "Voorraadkaart <0>{0}</0> is gekies"
+
+#: src/segments/dashboard/pages/StockDashboardPage.tsx:10
+#: src/segments/stock/pages/StockDepositPage.tsx:8
+msgid "Stock deposit"
+msgstr "Voorraaddeposito"
+
+#: src/segments/dashboard/pages/SettingsDashboardPage.tsx:17
+#: src/segments/dashboard/pages/StockDashboardPage.tsx:9
+#: src/segments/menu/pages/MenuStockListPage.tsx:17
+msgid "Stock overview"
+msgstr "Voorraad-oorsig"
+
+#: src/segments/dashboard/pages/StatsDashboardPage.tsx:13
+#: src/segments/dashboard/pages/StockDashboardPage.tsx:12
+#: src/segments/stock/pages/StockStatisticsPage.tsx:9
+msgid "Stock statistics"
+msgstr "Voorraadstatistiek"
+
+#: src/segments/dashboard/pages/StockDashboardPage.tsx:11
+#: src/segments/stock/molecules/MenuStockTransferButton.tsx:6
+#: src/segments/stock/pages/StockTransferPage.tsx:36
+msgid "Stock transfer"
+msgstr "Voorraadoorplasing"
+
+#: src/segments/menu/molecules/RecipeImage.tsx:69
+msgid "Supplied file is not recognized as image."
+msgstr "Lêer verskaf word nie as beeld herken nie."
+
+#: src/segments/dashboard/pages/MainDashboardPage.tsx:27
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: src/atoms/DataTable.tsx:83
+msgid "Table is empty"
+msgstr "Tabel is leeg"
+
+#: src/pages/NotFoundPage.tsx:6
+msgid "There is nothing here, sorry!"
+msgstr "Daar is niks hier nie, jammer!"
+
+#: src/segments/menu/pages/MenuRecipePage.tsx:50
+msgid "These sidedish are presented with recipe"
+msgstr "Hierdie bygeregte word saam met resep aangegee"
+
+#: src/segments/order/molecules/OrderDetailTotals.tsx:11
+msgid "Tips"
+msgstr "Fooitjies"
+
+#: src/segments/createorder/molecules/OrderMenuFilter.tsx:28
+#: src/segments/stock/molecules/StockDepositFilterInput.tsx:8
+#: src/segments/stock/pages/StockTransferPage.tsx:51
+msgid "Title"
+msgstr "Titel"
+
+#: src/segments/overview/molecules/StatisticsPrimaryFilter.tsx:20
+msgid "To"
+msgstr "Na"
+
+#: src/segments/overview/molecules/ClosureHistoryFilter.tsx:13
+msgid "To date"
+msgstr "Tot op datum"
+
+#: src/segments/kitchen/molecules/KitchenCardOrder.tsx:73
+#: src/segments/order/molecules/OrderTicker.tsx:90
+msgid "To pickup"
+msgstr "Word self afgehaal"
+
+#: src/segments/menu/organisms/CategoryFormPrimary.tsx:23
+msgid "To show this category"
+msgstr "Om hierdie kategorie te wys"
+
+#: src/segments/menu/organisms/RecipeFormPrimary.tsx:33
+msgid "To show this recipe"
+msgstr "Om hierdie resep te wys"
+
+#: src/segments/overview/molecules/OrdersStatisticsSummary.tsx:80
+msgid "Total commissions"
+msgstr "Totale kommissies"
+
+#: src/segments/createorder/molecules/OrderCartTotals.tsx:11
+#: src/segments/order/molecules/OrderDetailTotals.tsx:16
+msgid "Total price"
+msgstr "Totale prys"
+
+#: src/segments/overview/molecules/OrdersStatisticsSummary.tsx:56
+msgid "Total turnover"
+msgstr "Totale omset"
+
+#: src/segments/order/molecules/OrderTransferToBranch.tsx:22
+msgid "Transfer"
+msgstr "Plaas oor"
+
+#: src/segments/order/molecules/OrderTransferToBranch.tsx:25
+msgid "Transfer to branch"
+msgstr "Dra oor na tak"
+
+#: src/segments/stock/molecules/ConfirmTransferButton.tsx:55
+msgid "Transfer was successfully completed!"
+msgstr "Oorplasing is suksesvol voltooi!"
+
+#: src/segments/createorder/molecules/OrderCartTotals.tsx:13
+#: src/segments/order/molecules/OrderDetailTotals.tsx:12
+msgid "Transport fee"
+msgstr "Vervoerkoste"
+
+#: src/segments/menu/molecules/RecipeListTable.tsx:24
+msgid "Type"
+msgstr "Tipe"
+
+#: src/app/DefaultErrorHandler.tsx:77
+msgid "Unexpected error in the app"
+msgstr "Onverwagte fout in die app"
+
+#: src/app/DefaultErrorHandler.tsx:45
+msgid "Unexpected error occured in communication with service."
+msgstr "Daar was 'n onverwagte fout in kommunikasie met die diens."
+
+#: src/app/DefaultErrorHandler.tsx:50
+msgid "Unexpected error occured while sending a request."
+msgstr "Daar was 'n onverwagte fout terwyl 'n versoek gestuur is."
+
+#: src/segments/login/organisms/PasswordResetForm.tsx:67
+#: src/segments/login/organisms/PasswordResetForm.tsx:67
+msgid "Unknown error while requesting password recovery"
+msgstr "Onbekende fout terwyl wagwoordherwinning aangevra"
+
+#: src/segments/menu/molecules/CategoryRequirementControl.tsx:58
+msgid "Unlimited"
+msgstr "Onbeperk"
+
+#: src/segments/login/routes/PasswordChangeRoute.tsx:64
+msgid "Update password"
+msgstr "Werk wagwoord by"
+
+#: src/segments/dashboard/pages/SettingsDashboardPage.tsx:14
+#: src/segments/settings/pages/UserMenuPage.tsx:9
+msgid "User"
+msgstr "Gebruiker"
+
+#: src/segments/menu/molecules/RecipeVatSelectField.tsx:13
+msgid "VAT"
+msgstr "BTW"
+
+#: src/segments/overview/molecules/SalesStatisticsContent.tsx:36
+msgid "VAT overview"
+msgstr "BTW-oorsig"
+
+#: src/atoms/FormInputFlatSelect.tsx:7
+msgid "Value"
+msgstr "Waarde"
+
+#: src/segments/menu/molecules/RecipeListTable.tsx:49
+#: src/segments/menu/molecules/RecipeTypeSelection.tsx:38
+msgid "Ware"
+msgstr "Artikel"
+
+#: src/segments/menu/menu.labels.ts:5
+msgid "Ware categories"
+msgstr "Artikelkategorieë"
+
+#: src/segments/menu/menu.labels.ts:10
+msgid "Ware recipe"
+msgstr "Artikelresep"
+
+#: src/segments/menu/molecules/RecipeIngredientsTable.tsx:13
+msgid "Ware unit"
+msgstr "Artikeleenheid"
+
+#: src/segments/order/organisms/FastClose.tsx:60
+msgid "We are closed at the moment"
+msgstr "Ons is tans toe"
+
+#: src/segments/branchpreferences/organism/StoppageForm.tsx:5
+msgid "We are not delivering, only take away."
+msgstr "Ons lewer nie af nie, slegs wegneem."
+
+#: src/pages/ErrorPage.tsx:22
+msgid "We are sorry, but there is an unexpected problem in the app. Our team was notified and will fix this soon."
+msgstr "Jammer, maar daar is 'n onverwagte probleem in die app. On span weet daarvan en sal dit binnekort regstel."
+
+#: src/segments/order/molecules/NoteLine.tsx:15
+msgid "Without note"
+msgstr "Sonder nota"
+
+#: src/atoms/SoundControl.tsx:21
+msgid "You have enabled sounds before. Due to technical restrictions, you need to click on the button below for sounds to be able to play. You can disable sounds with green button in top right corner."
+msgstr "Jy het voorheen geluide gespeel. Weens tegniese beperkings moet jy op die knoppie onder klik sodat geluide kan speel. Jy kan geluide afsit met die groen knoppie regs bo in die hoek."
+
+#: src/segments/zones/molecules/CreateZoneButton.tsx:42
+msgid "Zone has been created"
+msgstr "Sone is geskep"
+
+#: src/segments/zones/molecules/ZoneFormLoader.tsx:39
+msgid "Zone has been updated"
+msgstr "Sone is bygewerk"
+
+#: src/segments/zones/atoms/ZoneFormRuleInputs.tsx:12
+msgid "Zone price rules cannot have empty values."
+msgstr "Soneprysreëls kan nie leë waardes hê nie."
+
+#: src/segments/branchpreferences/pages/BranchPreferencesPage.tsx:14
+msgid "branch.preferences.stoppage"
+msgstr "Onderbreking"
+
+#: src/segments/menu/molecules/CategoryOriginsField.tsx:10
+msgid "cat. origins"
+msgstr "kat. oorspronge"
+
+#. Label for input with transport fee used when zone rule applies
+#: src/segments/zones/atoms/ZoneFormForPrice.tsx:16
+msgid "for"
+msgstr "vir"
+
+#. Label for input with lower bound of order price where zone rule is applied
+#: src/segments/zones/atoms/ZoneFormRangePrice.tsx:16
+msgid "from"
+msgstr "van"
+
+#: src/components/forms/FormInputTimeSpan.tsx:11
+#: src/segments/businesshours/atoms/BusinessHoursTimeRange.tsx:13
+msgid "input.timespan.from"
+msgstr "vanaf"
+
+#: src/components/forms/FormInputTimeSpan.tsx:14
+#: src/segments/businesshours/atoms/BusinessHoursTimeRange.tsx:14
+msgid "input.timespan.to"
+msgstr "na"
+
+#: src/segments/login/organisms/PasswordChangeForm.tsx:33
+msgid "new password"
+msgstr "nuwe wagwoord"
+
+#: src/atoms/SelectControlFlat.tsx:88
+msgid "optionselector.clear-filter"
+msgstr "Alles"
+
+#: src/segments/login/organisms/PasswordLoginForm.tsx:12
+#: src/segments/login/organisms/PasswordLoginForm.tsx:12
+msgid "password"
+msgstr "wagwoord"
+
+#: src/segments/menu/molecules/RecipeListTable.tsx:29
+msgid "recipe.list.availableAmount"
+msgstr "Voorraad"
+
+#. Label for input with upper bound of order price where zone rule is applied
+#: src/segments/zones/atoms/ZoneFormRangePrice.tsx:18
+msgid "to"
+msgstr "na"
+
+#: src/segments/stock/molecules/StockTransferAmountInput.tsx:18
+msgid "to transfer"
+msgstr "om oor te plaas"
+
+#: src/segments/login/organisms/PasswordLoginForm.tsx:10
+#: src/segments/login/organisms/PasswordLoginForm.tsx:10
+msgid "username"
+msgstr "gebruikernaam"
+
+#: src/segments/overview/molecules/StatisticsPrimaryFilter.tsx:24
+msgid "{0, plural, one {Show for one branch} few {Show for # branches} other {Show for # branches}}"
+msgstr "{0, plural, one {Wys vir een tak} few {Show for # branches} other {Wys vir # takke}}"
+
+#: src/segments/createorder/molecules/OrderMenuFilter.tsx:30
+msgid "{recipeCount, plural, zero {No recipes found} one {One recipe found, Enter to confirm} few {Found # recipes} other {Found # recipes}}"
+msgstr "{recipeCount, plural, zero {Geen resepte gevind} one {Een resep gevind, voer in om te bevestig} few {# reseptegevind} other {# resepte gevind}}"
+
+#: src/atoms/FormInputTextBox.tsx:25
+msgid "{validatioName} is required"
+msgstr "{validatioName} word vereis"
+
+#: src/atoms/FormInputFlatSelect.tsx:14
+msgid "{validationName} must have a selection"
+msgstr "{validationName} moet 'n keuse hê"
+
+#: src/atoms/FormInputFlatSelect.tsx:11
+msgid "{validationName} must have at least option selected"
+msgstr "{validationName} moet ten minste opsie-keuse hê"
